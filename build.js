@@ -50,6 +50,16 @@ function readTemplate(name) {
   return fs.readFileSync(path.join(TEMPLATE_DIR, name), 'utf-8');
 }
 
+/** Parse a date string only if it contains a year; returns null for "Mon DD" formats. */
+function parseDateSafe(dateStr) {
+  const s = String(dateStr).trim();
+  // "Mar 26", "Jan 11" etc. — no year, don't parse
+  if (/^[A-Z][a-z]{2}\s+\d{1,2}$/.test(s)) return null;
+  const d = new Date(s);
+  if (isNaN(d) || d.getUTCFullYear() <= 2001) return null;
+  return d;
+}
+
 /** Parse all markdown files in a category folder. */
 function loadCategory(category) {
   const dir = path.join(CONTENT_DIR, category);
@@ -65,7 +75,7 @@ function loadCategory(category) {
         slug,
         category,
         title: data.title || slug,
-        date: data.date ? new Date(data.date) : null,
+        date: data.date ? parseDateSafe(data.date) : null,
         dateDisplay: data.date || '',
         subcategory: data.subcategory || null,
         description: data.description || null,
@@ -86,8 +96,14 @@ function loadCategory(category) {
 /** Format a date as "Mon YYYY" for display. */
 function formatDate(dateStr) {
   if (!dateStr) return '';
-  const d = new Date(dateStr);
-  if (isNaN(d)) return dateStr;
+  const s = String(dateStr).trim();
+  // If the date is just "Mon DD" (no year), return it as-is rather than letting
+  // Date parse it into year 2001.
+  if (/^[A-Z][a-z]{2}\s+\d{1,2}$/.test(s)) return s;
+  const d = new Date(s);
+  if (isNaN(d)) return s;
+  // Avoid displaying year 2001 for dates that were clearly mis-parsed
+  if (d.getUTCFullYear() <= 2001) return s;
   const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
                    'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
   return `${months[d.getUTCMonth()]} ${d.getUTCFullYear()}`;
