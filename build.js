@@ -93,8 +93,8 @@ function formatDate(dateStr) {
   return `${months[d.getUTCMonth()]} ${d.getUTCFullYear()}`;
 }
 
-/** The <head> block shared by all pages. */
-function htmlHead(title) {
+/** The <head> block shared by all pages. pathPrefix is '' for root, '../' for subdirs. */
+function htmlHead(title, pathPrefix = '') {
   return `<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -104,7 +104,7 @@ function htmlHead(title) {
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="${pathPrefix}style.css">
     <link rel="alternate" type="application/rss+xml" title="${SITE_TITLE}" href="${SITE_URL}/feed.xml">
 </head>`;
 }
@@ -207,7 +207,7 @@ function buildArticlePage(post) {
   if (!post.html || post.external) return; // skip external-only entries
 
   const categoryConfig = CATEGORIES[post.category];
-  const html = `${htmlHead(`${post.title} — ${SITE_TITLE}`)}
+  const html = `${htmlHead(`${post.title} — ${SITE_TITLE}`, '../')}
 <body>
     <main>
         <a href="../${post.category}.html" class="back">← ${categoryConfig.title}</a>
