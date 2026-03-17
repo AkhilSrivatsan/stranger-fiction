@@ -7,7 +7,7 @@ const { marked } = require('marked');
 // Config
 // ---------------------------------------------------------------------------
 const SITE_TITLE = 'Akhil Srivatsan';
-const SITE_URL = 'https://stranger-fiction.com';
+const SITE_URL = 'https://akhilsrivatsan.com';
 const SITE_DESCRIPTION = 'Writer, musician, international Mumbaikar.';
 const CONTENT_DIR = path.join(__dirname, 'content');
 const TEMPLATE_DIR = path.join(__dirname, 'templates');
@@ -302,7 +302,7 @@ function build() {
   fs.copyFileSync(path.join(__dirname, 'style.css'), path.join(OUT_DIR, 'style.css'));
 
   // CNAME for GitHub Pages custom domain
-  fs.writeFileSync(path.join(OUT_DIR, 'CNAME'), 'stranger-fiction.com\n');
+  fs.writeFileSync(path.join(OUT_DIR, 'CNAME'), 'akhilsrivatsan.com\n');
 
   // Build index
   buildIndex();
