@@ -1,0 +1,371 @@
+---
+title: "A reading of Mood Machine by Liz Pelly"
+---
+
+This is not a review of *Mood Machine* – *the Rise of Spotify and the Costs of the Perfect Playlist *by Liz Pelly. Before I take you on the sort of meandering walk through the jungle of context that is typical of my writing, let me introduce the book. *Mood Machine *identifies the several challenges that have followed from the growth of Spotify. These range from the financial challenges musicians face due to abysmal streaming proceeds to the collapse of active listening. I find a lot of these criticisms of Spotify fair (as I have discussed [in the past](https://www.akhilsrivatsan.com/p/daedalus-or-what-i-learnt-from-deleting)) and I recommend the read (strongly). However, I disagree with some of its framing of the problem encapsulated by its byline. The following sentences from the last few pages of the book serve as good examples of the source of my discomfort. I’ll tell you why after you go through the meandering context that follows.
+
+> [W]e’re not having a serious conversation about the future of music unless we’re talking about public funding, cooperatives, unions, and international solidarity—and unless we reali[s]e that the fight for a more liberated and de-commodified cultural sphere is part of the broader struggle for a better world.
+
+> Luckily, the future of music is not something that was unilaterally decided in 2008 when the major labels struck their first deals with Spotify.
+
+> Ultimately, we can’t think about changing music, or changing music technology. That’s not enough. We need to think about the world we want to live in, and where music fits into that vision.
+At the end of this essay, I will make with the following assertion: **the only way for us to ensure the music we love isn’t killed off by streaming is to bring the music we love to the foreground, even if we choose to have the rest of our engagement with music happen in the background. This only happens if we pay for the music we love.**
+
+[- ](https://substackcdn.com/image/fetch/$s_!8qYI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5e8ffa33-54f4-4519-9c6e-fa60dc59bf73_1399x2114.jpeg)
+## Qualifying my opinions (skip forward if you’re more interested in charts and frameworks)
+Let’s start with why this isn’t a book review, and why I hope to never ‘review’ a book. I think the unqualified book review is dead. What I mean by ‘unqualified’ here is this: the book review that expresses an opinion about a book sans qualification *about *(not the qualifications *of*) the reviewer himself / herself is dead. If **you** have an opinion of *Mood Machine* by Liz Pelly that you think should impact **mine**, I would like to know what you think about V8 engines, robusta coffee, Gulmohar trees, notebooks, fountain pens, and the capture of Chandannagar by the French and British colonial armies. And capitalism. I would like to know where you stand on the matter of capitalism. I’m firmly in the ‘pro’ camp, while acknowledging that the global capitalistic order is very much in need of reform, and will likely always be. Additionally, in the context of this book, I would like to know what your version of the history of digital music is. Even a personal, emotional history would do. Maybe the view of an Indian music nerd who grew up in the 90s and 00s with very limited access to an open market of affordable CDs and cassettes will differ from yours.
+
+Here’s the view of that nerd. When I think of Spotify, I compare it to Limewire and Kazaa, uTorrent and Pirate Bay. I compare it to the days of MTV Remix with Nikhil Chinapa, 94.3 FM, 107.1 FM. I compare it to the days of my neighbourhood music store – Planet M – with the CD tower, Rhythm House, and the neighbour’s elder brother with a Nero burner and a cylindrical stack of Moser Baer CDs. Finally, I compare it to a world in which none of the above would’ve existed had India not liberalised in in 1990-91, opening up the country’s economy to the internet, peer-to-peer file-sharing, torrents, MTV, privately-run radio stations, video jockeys, music stores, and CD towers. If it weren’t for these economic reforms in what was once a political economy that stifled progress, it’s more likely than not that I wouldn’t have been able to write this essay for you to read.
+
+Other times still, I think of progress through the lens of a musician who spent his twenties playing in bands whose music was south of obscure, whose sound was inspired by socially progressive outsider music – post-punk, noise, metal, etc. In India, music like that had a puny system supporting it. I remember collectives like REProduce Artists inviting bands like mine to play live a few times. There were BYOB venues that would later go on to be vandalised by (allegedly) paid (allegedly) goons who objected to a variety of perceived cultural imperfections: the speaking of one language instead of another, the making of some specific sort of joke, the death of some sort of monolithic culture. These were narratives that always seemed alien to me. My city – Mumbai / Bombay – was, in my imagination, multicultural, cosmopolitan. If these sorts of insular attitudes were to have prevailed back in the sixties, for example, when migrants to Mumbai from Tamil Nadu – a state in the southern part of India from where my people come – were being threatened with mass eviction due to the *Idli Dosa Bagao* movement, it’s more likely than not that I wouldn’t have been able to write this essay for you to read.
+
+See: progress means different things in different contexts; it means different things to different people. Technological progress – growth, if you will – is a complicated, scary thing. Its complicated, scary nature leads many among us to want to shut it down, reverse course. It’s an understandable instinct. But here’s my opinion, qualified with all the personal context I’ve shared above: I can’t imagine that sort of thinking working. The arrow of all the technological progress I have seen has pointed in a single direction; and that direction has – on far more than average – been accompanied by economic progress. The techno-accelerationists’ view may be that this is terrific / inevitable, so let’s dial technological progress up to 11. The techno-pessimists’ view may be that this is terrible / avoidable, so let’s dial technological progress down to 1. I’m going to try and take the – admittedly capital L Lame – view of a questioning techno-optimist.
+
+## The meat of the matter
+First things first, I agree that paying artists fairly is without a doubt central to any business model surrounding music. And it certainly seems as though this isn’t happening when you see the following facts one after the other.
+
+On Spotify, tracks must accumulate at least 1,000 streams within a 12-month period to be eligible for royalty payments. Eligible tracks appear to pay out at a rate of around 0.003 per stream on average.
+
+- After a nadir in 2014, music industry revenues (not adjusted for inflation) appear to be seeing near-exponential growth (chart follows).
+
+[- ](https://substackcdn.com/image/fetch/$s_!dlyZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1080a59-c3f2-4a55-ac9f-5b59535c4874_1200x1200.jpeg)
+Spotify revenues have trended exponentially upwards y-o-y since 2015, with the business appearing to generate $2.5B in free cash flow (with adjustments) in 2024 (chart follows).
+
+[](https://substackcdn.com/image/fetch/$s_!xcGi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feee88ca0-e92a-4578-88f6-db9bce80ebe8_1600x987.png)It’s also true that playlists filled with AI-generated slop and stock-music designed specifically to run in the background and be ignored are an existential threat to artists who make music that require attention (and need to be paid royalties, unlike algorithms). Have you checked out the following playlists on Spotify? *Ambient Relaxation*, *Deep Focus*, *100% Lounge*, *Bossa Nova Dinner*, *Cocktail Jazz*, *Deep Sleep*, *Morning Stretch*, *Detox*? These playlists are 100% Perfect Fit Content (PFC). What’s PFC? It’s ‘ghost artists’ on labels that only make stock-music. From an excerpt of the book you can find [published on Harper’s](https://harpers.org/archive/2025/01/the-ghosts-in-the-machine-liz-pelly-spotify-musicians/).
+
+> Their “labels” were frequently listed as stock-music companies like Epidemic, and their profiles included generic, possibly AI-generated imagery, often with no artist biographies or links to websites. Google searches came up empty.
+All of this is really sad. 
+
+But what does the book offer by way of solutions?
+
+The book recommends regulations against music streaming, public funding, musicians’ unions, international solidarity, universal basic income, affordable housing, universal healthcare, etc. While all of those are perfectly viable capital P Political stances, the challenge I face is not capital P Political. It is that the book frames the problems of streaming as almost entirely collective problems requiring collectivist solutions. Surely a question must precede these prescriptions to solve the Spotify problem.
+
+To put it bluntly – how often do you buy music? Like really **buy **music. A CD. A cassette. A vinyl. A digital album or song off of iTunes or Bandcamp. Those reading this – especially the erudite few who’ve made it this far, all the way to the bottom of this essay – likely belong to a class of people that can afford to do so. Those forms of media haven’t gone anywhere. They’re accessible through the very machines that deliver us streamed music. It’s just that nobody’s incentivised to pay $12 to buy a single record when you can pay $12 to buy what Spotify says is all the music in the world.
+
+[](https://substackcdn.com/image/fetch/$s_!TNSm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F406bb945-22f1-4ee5-b5ac-181e6419b707_1600x900.png)A single record is, by this count, an infinitesimally small subset of ‘all the music in the world’. By this count, why would anyone pay the same amount of money for this subset? The case to be made here, of course, is that ‘an album’ and ‘a Spotify subscription’ exist on wholly different planes. In reality, this is the picture.
+
+[](https://substackcdn.com/image/fetch/$s_!JIgP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F002308fd-1ab3-4c50-a1db-4b8aa602a26d_1600x900.png)What makes an album or ‘a record’ different from a Spotify subscription? For starters there’s the tangible – you **own** the record. For all its claims of having all the music in the world, Spotify does not indeed have all the music in the world. And music that was once on it can be taken off of it if an artist or a record company so chooses. The inverse is also true. In certain cases, like De La Soul’s, it may take years to clear every sample needed to be cleared for the music to even make it onto Spotify. Alternatively, if you own an album, it’s yours (there’s that pesky capitalistic idea of property and ownership). Minus a B&E, it stays yours once you’ve bought it. Then there’s the intangible stuff – you’re not beholden to an algorithm manipulating you into listening to things you don’t necessarily want playing in your ears. Music becomes something you seek, then enjoy, rather than something you take for granted, tolerate. There’s perhaps even the physical ritual of plugging something in, seeing the record spin, etc.
+
+But in reality, I think lovers of music should belabour *Mood Machine*’s central argument. What the era of Spotify has seen is an era in which almost all the music listening we do is passive. ‘Self-driving music’ the book astutely calls it. The central problem is, we now almost exclusively play music in the background. It’s all radio with a robot DJ at the booth. At the very least, it’s as much a cause for artists being underpaid as song mills, focus playlists, filler music, etc. are. We the listeners have flattened the rich, layered experience of listening to music to a single activity – streaming. Lovers of music should repeatedly make the argument for **music in the foreground** as being an entirely different proposition to **music in the background.**
+
+[](https://substackcdn.com/image/fetch/$s_!QiOm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9228009-fa81-4679-bee8-126e6bd384df_1600x900.png)As long as that’s true, shouldn’t personal responsibility sit upstream of these assertions?
+
+> [W]e’re not having a serious conversation about the future of music unless we’re talking about public funding, cooperatives, unions, and international solidarity—and unless we reali[s]e that the fight for a more liberated and de-commodified cultural sphere is part of the broader struggle for a better world.
+
+> Luckily, the future of music is not something that was unilaterally decided in 2008 when the major labels struck their first deals with Spotify.
+
+> Ultimately, we can’t think about changing music, or changing music technology. That’s not enough. We need to think about the world we want to live in, and where music fits into that vision.
+I’ll conclude with what the book says in response to the question of personal responsibility (emphasis mine).
+
+> Emphasi[s]ing individual habits, in general, can feel weak in the face of so much consolidation and financiali[s]ation and a musical surveillance apparatus with insidious influence on the world around us, whether we participate in it or not. Collective issues require collective solutions. **But buying music directly from artists and independent record labels makes an actual difference; it is an important part of supporting the culture you'd like to see keep existing.** That means tracking down where artists have their work on sale directly, whether online or at the local independent record shop. It also means keeping up, directly, with artists and labels, through communication channels that they control, which these days often means their email newsletters and personal websites, and being attuned to how they are asking for support. The easiest systems for accessing music from decades past are often not the best ones for discovering and supporting new independent music. **An artist might say that the best way to support them and their work is buying a record from their label's website, a download through Bandcamp**, or finding them on an emerging artist-run platform, for example.
+> Being a better individual consumer, of course, only gets us so far, and i surely not the only way to strengthen diverse cultural ecosystems. **This requires participating in alternative networks of communicating and contextuali[s]ing music: writing about the things that are exciting, sharing music with your friends, going to shows.** I am energi[s]ed by what feels like a ral resurgence of interest in independent radio stations as community hubs, co. Independent radio offers something that hyper-personali[s]ed streaming can’t: a sense of locality and shared listening experience.
+I couldn’t have said it better myself.
+
+[1 Restack](https://substack.com/note/p-164720455/restacks?utm_source=substack&utm_content=facepile-restacks)1
+
+            
+        
+
+        
+
+        
+        
+        
+        
+        
+        
+
+        
+        
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+        
+        
+
+        
+
+        
+        
+
+        
+
+        
+    
+
+    
+        This site requires JavaScript to run correctly. Please [turn on JavaScript](https://enable-javascript.com/) or unblock scripts

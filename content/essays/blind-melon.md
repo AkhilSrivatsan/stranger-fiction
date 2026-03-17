@@ -1,26 +1,34 @@
 ---
-title: "Others' views on society's drive for constant growth"
+title: "Building in Public: Blind Melon"
 ---
 
-Contemporary society’s drive for constant growth has not been the norm for human civilisation. For far longer, human civilisation has been driven forward by other impetuses.
+I’ve started writing on [Stranger Fiction](https://www.stranger-fiction.com/) again. And some of the mammoth essays I’ve been editing for here over the past four weeks are nearing completion as well. 
 
-- **The drive to survive.** The billions among us who are not as fortunate as those reading this likely continue to be driven by this core drive. Per Netflix, so is Daniel Ricciardo.
+I wonder why I have created 10,000 edited words that haven’t been shared with the good people here. Hope I develop the discipline to build, as a fellow startup founder and business collaborator said, ‘in public’.
 
-- **The drive for salvation.** The pious among us are likely animated by this impulse above others.
+Here’s [the article](https://www.stranger-fiction.com/the-music-box/blind-melon-blind-melon). For paid subscribers, I write in an unedited way writing.
 
-- At other times, parts of human civilisation have been driven by the **drive to explore**, **the drive for power**, the drive for and other such impulses.
+I reference Verlyn Klinkenborg’s book right at the start of that article. I’ve really been thinking about that book a lot. Books and records are the two major indulgences I continue to allow myself despite being three-odd months into forsaking a salaried life for a riskier – and so far, more fulfilling – life.
 
-Some argue that the age of capital and industrial mass-production set the wheels of necessary growth in motion. I remember watching the lectures of David Harvey as an undergraduate. In them, I recall he argued that, in the long run, modern capitalism was incompatible with his view of the real world. Modern capitalism demands, he suggested, a 3% annual global GDP growth rate forever, but the world is finite. Its resources are finite. The value that can be given to its finite population is finite. How could the world possibly sustain a compounded annual growth rate of 3%?
+That means my ‘bookshelf’, which is an out-of-commission fridge, overflows.
 
-Uber-capitalist accelerationists like Elon Musk have since echoed similar views as folks like David Harvey, their ideological opposites. They argue, among other things, that the only way human civilisation thrives long-term is as a multi-planet species. Vaclav Smil bisects these arguments with the view that ‘no trees grow to heaven’, arguing that all growth – be it in organisms or human-made – follows a sigmoid curve.
+[- ](https://substackcdn.com/image/fetch/$s_!F3iN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48caea69-9ea5-4757-ba69-f46147e78d89_4000x3000.jpeg)And the backdrop of the photo of the Klinkenborg book I reference is also littered with books.
 
-[](https://substackcdn.com/image/fetch/$s_!_RZg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0b2391e1-78db-406d-9112-3c9557caf5a6_1200x800.png)Others take a more essentialist view and speak of moral decay – greed, gluttony, Sodom and Gomorrah. The post-War west, these ideologues argue, has since the 1950s championed a culture of overconsumption. Society’s obsession with growth is the core tenet of Americanism as a philosophy: the primary export of the twentieth century’s prime hegemon. Mad Men, A Few Good Men, Tom Cruise, the TV dinner. Some among them argue for a more atavistic lifestyle. Others argue for a collective utopia free of greed.
+[](https://substackcdn.com/image/fetch/$s_!8O-V!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F68d98bf3-e54a-4013-a31e-e23d64c39ded_4000x3000.jpeg)It also means I cannot find the television remote under that pile of books and have to use my smartphone as one. Of late, I’ve been reading a lot more about writing.
 
-Others still argue that the drive for growth isn’t new. The industrial revolution did not invent growth; it accelerated it. Through a Eurocentric lens, this is true. But seen through an Asiacentric lens, the industrial revolution in fact slowed down centuries of growth within the geographical boundaries of modern-day China and India, which contained, before it, the largest economies in the world. De-averaging global numbers, therefore, tells a more complicated story.
+There’s something about how writing, even if it’s about Blind Melon’s debut album, helps clear out the mind. If there’s one thing I recommend for anybody whose life involves creativity – be it as we traditionally define it (writing, making music), or in the way that I think it should be defined (running a business is a creative act, white-collar commercial work is a creative act) – it is writing. 
 
-More ideas on growth pessimism [here](https://www.rolandberger.com/en/Insights/Publications/Can-economic-growth-coexist-with-sustainability.html?utm_source=chatgpt.com). I, of course, am not a growth pessimist, but it’s important to note that there’s a rich tradition of that variety of thought.
+Writing, not for publishing, but for its own sake. Writing as –
 
-[](https://substack.com/profile/173213232-mary-jilo)[](https://substack.com/profile/264349333-tiberius)[](https://substack.com/profile/1322599-sven-koerbitz)3 Likes∙[1 Restack](https://substack.com/note/p-170432381/restacks?utm_source=substack&utm_content=facepile-restacks)31
+a flush for the mind.
+
+- a form of practice of the magic that is our ability to string together syllables in our head to make concrete ideas in black-and-white.
+
+- a matter of private record.
+
+Since I published that piece, I’ve received positive feedback about my writing about ‘writing as a gerund’. About how wonderful it must be to feel these feelings about writing. Truth is I, once again, have accumulated thousands of edited words to publish over the past month of ‘building in private’. I can’t wait to share.
+
+[](https://substack.com/profile/105165747-uthara-parthasarathy)[](https://substack.com/profile/419647256-bianca)[](https://substack.com/profile/54970142-pallavi-vashistha)3 Likes[](https://substack.com/note/p-169491019/restacks?utm_source=substack&utm_content=facepile-restacks)3
 
             
         
