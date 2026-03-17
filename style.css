@@ -1,0 +1,246 @@
+/* akhilsrivatsan.com */
+
+:root {
+    --text: #1a1a1a;
+    --bg: #fafafa;
+    --link: #1a1a1a;
+    --link-hover: #666;
+    --muted: #888;
+    --rule: #ddd;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 15px;
+    line-height: 1.6;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    color: var(--text);
+    background: var(--bg);
+    -webkit-font-smoothing: antialiased;
+}
+
+main {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 3rem 1.5rem 4rem;
+}
+
+/* Header */
+header {
+    margin-bottom: 2.5rem;
+}
+
+h1 {
+    font-size: 1.3rem;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+}
+
+h1 a {
+    color: var(--text);
+    text-decoration: none;
+}
+
+.intro {
+    color: var(--muted);
+    font-size: 0.9rem;
+    margin-top: 0.2rem;
+}
+
+/* Nav on index */
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    margin-bottom: 0.35rem;
+}
+
+nav ul li a {
+    font-size: 0.95rem;
+    font-weight: 400;
+}
+
+/* Section pages */
+h2 {
+    font-size: 1.1rem;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    margin-bottom: 1.5rem;
+}
+
+h3 {
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--muted);
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+h3:first-of-type {
+    margin-top: 0;
+}
+
+/* Content lists */
+.entries {
+    list-style: none;
+}
+
+.entries li {
+    margin-bottom: 0.3rem;
+    font-size: 0.9rem;
+    line-height: 1.5;
+}
+
+.entries li .date {
+    color: var(--muted);
+    font-size: 0.8rem;
+    margin-left: 0.25rem;
+}
+
+.desc {
+    color: var(--muted);
+    font-size: 0.85rem;
+    margin-bottom: 1rem;
+    line-height: 1.5;
+}
+
+/* Links */
+a {
+    color: var(--link);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    text-decoration-thickness: 1px;
+}
+
+a:hover {
+    color: var(--link-hover);
+}
+
+/* Back link */
+.back {
+    display: inline-block;
+    margin-bottom: 1.5rem;
+    font-size: 0.85rem;
+    color: var(--muted);
+}
+
+.back:hover {
+    color: var(--text);
+}
+
+/* Empty state */
+.empty {
+    color: var(--muted);
+    font-size: 0.9rem;
+    font-style: italic;
+}
+
+/* Article pages */
+.article-header {
+    margin-bottom: 2rem;
+}
+
+.article-date {
+    color: var(--muted);
+    font-size: 0.85rem;
+    margin-top: 0.3rem;
+}
+
+.article-body {
+    font-size: 0.95rem;
+    line-height: 1.7;
+}
+
+.article-body p {
+    margin-bottom: 1.2rem;
+}
+
+.article-body h2 {
+    margin-top: 2rem;
+    margin-bottom: 0.75rem;
+}
+
+.article-body h3 {
+    text-transform: none;
+    letter-spacing: normal;
+    color: var(--text);
+    font-size: 1rem;
+    margin-top: 1.75rem;
+    margin-bottom: 0.5rem;
+}
+
+.article-body blockquote {
+    border-left: 2px solid var(--rule);
+    padding-left: 1rem;
+    color: var(--muted);
+    margin: 1.2rem 0;
+}
+
+.article-body ul, .article-body ol {
+    margin: 1rem 0;
+    padding-left: 1.5rem;
+}
+
+.article-body li {
+    margin-bottom: 0.3rem;
+}
+
+.article-body img {
+    max-width: 100%;
+    height: auto;
+}
+
+.article-body hr {
+    border: none;
+    border-top: 1px solid var(--rule);
+    margin: 2rem 0;
+}
+
+.article-body pre {
+    background: #f0f0f0;
+    padding: 1rem;
+    overflow-x: auto;
+    font-size: 0.85rem;
+    border-radius: 3px;
+    margin: 1.2rem 0;
+}
+
+.article-body code {
+    font-size: 0.85rem;
+    background: #f0f0f0;
+    padding: 0.15rem 0.3rem;
+    border-radius: 2px;
+}
+
+.article-body pre code {
+    background: none;
+    padding: 0;
+}
+
+/* Footer */
+footer {
+    margin-top: 3rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--rule);
+    font-size: 0.8rem;
+    color: var(--muted);
+}
+
+footer a {
+    color: var(--muted);
+}
+
+footer a:hover {
+    color: var(--text);
+}
