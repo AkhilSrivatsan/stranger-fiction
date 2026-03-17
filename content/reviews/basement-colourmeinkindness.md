@@ -1,6 +1,6 @@
 ---
-title: Basement – Colourmeinkindness
-date: 2023-07
+title: "Basement – Colourmeinkindness &mdash; Stranger Fiction"
+date: Jul 3
 subcategory: Music
 ---
 

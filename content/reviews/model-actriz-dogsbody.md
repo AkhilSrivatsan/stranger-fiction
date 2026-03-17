@@ -1,6 +1,6 @@
 ---
-title: Model/Actriz – Dogsbody
-date: 2024-12
+title: "Model/Actriz - Dogsbody &mdash; Stranger Fiction"
+date: Dec 2
 subcategory: Music
 ---
 

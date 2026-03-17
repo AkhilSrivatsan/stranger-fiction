@@ -1,6 +1,6 @@
 ---
-title: Thou – Umbilical
-date: 2024-12-10T00:00:00.000Z
+title: "Thou - Umbilical &mdash; Stranger Fiction"
+date: Dec 3
 subcategory: Music
 ---
 

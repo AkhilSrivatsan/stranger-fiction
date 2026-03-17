@@ -1,0 +1,19 @@
+---
+title: "Stories of Music Discovery // Omicron Records / Apoorva Raagangal &mdash; Stranger Fiction"
+date: Dec 28
+subcategory: Music
+---
+
+In a used vinyl store in Bengaluru (Rams Musique, I think it was called), I discovered this 45 of the *Apoorva Raagangal* soundtrack. All I knew of the 1975 K Balachander film was that one, it was Rajnikanth’s debut as an actor. Two, it was controversial when it was released, much like many other movies by the director, and frankly most things in conservative Tamil Nadu. And three, it had a widely acclaimed soundtrack centred around the Carnatic music sung by its female lead played by Srividya.
+
+As someone interested in the soundtrack, not the film, I can speak to the high quality of the music. However, listening to the record really does make me wonder: why are old recordings so treble-heavy?
+
+The standard answer is that magnetic recording (which is how music was recorded when *Apoorva Raagangal* was recorded) and 1970s-era microphones just had a narrower frequency response; they just couldn’t catch low frequencies. So no *Who Let The Dogs Out* in the fifties, let’s say. But why?
+
+While part of the answer simply lies with the poor low-end frequency capturing abilities of old microphones, I’m more interested in how the physics of tape recording affected the frequency range of Carnatic recordings. Here’s how magnetic tape recording worked: sound through a microphone formed an electrical signal – this electrical energy was converted to magnetic energy on tape (by magnetising the ferric oxide particles out of which magnetic tape was made) – while playing back the sound, the magnetic energy was reconverted to electrical energy, with the signal being amplified by, surprise surprise, an amplifier. 
+
+Sound being recorded, therefore, is equivalent to a ferric oxide particle being magnetised. A ferric oxide particle would only be magnetised if the electrical energy contained within the sound being recorded crossed a certain threshold. Therefore, due to the way tape recording worked, if sounds fell below a certain energy level, they simply weren’t ‘picked up’. Higher frequencies contain more ‘energy’, and old microphones also picked them up more easily, making them easier to record. Lower frequencies, therefore, often dropped off in magnetic tape recordings. 
+
+This was particularly true for Carnatic music, where low-end frequencies are represented not by the plucking of a string of a bass guitar or a surbahar, but by the striking of the percussive mridangam or ghatam. A single strike of a mridangam – the instrument played in the songs of *Apoorva Raagangal* – represents a much wider frequency range than a single pluck of a guitar string. The thing about modern recording and playback technologies is that despite all their flaws, they have brought a high-fidelity recording and playback experience within the reach of both recorders *and* listeners the world over.
+
+The moral of this ramble? We’re four days away from the beginning of a new year – a reminder that [every new beginning comes from some other beginning’s end](https://www.youtube.com/watch?v=xGytDsqkQY8). Yet we (I) seem to be living within a somewhat hopeless paradigm: the belief that things only get worse, not better. I can’t really provide any sort of meaningful socio-political commentary to allay any of those fears: I can’t speak to whether we will be rid of this godforsaken illness any time soon, or solve the climate crisis, or if any of several geopolitical flashpoints – take your pick – will devolve into all-out war. I can’t even claim to be particularly hopeful that these seemingly apocalyptic scenarios won’t play out. But I can say this: good recording technology is cheaper than ever, making recording Carnatic music much easier today than it was in the seventies. So maybe things *can* change for the better.

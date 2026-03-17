@@ -1,0 +1,15 @@
+---
+title: "The Music of Mali: Part 3 &mdash; Stranger Fiction"
+date: Sep 12
+subcategory: Music
+---
+
+Music can be meditative, celebrative and everything in between. The best music, though, encapsulates the entirety of the human experience. Remember the age-old adage I often refer to? The one about good art afflicting the comfortable and comforting the afflicted?  The best music therefore is neither oppressively obsessed with seriousness nor frivolous. Amadou and Mariam’s music is exactly this balance between playful and sincere, but it’s also always joyous. Let’s take for example 2005’s *Dimanche à Bamako* (*Sunday in Bamako* in English). In *Beaux Dimanches* (tr. *Beautiful Sundays*), they sing about Bamako’s joyous open-air Sunday weddings. But at the same time, on the deceptively playful electronica-infused West African Blues song *Senegal Fast Food*, they, along with their collaborator Manu Chao, sing about the quite serious phenomenon of emigrating in hopes of a better life.
+
+The overall air of joyousness is all the more amazing when put in the context of the lives Amadou and Mariam have led. Over 2+ decades before the release of *Dimanche à Bamako*, Amadou Bagayoko and Mariam Doumbia met at Mali's Institute for the Young Blind. Here, Bagayoko, who had lost his vision at 16, and Doumbia, who had lost hers at 5, found a shared love for music. They first performed in the Institute, but soon went on to form a group of their own, with Bagayoko on guitar and vocals, and Doumbia on vocals. At the same time, they also fell in love and got married.
+
+Theirs is the sort of heart-warming story that has seen many western publications refer to the couple’s story as being more than movie-like; I totally agree with that assessment. It’s the sort of story that leaves you smiling from ear to ear. But it’s also the sort of story that makes a particular kind of cynic (like the sort of cynic I was when I was a late teen) think, ‘wait a minute, if the guy writing this is leading with such a Hollywood story, the music mustn’t be too good, because if it was good, what would be the need for all this technicolor?’ So let me say this: I personally consider *Dimanche à Bamako* among the best albums I have ever heard. I also highly recommend its electro-pop influenced follow-up, *Welcome To Mali*. 
+
+From the 80s on, they’ve travelled around the world (via Cote d’Ivoire) making records and performing, infusing their sound, which is influenced equally by western blues-rock and West African Blues, with a variety of global influences – there’s tablas, harmonicas, koras, etc. – resulting in a singular sound. Ultimately, this is what I find most interesting about their sound: that it wears its influences on its sleeve, and doesn’t adhere to any cliché of what a Western African band is supposed to sound like. It’s kind of, to me, a flipside of what happens when the Talking Heads or Paul Simon incorporate Afrobeat into their music (or George Harrison plays the sitar on Norwegian Wood) and say *look at this new exotic thing I’ve created*. It’s absorbing those influences into a single unpretentious sound.
+
+## The Whole Series

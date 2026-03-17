@@ -1,0 +1,25 @@
+---
+title: "King Oliver's Creole Jazz Band - The Complete Set: A journey through the Penguin Jazz Guide &mdash; Stranger Fiction"
+date: Dec 30
+subcategory: Music
+---
+
+Part 1 of [an ongoing series](https://www.stranger-fiction.com/stories-of-music-discovery/category/The+Penguin+Jazz+Guide).
+
+## What a Wonderful World
+The first jazz song I heard was [*What A Wonderful World *by Louis Armstrong](https://www.youtube.com/watch?v=rBrd_3VMC3c). It had a message that resonated with me, a concrete jungle kid: that past the honking and the rubbish and the glass-steel-and-concrete megaliths that surrounded me there were trees of green, red roses that bloomed, skies of blue, clouds of white, and smiles on the faces of people passing by. Of course I didn’t know that Louis Armstrong played something called jazz, and that had I been surrounded by jazzheads, they would’ve disputed that the song was jazz at all, but my first reaction to the music was uncynical wonder, an approach I intend on maintaining through the telling of this story.
+
+## King Oliver and New Orleans Jazz
+
+Years later, I learned that Louis Armstrong was not only among the greatest jazz trumpeters to have lived, but also a key figure of New Orleans jazz, arguably the style of music that is to jazz history what the development of writing is to all human history: the point that separates it from prehistory. His star began to rise in 1922, when a 21-year-old Armstrong moved to Chicago from New Orleans at the invitation of his mentor, bandleader Joseph “King” Oliver, one of the progenitors of New Orleans jazz. Oliver had been driven out of New Orleans by the shuttering of Storyville, the city’s red-light district, which was the birthplace of jazz and at whose dancehalls its musicians played. Once he’d reached Chicago in pursuit of the better opportunities the city offered for African-American musicians, he and his band, which also included Armstrong’s soon-to-be wife, pianist Lil Hardin, took to performing as King Oliver and his Creole Jazz Band at the Royal Gardens cabaret. This band’s recordings over 1923 and 1924 would become one of the first true representations of the high-tempo syncopated, improvised style of brass band playing that we know today as New Orleans jazz (or Dixieland). 
+
+## An important note on race
+
+None of the musicians involved in the origin of jazz (including Oliver) hold the distinction of releasing its first recognised recording. That honour belongs to 1917’s *Livery Stable Blues* by the all-white Original Dixieland Jass Band. Just how a band made up entirely of white Americans came to release the first recorded instance of jazz at a time when all the invention and innovation in this form of music was happening on the other side of New Orleans’s mandated racial divide is covered well [in this BBC article](https://www.bbc.com/culture/article/20170224-the-mysetrious-origins-of-jazz). The truth is everything about jazz came out of the African-American experience. This includes both the term jazz itself, which is broadly accepted to have descended from an African-American slang term ‘jasm’ meaning energy (also a double entendre), and the music, whose roots, a legacy of the West Atlantic slave trade, were in the mixing of west African and Afro-Carribean rhythms with the blues and spirituals, with added European harmonisation. This mix was first evident in New Orleans ragtime, which later evolved in the late 1910’s and early 1920’s to become what we know as jazz today. 
+
+## Why King Oliver’s Creole Jazz Band? Why jazz?
+[The Complete Set of King Oliver's Creole Jazz Band’s recordings](https://open.spotify.com/playlist/7oKT8kPrcZmJjcD9miOVPQ?si=oJyUve8MQkWPjU0IzbBoQw) is an archetypal record of this early era of jazz. It’s an album that is still intensely danceable, a quality King Oliver considered central to his band’s music, since they performed primarily to a dancing audience. 
+
+Before I wrap up this piece, the first in a series on the Core Collection of the Penguin Jazz Guide, let me address why I, an Indian guy entering his fourth decade spent living entirely in Asia, am even writing this story. It isn’t because I think music is a universal language (for the record, I think it’s dangerous to think of music in those terms, and Adam Neely does a great job of explaining why [in this video](https://www.youtube.com/watch?v=Kr3quGh7pJA)). It also isn’t only because I really like jazz. I also really like house music, and you don’t see me embarking on an ambitious storytelling project encompassing the history of that style of music. It’s because along with the music of jazz, the story of its evolution contains within it several universal themes that I find fascinating: the mixing (and appropriation) of cultures, the pursuit of joy under difficult circumstances, the ability of human innovations to grow from humble origins and achieve transcendence, and ultimately, how a sequence of notes played by a group of people can alter a person’s perception of reality a century later. 
+
+And also, of course, I really like jazz and want to better understand why.

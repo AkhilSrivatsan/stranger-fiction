@@ -1,6 +1,6 @@
 ---
-title: Nothing – Tired of Tomorrow
-date: 2022-12
+title: "The Music Box // Nothing – Tired of Tomorrow &mdash; Stranger Fiction"
+date: Dec 12
 subcategory: Music
 ---
 

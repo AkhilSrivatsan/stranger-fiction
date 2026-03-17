@@ -1,6 +1,6 @@
 ---
-title: Lady Gaga – The Fame Monster
-date: 2023-04
+title: "Lady Gaga – The Fame Monster &mdash; Stranger Fiction"
+date: Apr 30
 subcategory: Music
 ---
 
