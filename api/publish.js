@@ -86,9 +86,36 @@ module.exports = async function handler(req, res) {
       );
     }
 
-    // TODO: Buttondown email integration
+    // Send email via Buttondown API
     if (email && process.env.BUTTONDOWN_API_KEY) {
-      // Future: send email via Buttondown API
+      try {
+        const siteUrl = 'https://akhilsrivatsan.com';
+        const articleUrl = `${siteUrl}/${category}/${slug}`;
+        const emailBody = `${body}\n\n---\n\n[Read on the site](${articleUrl})`;
+
+        const bdRes = await fetch('https://api.buttondown.com/v1/emails', {
+          method: 'POST',
+          headers: {
+            Authorization: `Token ${process.env.BUTTONDOWN_API_KEY}`,
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({
+            subject: title,
+            body: emailBody,
+            status: 'about_to_send',
+          }),
+        });
+
+        if (!bdRes.ok) {
+          const bdErr = await bdRes.json();
+          console.error('Buttondown error:', bdErr);
+          // Don't fail the publish — article is already committed
+          return res.status(200).json({ ok: true, path: filePath, emailError: bdErr });
+        }
+      } catch (bdErr) {
+        console.error('Buttondown send failed:', bdErr.message);
+        return res.status(200).json({ ok: true, path: filePath, emailError: bdErr.message });
+      }
     }
 
     return res.status(200).json({ ok: true, path: filePath });
