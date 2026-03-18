@@ -1,6 +1,6 @@
 ---
-title: "Music of the Week // 12 RODS - Split Personality &mdash; Stranger Fiction"
-date: Jan 11
+title: '12 RODS: Split Personality'
+date: 2021-01-11T00:00:00.000Z
 subcategory: Music
 ---
 

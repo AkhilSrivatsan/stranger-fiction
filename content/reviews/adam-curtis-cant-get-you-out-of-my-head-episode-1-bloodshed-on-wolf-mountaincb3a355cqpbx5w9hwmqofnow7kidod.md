@@ -1,6 +1,8 @@
 ---
-title: "Adam Curtis' Can't Get You Out Of My Head // Episode 1 – Bloodshed on Wolf Mountain &mdash; Stranger Fiction"
-date: Feb 23
+title: >-
+  Adam Curtis' Can't Get You Out Of My Head // Episode 1: Bloodshed on Wolf
+  Mountain
+date: 2021-02-23T00:00:00.000Z
 subcategory: Music
 ---
 

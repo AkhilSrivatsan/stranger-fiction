@@ -1,6 +1,6 @@
 ---
-title: "Music of the Week: Aesop Rock - Spirit World Field Guide &mdash; Stranger Fiction"
-date: Dec 16
+title: 'Aesop Rock: Spirit World Field Guide'
+date: 2020-12-16T00:00:00.000Z
 subcategory: Music
 ---
 

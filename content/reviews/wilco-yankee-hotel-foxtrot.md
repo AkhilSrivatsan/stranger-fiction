@@ -1,6 +1,6 @@
 ---
-title: "The Music Box // Wilco – Yankee Hotel Foxtrot  &mdash; Stranger Fiction"
-date: Aug 13
+title: 'Wilco: Yankee Hotel Foxtrot'
+date: 2021-08-13T00:00:00.000Z
 subcategory: Music
 ---
 

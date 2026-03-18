@@ -1,6 +1,6 @@
 ---
-title: "Music of the Week // Arlo Parks – Collapsed in Sunbeams &mdash; Stranger Fiction"
-date: Jan 29
+title: 'Arlo Parks: Collapsed in Sunbeams'
+date: 2021-01-29T00:00:00.000Z
 subcategory: Music
 ---
 

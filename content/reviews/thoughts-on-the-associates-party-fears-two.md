@@ -1,6 +1,6 @@
 ---
-title: "Stories of Music Discovery // Thoughts on the Associates' Party Fears Two &mdash; Stranger Fiction"
-date: Sep 1
+title: Thoughts on the Associates' Party Fears Two
+date: 2021-09-01T00:00:00.000Z
 subcategory: Music
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Stories of Music Discovery // Omicron Records / John Coltrane – Blue Train &mdash; Stranger Fiction"
-date: Dec 24
+title: 'Omicron Records / John Coltrane: Blue Train'
+date: 2021-12-24T00:00:00.000Z
 subcategory: Music
 ---
 

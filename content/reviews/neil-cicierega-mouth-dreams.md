@@ -1,6 +1,6 @@
 ---
-title: "Neil Cicierega - Mouth Dreams &mdash; Stranger Fiction"
-date: Oct 5
+title: 'Neil Cicierega: Mouth Dreams'
+date: 2020-10-05T00:00:00.000Z
 subcategory: Music
 ---
 

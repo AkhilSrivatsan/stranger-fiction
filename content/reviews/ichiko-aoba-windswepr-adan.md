@@ -1,6 +1,6 @@
 ---
-title: "The Music Box: Ichiko Aoba - Windswept Adan &mdash; Stranger Fiction"
-date: Dec 8
+title: 'Ichiko Aoba: Windswept Adan'
+date: 2020-12-08T00:00:00.000Z
 subcategory: Music
 ---
 

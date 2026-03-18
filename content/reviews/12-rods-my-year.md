@@ -1,5 +1,5 @@
 ---
-title: 12 RODS – My Year (This Is Going To Be)
+title: '12 RODS: My Year (This Is Going To Be)'
 date: 2023-05
 subcategory: Music
 ---

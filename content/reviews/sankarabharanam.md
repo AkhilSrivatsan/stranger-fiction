@@ -1,6 +1,6 @@
 ---
-title: "Sankarabharanam &mdash; Stranger Fiction"
-date: Oct 21
+title: Sankarabharanam
+date: 2020-10-21T00:00:00.000Z
 subcategory: Music
 ---
 

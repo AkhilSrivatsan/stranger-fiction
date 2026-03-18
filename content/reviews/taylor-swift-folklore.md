@@ -1,6 +1,6 @@
 ---
-title: "Taylor Swift - folklore &mdash; Stranger Fiction"
-date: Aug 26
+title: 'Taylor Swift: folklore'
+date: 2020-08-26T00:00:00.000Z
 subcategory: Music
 ---
 

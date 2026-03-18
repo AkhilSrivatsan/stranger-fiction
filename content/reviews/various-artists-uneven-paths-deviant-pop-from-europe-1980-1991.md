@@ -1,6 +1,6 @@
 ---
-title: "Various Artists &mdash; Uneven Paths, Deviant Pop From Europe 1980​-​1991 &mdash; Stranger Fiction"
-date: Jan 22
+title: 'Various Artists: Uneven Paths, Deviant Pop From Europe 1980​-​1991'
+date: 2021-01-22T00:00:00.000Z
 subcategory: Music
 ---
 

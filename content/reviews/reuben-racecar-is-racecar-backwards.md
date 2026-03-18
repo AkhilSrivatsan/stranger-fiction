@@ -1,6 +1,6 @@
 ---
-title: "Reuben - Racecar is Racecar Backwards &mdash; Stranger Fiction"
-date: Nov 6
+title: 'Reuben: Racecar is Racecar Backwards'
+date: 2020-11-06T00:00:00.000Z
 subcategory: Music
 ---
 

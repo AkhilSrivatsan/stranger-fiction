@@ -1,6 +1,6 @@
 ---
-title: "Nepali Indie &mdash; Stranger Fiction"
-date: May 25
+title: Nepali Indie
+date: 2020-05-25T00:00:00.000Z
 subcategory: Music
 ---
 

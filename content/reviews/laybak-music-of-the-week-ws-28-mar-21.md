@@ -1,6 +1,6 @@
 ---
-title: "Music of the Week // Laybak / WS 28-Mar-21  &mdash; Stranger Fiction"
-date: Apr 4
+title: Laybak / WS 28-Mar-21
+date: 2021-04-04T00:00:00.000Z
 subcategory: Music
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Radio Schizoid &mdash; Stranger Fiction"
-date: Jun 21
+title: Radio Schizoid
+date: 2020-06-21T00:00:00.000Z
 subcategory: Music
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "System Of A Down &mdash; Protect The Land / Genocidal Humanoidz &mdash; Stranger Fiction"
-date: Nov 6
+title: 'System Of A Down: Protect The Land / Genocidal Humanoidz'
+date: 2020-11-06T00:00:00.000Z
 subcategory: Music
 ---
 

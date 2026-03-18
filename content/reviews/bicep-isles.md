@@ -1,6 +1,6 @@
 ---
-title: "Music of the Week // Bicep – Isles &mdash; Stranger Fiction"
-date: Jan 23
+title: 'Bicep: Isles'
+date: 2021-01-23T00:00:00.000Z
 subcategory: Music
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Lounge Piranha &mdash; Going Nowhere &mdash; Stranger Fiction"
-date: Sep 4
+title: 'Lounge Piranha: Going Nowhere'
+date: 2020-09-04T00:00:00.000Z
 subcategory: Music
 ---
 

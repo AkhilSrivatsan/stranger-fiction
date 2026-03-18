@@ -1,6 +1,6 @@
 ---
-title: "Music of the Week // Everything And 1 Half / WS 7 Mar 2021  &mdash; Stranger Fiction"
-date: Mar 14
+title: Everything And 1 Half / WS 7 Mar 2021
+date: 2021-03-14T00:00:00.000Z
 subcategory: Music
 ---
 

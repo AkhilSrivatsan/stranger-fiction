@@ -1,6 +1,6 @@
 ---
-title: "The Music Box // Deltron 3030 – Deltron 3030 &mdash; Stranger Fiction"
-date: Jun 22
+title: 'Deltron 3030: Deltron 3030'
+date: 2021-06-22T00:00:00.000Z
 subcategory: Music
 ---
 

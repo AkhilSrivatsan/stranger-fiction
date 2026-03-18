@@ -1,6 +1,6 @@
 ---
-title: "Miles Davis &mdash; Big Fun &mdash; Stranger Fiction"
-date: Nov 21
+title: 'Miles Davis: Big Fun'
+date: 2020-11-21T00:00:00.000Z
 subcategory: Music
 ---
 

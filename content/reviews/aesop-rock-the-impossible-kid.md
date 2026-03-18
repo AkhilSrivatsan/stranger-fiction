@@ -1,6 +1,6 @@
 ---
-title: "Aesop Rock – The Impossible Kid &mdash; Stranger Fiction"
-date: Apr 2
+title: 'Aesop Rock: The Impossible Kid'
+date: 2021-04-02T00:00:00.000Z
 subcategory: Music
 ---
 

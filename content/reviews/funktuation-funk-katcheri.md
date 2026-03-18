@@ -1,6 +1,6 @@
 ---
-title: "Music of the Week // Funktuation – Funk Katcheri &mdash; Stranger Fiction"
-date: Jan 26
+title: 'Funktuation: Funk Katcheri'
+date: 2021-01-26T00:00:00.000Z
 subcategory: Music
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Pinegrove – Pinegrove on Audiotree Live
+title: 'Pinegrove: Pinegrove on Audiotree Live'
 date: 2023-07-15T00:00:00.000Z
 subcategory: Music
 ---

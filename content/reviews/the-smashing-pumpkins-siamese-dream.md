@@ -1,6 +1,6 @@
 ---
-title: "The Music Box // The Smashing Pumpkins – Siamese Dream &mdash; Stranger Fiction"
-date: Feb 2
+title: 'The Smashing Pumpkins: Siamese Dream'
+date: 2021-02-02T00:00:00.000Z
 subcategory: Music
 ---
 

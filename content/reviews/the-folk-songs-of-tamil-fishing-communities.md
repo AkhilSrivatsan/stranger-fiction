@@ -1,6 +1,8 @@
 ---
-title: "Tamil Nadu's Sea Shanties: Stories of Music Discovery // The Folk Songs of Tamil Fishing Communities &mdash; Stranger Fiction"
-date: Jan 18
+title: >-
+  Tamil Nadu's Sea Shanties: Stories of Music Discovery // The Folk Songs of
+  Tamil Fishing Communities
+date: 2021-01-18T00:00:00.000Z
 subcategory: Music
 ---
 

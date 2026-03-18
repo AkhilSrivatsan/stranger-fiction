@@ -1,6 +1,6 @@
 ---
-title: "Music of the Week / WS 21 Feb 2021 // Evolution &mdash; Stranger Fiction"
-date: Feb 28
+title: WS 21 Feb 2021 // Evolution
+date: 2021-02-28T00:00:00.000Z
 subcategory: Music
 ---
 

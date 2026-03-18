@@ -1,6 +1,6 @@
 ---
-title: "My experiences with Radiohead, and boys becoming men &mdash; Stranger Fiction"
-date: Jun 15
+title: 'My experiences with Radiohead, and boys becoming men'
+date: 2020-06-15T00:00:00.000Z
 subcategory: Music
 ---
 

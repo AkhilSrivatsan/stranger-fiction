@@ -1,6 +1,6 @@
 ---
-title: "Music of the Week // The Weather Station – Ignorance &mdash; Stranger Fiction"
-date: Feb 9
+title: 'The Weather Station: Ignorance'
+date: 2021-02-09T00:00:00.000Z
 subcategory: Music
 ---
 

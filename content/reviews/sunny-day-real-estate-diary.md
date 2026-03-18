@@ -1,6 +1,6 @@
 ---
-title: "The Music Box // Sunny Day Real Estate – Diary &mdash; Stranger Fiction"
-date: Feb 6
+title: 'Sunny Day Real Estate: Diary'
+date: 2022-02-06T00:00:00.000Z
 subcategory: Music
 ---
 

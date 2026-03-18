@@ -1,6 +1,6 @@
 ---
-title: "Akhil Srivatsan - my people are... &mdash; Stranger Fiction"
-date: Nov 9
+title: 'Akhil Srivatsan: my people are...'
+date: 2020-11-09T00:00:00.000Z
 subcategory: Music
 ---
 

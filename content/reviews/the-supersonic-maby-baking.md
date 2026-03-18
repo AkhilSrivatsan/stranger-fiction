@@ -1,6 +1,6 @@
 ---
-title: "Music of the Week // The Supersonics – Maby Baking &mdash; Stranger Fiction"
-date: Jan 21
+title: 'The Supersonics: Maby Baking'
+date: 2021-01-21T00:00:00.000Z
 subcategory: Music
 ---
 

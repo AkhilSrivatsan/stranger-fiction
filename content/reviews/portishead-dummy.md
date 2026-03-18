@@ -1,6 +1,6 @@
 ---
-title: "The Music Box: Portishead &mdash; Dummy &mdash; Stranger Fiction"
-date: Dec 25
+title: 'Portishead: Dummy'
+date: 2020-12-25T00:00:00.000Z
 subcategory: Music
 ---
 

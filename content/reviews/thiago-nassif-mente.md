@@ -1,6 +1,6 @@
 ---
-title: "Thiago Nassef - Mente &mdash; Stranger Fiction"
-date: Jul 25
+title: 'Thiago Nassef: Mente'
+date: 2020-07-25T00:00:00.000Z
 subcategory: Music
 ---
 

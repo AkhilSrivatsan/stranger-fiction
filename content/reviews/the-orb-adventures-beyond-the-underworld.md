@@ -1,6 +1,6 @@
 ---
-title: "The Orb &mdash; Adventures Beyond The Underworld  &mdash; Stranger Fiction"
-date: May 19
+title: 'The Orb: Adventures Beyond The Underworld'
+date: 2020-05-19T00:00:00.000Z
 subcategory: Music
 ---
 

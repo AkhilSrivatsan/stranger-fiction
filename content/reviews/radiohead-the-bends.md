@@ -1,5 +1,5 @@
 ---
-title: Radiohead – The Bends
+title: 'Radiohead: The Bends'
 date: 2023-01
 subcategory: Music
 ---

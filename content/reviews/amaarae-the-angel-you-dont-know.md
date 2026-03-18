@@ -1,6 +1,6 @@
 ---
-title: "Amaarae &mdash; THE ANGEL YOU DON’T KNOW &mdash; Stranger Fiction"
-date: Nov 20
+title: 'Amaarae: THE ANGEL YOU DON’T KNOW'
+date: 2020-11-20T00:00:00.000Z
 subcategory: Music
 ---
 

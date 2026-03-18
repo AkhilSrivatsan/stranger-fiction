@@ -1,6 +1,6 @@
 ---
-title: "The Upsetters - Super Ape &mdash; Stranger Fiction"
-date: Nov 3
+title: 'The Upsetters: Super Ape'
+date: 2020-11-03T00:00:00.000Z
 subcategory: Music
 ---
 

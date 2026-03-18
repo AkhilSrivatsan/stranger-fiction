@@ -1,6 +1,6 @@
 ---
-title: "Music of the Week: The Tallest Man On Earth - Shallow Grave &mdash; Stranger Fiction"
-date: Dec 5
+title: 'The Tallest Man On Earth: Shallow Grave'
+date: 2020-12-05T00:00:00.000Z
 subcategory: Music
 ---
 

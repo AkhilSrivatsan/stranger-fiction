@@ -1,6 +1,6 @@
 ---
-title: "The Music Box // Weezer – Weezer (Blue Album) &mdash; Stranger Fiction"
-date: Feb 19
+title: 'Weezer: Weezer (Blue Album)'
+date: 2022-02-19T00:00:00.000Z
 subcategory: Music
 ---
 

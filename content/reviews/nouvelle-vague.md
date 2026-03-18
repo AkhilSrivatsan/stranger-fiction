@@ -1,6 +1,6 @@
 ---
-title: "The Music Box // Nouvelle Vague – Nouvelle Vague &mdash; Stranger Fiction"
-date: Jan 24
+title: 'Nouvelle Vague: Nouvelle Vague'
+date: 2023-01-24T00:00:00.000Z
 subcategory: Music
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Mixtapes: First message in a bottle &mdash; Stranger Fiction"
-date: Mar 19
+title: First message in a bottle
+date: 2020-03-19T00:00:00.000Z
 subcategory: Music
 ---
 

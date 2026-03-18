@@ -1,6 +1,6 @@
 ---
-title: "Heartbreak // Music of the Week / WS 14-Feb  &mdash; Stranger Fiction"
-date: Feb 20
+title: Heartbreak // Music of the Week / WS 14-Feb
+date: 2021-02-20T00:00:00.000Z
 subcategory: Music
 ---
 

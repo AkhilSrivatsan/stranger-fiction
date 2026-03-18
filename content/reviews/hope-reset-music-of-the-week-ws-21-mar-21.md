@@ -1,6 +1,6 @@
 ---
-title: "Music of the Week // Hope • Reset / WS 21-Mar-21 &mdash; Stranger Fiction"
-date: Mar 29
+title: Hope • Reset / WS 21-Mar-21
+date: 2021-03-29T00:00:00.000Z
 subcategory: Music
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "The Music Box // A Forest Mighty Black – Mellowdramatic &mdash; Stranger Fiction"
-date: May 14
+title: 'A Forest Mighty Black: Mellowdramatic'
+date: 2021-05-14T00:00:00.000Z
 subcategory: Music
 ---
 

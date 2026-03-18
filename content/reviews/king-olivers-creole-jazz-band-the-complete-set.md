@@ -1,6 +1,8 @@
 ---
-title: "King Oliver's Creole Jazz Band - The Complete Set: A journey through the Penguin Jazz Guide &mdash; Stranger Fiction"
-date: Dec 30
+title: >-
+  King Oliver's Creole Jazz Band: The Complete Set: A journey through the
+  Penguin Jazz Guide
+date: 2020-12-30T00:00:00.000Z
 subcategory: Music
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Nas - Illmatic &mdash; Stranger Fiction"
-date: Nov 2
+title: 'Nas: Illmatic'
+date: 2020-11-02T00:00:00.000Z
 subcategory: Music
 ---
 

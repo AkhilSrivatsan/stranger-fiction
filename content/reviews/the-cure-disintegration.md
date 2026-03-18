@@ -1,6 +1,6 @@
 ---
-title: "The Music Box // The Cure – Disintegration &mdash; Stranger Fiction"
-date: Jan 24
+title: 'The Cure: Disintegration'
+date: 2021-01-24T00:00:00.000Z
 subcategory: Music
 ---
 

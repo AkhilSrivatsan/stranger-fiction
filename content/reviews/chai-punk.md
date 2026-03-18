@@ -1,6 +1,6 @@
 ---
-title: "The Music Box // CHAI – PUNK &mdash; Stranger Fiction"
-date: Mar 2
+title: 'CHAI: PUNK'
+date: 2021-03-02T00:00:00.000Z
 subcategory: Music
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "cLOUDDEAD - cLOUDDEAD &mdash; Stranger Fiction"
-date: Oct 28
+title: 'cLOUDDEAD: cLOUDDEAD'
+date: 2020-10-28T00:00:00.000Z
 subcategory: Music
 ---
 

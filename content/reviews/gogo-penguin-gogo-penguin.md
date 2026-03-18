@@ -1,6 +1,6 @@
 ---
-title: "GoGo Penguin - GoGo Penguin &mdash; Stranger Fiction"
-date: Jul 30
+title: 'GoGo Penguin: GoGo Penguin'
+date: 2020-07-30T00:00:00.000Z
 subcategory: Music
 ---
 

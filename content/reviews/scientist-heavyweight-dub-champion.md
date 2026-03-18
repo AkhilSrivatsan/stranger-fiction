@@ -1,6 +1,6 @@
 ---
-title: "Scientist - Heavyweight Dub Champion &mdash; Stranger Fiction"
-date: Nov 5
+title: 'Scientist: Heavyweight Dub Champion'
+date: 2020-11-05T00:00:00.000Z
 subcategory: Music
 ---
 

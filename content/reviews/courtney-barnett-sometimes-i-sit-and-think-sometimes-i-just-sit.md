@@ -1,6 +1,6 @@
 ---
-title: "Courtney Barnett &mdash; Sometimes I Sit and Think, Sometimes I Just Sit &mdash; Stranger Fiction"
-date: Nov 15
+title: 'Courtney Barnett: Sometimes I Sit and Think, Sometimes I Just Sit'
+date: 2020-11-15T00:00:00.000Z
 subcategory: Music
 ---
 

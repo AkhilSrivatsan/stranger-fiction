@@ -1,6 +1,6 @@
 ---
-title: "On Zamrock: a psych-rock explosion in 70s Zambia &mdash; Stranger Fiction"
-date: Jul 1
+title: 'On Zamrock: a psych-rock explosion in 70s Zambia'
+date: 2020-07-01T00:00:00.000Z
 subcategory: Music
 ---
 

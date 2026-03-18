@@ -1,6 +1,6 @@
 ---
-title: "The Music Box // Shawn Rudiman – Conduit and Flow State &mdash; Stranger Fiction"
-date: Mar 13
+title: 'Shawn Rudiman: Conduit and Flow State'
+date: 2021-03-13T00:00:00.000Z
 subcategory: Music
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Mixtapes: Punk music &mdash; Stranger Fiction"
-date: Mar 30
+title: Punk music
+date: 2020-03-30T00:00:00.000Z
 subcategory: Music
 ---
 

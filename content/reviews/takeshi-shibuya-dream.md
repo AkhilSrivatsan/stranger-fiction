@@ -1,6 +1,6 @@
 ---
-title: "Takeshi Shibuya: Dream &mdash; Stranger Fiction"
-date: Aug 6
+title: 'Takeshi Shibuya: Dream'
+date: 2025-08-06T00:00:00.000Z
 subcategory: Music
 ---
 

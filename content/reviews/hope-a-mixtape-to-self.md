@@ -1,6 +1,6 @@
 ---
-title: "Music Playlists // HOPE – a mixtape to self &mdash; Stranger Fiction"
-date: Feb 13
+title: 'HOPE: a mixtape to self'
+date: 2021-02-13T00:00:00.000Z
 subcategory: Music
 ---
 

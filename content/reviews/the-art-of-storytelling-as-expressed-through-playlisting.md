@@ -1,6 +1,6 @@
 ---
-title: "Music Playlists // The art of storytelling as expressed through playlisting &mdash; Stranger Fiction"
-date: Jan 28
+title: The art of storytelling as expressed through playlisting
+date: 2021-01-28T00:00:00.000Z
 subcategory: Music
 ---
 

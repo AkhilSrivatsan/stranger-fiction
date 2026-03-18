@@ -1,6 +1,6 @@
 ---
-title: "The Music Box: The Avalanches - We Will Always Love You &mdash; Stranger Fiction"
-date: Dec 15
+title: 'The Avalanches: We Will Always Love You'
+date: 2020-12-15T00:00:00.000Z
 subcategory: Music
 ---
 

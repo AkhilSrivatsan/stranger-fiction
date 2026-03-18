@@ -1,6 +1,6 @@
 ---
-title: "The Music Box // Angel Olsen – Aisles EP &mdash; Stranger Fiction"
-date: Jan 19
+title: 'Angel Olsen: Aisles EP'
+date: 2022-01-19T00:00:00.000Z
 subcategory: Music
 ---
 

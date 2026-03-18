@@ -1,6 +1,6 @@
 ---
-title: "Waxahatchee &mdash; Saint Cloud &mdash; Stranger Fiction"
-date: Jun 9
+title: 'Waxahatchee: Saint Cloud'
+date: 2020-06-09T00:00:00.000Z
 subcategory: Music
 ---
 

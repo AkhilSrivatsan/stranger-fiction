@@ -1,6 +1,6 @@
 ---
-title: "Bully &mdash; SUGAREGG &mdash; Stranger Fiction"
-date: Aug 25
+title: 'Bully: SUGAREGG'
+date: 2020-08-25T00:00:00.000Z
 subcategory: Music
 ---
 

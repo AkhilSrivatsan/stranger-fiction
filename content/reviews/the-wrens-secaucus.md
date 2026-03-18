@@ -1,6 +1,6 @@
 ---
-title: "Music of the Week // The Wrens &mdash; Secaucus &mdash; Stranger Fiction"
-date: Jan 13
+title: 'The Wrens: Secaucus'
+date: 2021-01-13T00:00:00.000Z
 subcategory: Music
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Bartika Eam Rai – Bimbaakash
+title: 'Bartika Eam Rai: Bimbaakash'
 date: 2022-03
 subcategory: Music
 ---

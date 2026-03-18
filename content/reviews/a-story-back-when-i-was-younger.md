@@ -1,6 +1,6 @@
 ---
-title: "A story: Back when I was younger &mdash; Stranger Fiction"
-date: Dec 19
+title: 'A story: Back when I was younger'
+date: 2020-12-19T00:00:00.000Z
 subcategory: Music
 ---
 

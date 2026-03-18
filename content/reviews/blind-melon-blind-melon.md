@@ -1,6 +1,6 @@
 ---
-title: "Blind Melon: Blind Melon &mdash; Stranger Fiction"
-date: Jul 28
+title: 'Blind Melon: Blind Melon'
+date: 2025-07-28T00:00:00.000Z
 subcategory: Music
 ---
 

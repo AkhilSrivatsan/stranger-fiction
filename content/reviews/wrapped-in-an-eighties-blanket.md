@@ -1,6 +1,6 @@
 ---
-title: "Wrapped in an eighties blanket with a faux eighties pillow &mdash; Stranger Fiction"
-date: Jun 20
+title: Wrapped in an eighties blanket with a faux eighties pillow
+date: 2020-06-20T00:00:00.000Z
 subcategory: Music
 ---
 

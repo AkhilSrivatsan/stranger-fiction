@@ -1,6 +1,6 @@
 ---
-title: "Peter Cat Recording Company - Bismillah &mdash; Stranger Fiction"
-date: Oct 2
+title: 'Peter Cat Recording Company: Bismillah'
+date: 2020-10-02T00:00:00.000Z
 subcategory: Music
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Seasonal Affected Beats &mdash; 2° &mdash; Stranger Fiction"
-date: Jun 23
+title: 'Seasonal Affected Beats: 2°'
+date: 2020-06-23T00:00:00.000Z
 subcategory: Music
 ---
 

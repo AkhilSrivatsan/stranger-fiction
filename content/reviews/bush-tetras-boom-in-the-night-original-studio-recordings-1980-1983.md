@@ -1,6 +1,6 @@
 ---
-title: "The Music Box // Bush Tetras – Boom in the Night (Original Studio Recordings 1980​- 1983) &mdash; Stranger Fiction"
-date: Feb 17
+title: 'Bush Tetras: Boom in the Night (Original Studio Recordings 1980​- 1983)'
+date: 2021-02-17T00:00:00.000Z
 subcategory: Music
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "From Bam Bam to Bam Bam &mdash; Stranger Fiction"
-date: Mar 26
+title: From Bam Bam to Bam Bam
+date: 2021-03-26T00:00:00.000Z
 subcategory: Music
 ---
 

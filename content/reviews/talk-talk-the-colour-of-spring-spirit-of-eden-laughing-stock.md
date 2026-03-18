@@ -1,6 +1,6 @@
 ---
-title: "Talk Talk: The Colour of Spring, Spirit of Eden, Laughing Stock &mdash; Stranger Fiction &mdash; Stranger Fiction"
-date: Apr 29
+title: 'Talk Talk: The Colour of Spring, Spirit of Eden, Laughing Stock'
+date: 2025-04-29T00:00:00.000Z
 subcategory: Music
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Music of the Week: Gorillaz - Song Machine, Season One, Strange Timez &mdash; Stranger Fiction"
-date: Dec 9
+title: 'Gorillaz: Song Machine, Season One, Strange Timez'
+date: 2020-12-09T00:00:00.000Z
 subcategory: Music
 ---
 

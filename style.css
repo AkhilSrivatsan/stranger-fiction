@@ -7,6 +7,17 @@
     --link-hover: #666;
     --muted: #888;
     --rule: #ddd;
+    --code-bg: #f0f0f0;
+}
+
+[data-theme="dark"] {
+    --text: #e0e0e0;
+    --bg: #1a1a1a;
+    --link: #e0e0e0;
+    --link-hover: #aaa;
+    --muted: #888;
+    --rule: #333;
+    --code-bg: #2a2a2a;
 }
 
 * {
@@ -18,6 +29,7 @@
 html {
     font-size: 15px;
     line-height: 1.6;
+    overflow-y: scroll;
 }
 
 body {
@@ -61,7 +73,7 @@ nav ul {
 }
 
 nav ul li {
-    margin-bottom: 0.35rem;
+    margin-bottom: 0.6rem;
 }
 
 nav ul li a {
@@ -97,7 +109,7 @@ h3:first-of-type {
 }
 
 .entries li {
-    margin-bottom: 0.3rem;
+    margin-bottom: 0.6rem;
     font-size: 0.9rem;
     line-height: 1.5;
 }
@@ -208,7 +220,7 @@ a:hover {
 }
 
 .article-body pre {
-    background: #f0f0f0;
+    background: var(--code-bg);
     padding: 1rem;
     overflow-x: auto;
     font-size: 0.85rem;
@@ -218,7 +230,7 @@ a:hover {
 
 .article-body code {
     font-size: 0.85rem;
-    background: #f0f0f0;
+    background: var(--code-bg);
     padding: 0.15rem 0.3rem;
     border-radius: 2px;
 }
@@ -243,4 +255,82 @@ footer a {
 
 footer a:hover {
     color: var(--text);
+}
+
+/* Header row */
+.header-row {
+    position: relative;
+}
+
+/* Toggles */
+.toggles {
+    position: absolute;
+    right: 0;
+    top: 0;
+    font-size: 0.8rem;
+    color: var(--muted);
+}
+
+.theme-toggle, .size-toggle {
+    font-size: 0.8rem;
+    color: var(--muted);
+    text-decoration: none;
+}
+
+.theme-toggle:hover, .size-toggle:hover {
+    color: var(--text);
+}
+
+/* Text sizes */
+[data-size="medium"] {
+    font-size: 17px;
+}
+
+[data-size="large"] {
+    font-size: 19px;
+}
+
+/* Filters */
+.filters {
+    font-size: 0.85rem;
+    color: var(--muted);
+    margin-bottom: 0.75rem;
+}
+
+.filters a {
+    color: var(--muted);
+    font-size: 0.85rem;
+}
+
+.filters a:hover {
+    color: var(--text);
+}
+
+.filter-active {
+    color: var(--text);
+    font-size: 0.85rem;
+}
+
+/* Search */
+.search-input {
+    display: block;
+    width: 100%;
+    max-width: 200px;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.85rem;
+    color: var(--text);
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid var(--rule);
+    padding: 0.3rem 0;
+    margin-bottom: 1.5rem;
+    outline: none;
+}
+
+.search-input::placeholder {
+    color: var(--muted);
+}
+
+.search-input:focus {
+    border-bottom-color: var(--text);
 }

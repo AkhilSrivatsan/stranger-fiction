@@ -1,6 +1,6 @@
 ---
-title: "Summertime nostalgia &mdash; Stranger Fiction"
-date: Mar 23
+title: Summertime nostalgia
+date: 2020-03-23T00:00:00.000Z
 subcategory: Music
 ---
 

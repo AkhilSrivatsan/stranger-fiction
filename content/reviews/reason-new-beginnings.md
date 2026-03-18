@@ -1,6 +1,6 @@
 ---
-title: "REASON - New Beginnings &mdash; Stranger Fiction"
-date: Oct 20
+title: 'REASON: New Beginnings'
+date: 2020-10-20T00:00:00.000Z
 subcategory: Music
 ---
 

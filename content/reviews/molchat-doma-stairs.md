@@ -1,6 +1,6 @@
 ---
-title: "Molchat Doma &mdash; Stairs [Молчат Дома &mdash; Этажи] &mdash; Stranger Fiction"
-date: Nov 9
+title: 'Molchat Doma: Stairs [Молчат Дома &mdash; Этажи]'
+date: 2020-11-09T00:00:00.000Z
 subcategory: Music
 ---
 

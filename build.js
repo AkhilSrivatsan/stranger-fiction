@@ -117,6 +117,15 @@ function htmlHead(title, pathPrefix = '') {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>${title}</title>
+    <script>
+      (function(){
+        var t = localStorage.getItem('theme');
+        if (!t) t = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        document.documentElement.setAttribute('data-theme', t);
+        var s = localStorage.getItem('size');
+        if (s) document.documentElement.setAttribute('data-size', s);
+      })();
+    </script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
@@ -131,6 +140,14 @@ function footer() {
         </footer>`;
 }
 
+function themeToggle() {
+  return `<span class="toggles"><a href="#" class="size-toggle" onclick="(function(e){e.preventDefault();var sizes=['small','medium','large'];var cur=document.documentElement.getAttribute('data-size')||'small';var i=(sizes.indexOf(cur)+1)%sizes.length;document.documentElement.setAttribute('data-size',sizes[i]);localStorage.setItem('size',sizes[i]);document.querySelector('.size-toggle').textContent=sizes[i]})(event);return false">small</a> · <a href="#" class="theme-toggle" onclick="(function(e){e.preventDefault();var t=document.documentElement.getAttribute('data-theme')==='dark'?'light':'dark';document.documentElement.setAttribute('data-theme',t);localStorage.setItem('theme',t);document.querySelector('.theme-toggle').textContent=t==='dark'?'light':'dark'})(event);return false">dark</a></span>
+<script>
+document.querySelector('.theme-toggle').textContent=document.documentElement.getAttribute('data-theme')==='dark'?'light':'dark';
+var s=localStorage.getItem('size')||'small';document.documentElement.setAttribute('data-size',s);document.querySelector('.size-toggle').textContent=s;
+</script>`;
+}
+
 // ---------------------------------------------------------------------------
 // Page generators
 // ---------------------------------------------------------------------------
@@ -140,7 +157,7 @@ function buildIndex() {
 <body>
     <main>
         <header>
-            <h1><a href="index.html">${SITE_TITLE}</a></h1>
+            <div class="header-row"><h1><a href="index.html">${SITE_TITLE}</a></h1>${themeToggle()}</div>
             <p class="intro">${SITE_DESCRIPTION}</p>
         </header>
 
@@ -188,7 +205,8 @@ function buildCategoryPage(category) {
       body += '        <ul class="entries">\n';
       for (const post of items) {
         const href = post.external || `${category}/${post.slug}.html`;
-        body += `            <li><a href="${href}">${post.title}</a> <span class="date">${formatDate(post.dateDisplay)}</span></li>\n`;
+        const dataAttr = category === 'reviews' ? ` data-subcategory="${sub}"` : '';
+        body += `            <li${dataAttr}><a href="${href}">${post.title}</a> <span class="date">${formatDate(post.dateDisplay)}</span></li>\n`;
       }
       body += '        </ul>\n\n';
     }
@@ -202,13 +220,135 @@ function buildCategoryPage(category) {
     body += '        </ul>\n';
   }
 
+  // Reviews page gets filter UI + script
+  let filterUI = '';
+  let filterScript = '';
+  if (category === 'reviews' && config.subcategories) {
+    const subs = config.subcategories;
+    const links = subs.map(s => `<a href="#" data-filter="${s}">${s.toLowerCase()}</a>`).join(' · ');
+    filterUI = `        <div class="filters"><span class="filter-active">all</span> · ${links}</div>\n`;
+    filterUI += `        <input type="text" class="search-input" placeholder="search">\n`;
+
+    filterScript = `
+<script>
+(function(){
+  var items = document.querySelectorAll('.entries li[data-subcategory]');
+  var headers = document.querySelectorAll('h3');
+  var links = document.querySelectorAll('.filters a');
+  var active = document.querySelector('.filters .filter-active');
+  var search = document.querySelector('.search-input');
+  var current = 'all';
+
+  function apply() {
+    var q = search.value.toLowerCase();
+    var headerMap = {};
+    headers.forEach(function(h){ headerMap[h.textContent] = 0; });
+    items.forEach(function(li){
+      var sub = li.getAttribute('data-subcategory');
+      var title = li.textContent.toLowerCase();
+      var show = (current === 'all' || sub === current) && (!q || title.indexOf(q) !== -1);
+      li.style.display = show ? '' : 'none';
+      if (show && headerMap.hasOwnProperty(sub)) headerMap[sub]++;
+    });
+    headers.forEach(function(h){
+      var next = h.nextElementSibling;
+      h.style.display = headerMap[h.textContent] > 0 ? '' : 'none';
+      if (next && next.classList.contains('entries')) {
+        next.style.display = headerMap[h.textContent] > 0 ? '' : 'none';
+      }
+    });
+  }
+
+  function setFilter(name, el) {
+    current = name;
+    active.textContent = name === 'all' ? 'all' : '';
+    if (name !== 'all') active.style.display = 'none';
+    else active.style.display = '';
+    links.forEach(function(a){
+      var f = a.getAttribute('data-filter');
+      if (f === name) {
+        var span = document.createElement('span');
+        span.className = 'filter-active';
+        span.textContent = f.toLowerCase();
+        span.setAttribute('data-filter', f);
+        a.parentNode.replaceChild(span, a);
+      }
+    });
+    document.querySelectorAll('.filters .filter-active').forEach(function(s){
+      if (s !== active || name === 'all') {
+        // noop for 'all' active
+      }
+    });
+    // Simpler approach: rebuild the filter row
+    rebuildFilters();
+    apply();
+  }
+
+  function rebuildFilters() {
+    var container = document.querySelector('.filters');
+    container.innerHTML = '';
+    // 'all' link or active
+    if (current === 'all') {
+      var s = document.createElement('span');
+      s.className = 'filter-active';
+      s.textContent = 'all';
+      container.appendChild(s);
+    } else {
+      var a = document.createElement('a');
+      a.href = '#';
+      a.setAttribute('data-filter', 'all');
+      a.textContent = 'all';
+      container.appendChild(a);
+    }
+    ${JSON.stringify(subs)}.forEach(function(sub){
+      container.appendChild(document.createTextNode(' \\u00b7 '));
+      if (sub === current) {
+        var s = document.createElement('span');
+        s.className = 'filter-active';
+        s.textContent = sub.toLowerCase();
+        container.appendChild(s);
+      } else {
+        var a = document.createElement('a');
+        a.href = '#';
+        a.setAttribute('data-filter', sub);
+        a.textContent = sub.toLowerCase();
+        container.appendChild(a);
+      }
+    });
+    container.querySelectorAll('a').forEach(function(a){
+      a.addEventListener('click', function(e){
+        e.preventDefault();
+        var f = this.getAttribute('data-filter');
+        current = f === 'all' ? 'all' : f;
+        rebuildFilters();
+        apply();
+      });
+    });
+  }
+
+  container = document.querySelector('.filters');
+  container.querySelectorAll('a').forEach(function(a){
+    a.addEventListener('click', function(e){
+      e.preventDefault();
+      current = this.getAttribute('data-filter');
+      rebuildFilters();
+      apply();
+    });
+  });
+
+  search.addEventListener('input', apply);
+})();
+</script>`;
+  }
+
   const html = `${htmlHead(`${config.title} — ${SITE_TITLE}`)}
 <body>
     <main>
-        <a href="index.html" class="back">← ${SITE_TITLE}</a>
+        <div class="header-row"><a href="index.html" class="back">← ${SITE_TITLE}</a>${themeToggle()}</div>
         <h2>${config.title}</h2>
 
-${body}
+${filterUI}${body}
+${filterScript}
 ${footer()}
     </main>
 </body>
@@ -226,7 +366,7 @@ function buildArticlePage(post) {
   const html = `${htmlHead(`${post.title} — ${SITE_TITLE}`, '../')}
 <body>
     <main>
-        <a href="../${post.category}.html" class="back">← ${categoryConfig.title}</a>
+        <div class="header-row"><a href="../${post.category}.html" class="back">← ${categoryConfig.title}</a>${themeToggle()}</div>
 
         <article>
             <header class="article-header">

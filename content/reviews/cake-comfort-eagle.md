@@ -1,6 +1,6 @@
 ---
-title: "Cake - Comfort Eagle &mdash; Stranger Fiction"
-date: Nov 22
+title: 'Cake: Comfort Eagle'
+date: 2020-11-22T00:00:00.000Z
 subcategory: Music
 ---
 

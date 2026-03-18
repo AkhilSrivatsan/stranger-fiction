@@ -1,6 +1,6 @@
 ---
-title: "The Music Box // Talk Talk – Spirit of Eden &mdash; Stranger Fiction"
-date: Feb 10
+title: 'Talk Talk: Spirit of Eden'
+date: 2021-02-10T00:00:00.000Z
 subcategory: Music
 ---
 

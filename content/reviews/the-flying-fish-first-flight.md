@@ -1,6 +1,6 @@
 ---
-title: "The Flying Fish &mdash; First Flight &mdash; Stranger Fiction"
-date: May 21
+title: 'The Flying Fish: First Flight'
+date: 2020-05-21T00:00:00.000Z
 subcategory: Music
 ---
 

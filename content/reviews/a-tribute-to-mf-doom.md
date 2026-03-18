@@ -1,6 +1,6 @@
 ---
-title: "Stories about Music: A Tribute to MF DOOM: A journal entry on Madvillainy from 2017 &mdash; Stranger Fiction"
-date: Jan 4
+title: 'A Tribute to MF DOOM: A journal entry on Madvillainy from 2017'
+date: 2021-01-04T00:00:00.000Z
 subcategory: Music
 ---
 

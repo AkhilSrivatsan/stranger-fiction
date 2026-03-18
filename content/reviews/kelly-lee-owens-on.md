@@ -1,6 +1,6 @@
 ---
-title: "Kelly Lee Owens &mdash; On &mdash; Stranger Fiction"
-date: Jun 29
+title: 'Kelly Lee Owens: On'
+date: 2020-06-29T00:00:00.000Z
 subcategory: Music
 ---
 

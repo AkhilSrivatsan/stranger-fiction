@@ -1,6 +1,6 @@
 ---
-title: "Music of the Week: Taylor Swift - evermore &mdash; Stranger Fiction"
-date: Dec 16
+title: 'Taylor Swift: evermore'
+date: 2020-12-16T00:00:00.000Z
 subcategory: Music
 ---
 

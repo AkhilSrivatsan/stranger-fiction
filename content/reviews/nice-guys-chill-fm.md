@@ -1,6 +1,6 @@
 ---
-title: "Nice Guys Chill FM &mdash; Stranger Fiction"
-date: Sep 5
+title: Nice Guys Chill FM
+date: 2020-09-05T00:00:00.000Z
 subcategory: Music
 ---
 

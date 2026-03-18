@@ -1,6 +1,6 @@
 ---
-title: "Clams Casino - Instrumental Relics &mdash; Stranger Fiction"
-date: Sep 3
+title: 'Clams Casino: Instrumental Relics'
+date: 2020-09-03T00:00:00.000Z
 subcategory: Music
 ---
 

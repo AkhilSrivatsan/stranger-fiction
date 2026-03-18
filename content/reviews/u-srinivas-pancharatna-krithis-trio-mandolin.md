@@ -1,6 +1,6 @@
 ---
-title: "Music of the Week // U Srinivas – Pancharatna Krithis Trio Mandolin &mdash; Stranger Fiction"
-date: Feb 4
+title: 'U Srinivas: Pancharatna Krithis Trio Mandolin'
+date: 2021-02-04T00:00:00.000Z
 subcategory: Music
 ---
 

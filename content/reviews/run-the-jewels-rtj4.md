@@ -1,6 +1,6 @@
 ---
-title: "Run The Jewels &mdash; RTJ4 &mdash; Stranger Fiction"
-date: Jun 3
+title: 'Run The Jewels: RTJ4'
+date: 2020-06-03T00:00:00.000Z
 subcategory: Music
 ---
 

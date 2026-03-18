@@ -1,6 +1,6 @@
 ---
-title: "The Music Box // Dry Cleaning – New Long Leg &mdash; Stranger Fiction"
-date: Jan 22
+title: 'Dry Cleaning: New Long Leg'
+date: 2022-01-22T00:00:00.000Z
 subcategory: Music
 ---
 

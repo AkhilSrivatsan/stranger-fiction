@@ -1,6 +1,6 @@
 ---
-title: "Vashti Bunyan - Just Another Diamond Day &mdash; Stranger Fiction"
-date: Sep 13
+title: 'Vashti Bunyan: Just Another Diamond Day'
+date: 2020-09-13T00:00:00.000Z
 subcategory: Music
 ---
 

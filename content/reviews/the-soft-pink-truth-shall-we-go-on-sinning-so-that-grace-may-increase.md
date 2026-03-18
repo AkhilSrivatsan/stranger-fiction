@@ -1,6 +1,6 @@
 ---
-title: "The Soft Pink Truth &mdash; Shall We Go On Sinning So That Grace May Increase &mdash; Stranger Fiction"
-date: Jun 3
+title: 'The Soft Pink Truth: Shall We Go On Sinning So That Grace May Increase'
+date: 2020-06-03T00:00:00.000Z
 subcategory: Music
 ---
 

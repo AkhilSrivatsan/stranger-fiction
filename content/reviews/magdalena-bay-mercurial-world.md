@@ -1,6 +1,6 @@
 ---
-title: "The Music Box // Magdalena Bay – Mercurial World &mdash; Stranger Fiction"
-date: Jan 12
+title: 'Magdalena Bay: Mercurial World'
+date: 2022-01-12T00:00:00.000Z
 subcategory: Music
 ---
 

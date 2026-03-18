@@ -1,6 +1,6 @@
 ---
-title: "The Music Box // Jawbreaker – 24 Hour Revenge Therapy &mdash; Stranger Fiction"
-date: Feb 25
+title: 'Jawbreaker: 24 Hour Revenge Therapy'
+date: 2021-02-25T00:00:00.000Z
 subcategory: Music
 ---
 

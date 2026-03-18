@@ -1,6 +1,6 @@
 ---
-title: "Music of the Week // Honey Dijon Boiler Room x Sugar Mountain 2018 DJ Set &mdash; Stranger Fiction"
-date: Jan 17
+title: Honey Dijon Boiler Room x Sugar Mountain 2018 DJ Set
+date: 2021-01-17T00:00:00.000Z
 subcategory: Music
 ---
 

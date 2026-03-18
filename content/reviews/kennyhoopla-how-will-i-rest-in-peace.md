@@ -1,6 +1,6 @@
 ---
-title: "KennyHoopla &mdash; how will i rest in peace if i’m buried by a highway?// &mdash; Stranger Fiction"
-date: Sep 18
+title: 'KennyHoopla: how will i rest in peace if i’m buried by a highway?'
+date: 2020-09-18T00:00:00.000Z
 subcategory: Music
 ---
 

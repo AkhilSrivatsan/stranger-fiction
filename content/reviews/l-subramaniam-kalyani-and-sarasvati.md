@@ -1,6 +1,6 @@
 ---
-title: "L. Subramaniam &mdash; Kalyānī & Sarasvatī &mdash; Stranger Fiction"
-date: Oct 23
+title: 'L. Subramaniam: Kalyānī & Sarasvatī'
+date: 2020-10-23T00:00:00.000Z
 subcategory: Music
 ---
 

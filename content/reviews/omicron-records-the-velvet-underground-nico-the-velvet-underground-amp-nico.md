@@ -1,6 +1,6 @@
 ---
-title: "Stories of Music Discovery // Omicron Records / The Velvet Underground and Nico &mdash; Stranger Fiction"
-date: Dec 25
+title: Omicron Records / The Velvet Underground and Nico
+date: 2021-12-25T00:00:00.000Z
 subcategory: Music
 ---
 

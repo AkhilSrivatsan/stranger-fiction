@@ -1,6 +1,6 @@
 ---
-title: "Music of the Week // The Calm / WS 28 Feb 2021 &mdash; Stranger Fiction"
-date: Mar 8
+title: The Calm / WS 28 Feb 2021
+date: 2021-03-08T00:00:00.000Z
 subcategory: Music
 ---
 

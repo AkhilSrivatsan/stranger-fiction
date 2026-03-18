@@ -1,6 +1,6 @@
 ---
-title: "Nicolas Jaar &mdash; Cenizas &mdash; Stranger Fiction"
-date: Jun 4
+title: 'Nicolas Jaar: Cenizas'
+date: 2020-06-04T00:00:00.000Z
 subcategory: Music
 ---
 

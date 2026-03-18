@@ -1,6 +1,6 @@
 ---
-title: "Jon Hopkins - Immunity &mdash; Stranger Fiction"
-date: Oct 18
+title: 'Jon Hopkins: Immunity'
+date: 2020-10-18T00:00:00.000Z
 subcategory: Music
 ---
 

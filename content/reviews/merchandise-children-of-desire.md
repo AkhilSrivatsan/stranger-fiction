@@ -1,6 +1,6 @@
 ---
-title: "Merchandise - Children Of Desire &mdash; Stranger Fiction"
-date: Sep 11
+title: 'Merchandise: Children Of Desire'
+date: 2020-09-11T00:00:00.000Z
 subcategory: Music
 ---
 

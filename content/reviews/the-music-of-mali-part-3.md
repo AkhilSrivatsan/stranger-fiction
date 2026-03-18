@@ -1,6 +1,6 @@
 ---
-title: "The Music of Mali: Part 3 &mdash; Stranger Fiction"
-date: Sep 12
+title: 'The Music of Mali: Part 3'
+date: 2020-09-12T00:00:00.000Z
 subcategory: Music
 ---
 

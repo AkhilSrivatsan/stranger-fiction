@@ -1,6 +1,6 @@
 ---
-title: "Otis Redding - Otis Blue &mdash; Stranger Fiction"
-date: Sep 10
+title: 'Otis Redding: Otis Blue'
+date: 2020-09-10T00:00:00.000Z
 subcategory: Music
 ---
 

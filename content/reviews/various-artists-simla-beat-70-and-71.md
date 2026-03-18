@@ -1,6 +1,6 @@
 ---
-title: "The Music Box // Various Artists – Simla Beat '70 and '71 &mdash; Stranger Fiction"
-date: Mar 6
+title: 'Various Artists: Simla Beat ''70 and ''71'
+date: 2021-03-06T00:00:00.000Z
 subcategory: Music
 ---
 

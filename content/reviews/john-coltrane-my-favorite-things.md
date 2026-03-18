@@ -1,6 +1,6 @@
 ---
-title: "John Coltrane &mdash; My Favorite Things &mdash; Stranger Fiction"
-date: Sep 21
+title: 'John Coltrane: My Favorite Things'
+date: 2020-09-21T00:00:00.000Z
 subcategory: Music
 ---
 

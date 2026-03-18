@@ -1,6 +1,6 @@
 ---
-title: "Music of the Week: Kelly Lee Owens - Inner Song &mdash; Stranger Fiction"
-date: Dec 27
+title: 'Kelly Lee Owens: Inner Song'
+date: 2020-12-27T00:00:00.000Z
 subcategory: Music
 ---
 

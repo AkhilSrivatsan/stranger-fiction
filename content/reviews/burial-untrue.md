@@ -1,6 +1,6 @@
 ---
-title: "Burial &mdash; Untrue &mdash; Stranger Fiction"
-date: Oct 8
+title: 'Burial: Untrue'
+date: 2020-10-08T00:00:00.000Z
 subcategory: Music
 ---
 

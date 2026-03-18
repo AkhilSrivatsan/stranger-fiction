@@ -1,6 +1,6 @@
 ---
-title: "The Music Box // 파란노을 (Parannoul) – To See the Next Part of the Dream &mdash; Stranger Fiction"
-date: Mar 26
+title: '파란노을 (Parannoul): To See the Next Part of the Dream'
+date: 2021-03-26T00:00:00.000Z
 subcategory: Music
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Helena Deland &mdash; Someone New &mdash; Stranger Fiction"
-date: Nov 12
+title: 'Helena Deland: Someone New'
+date: 2020-11-12T00:00:00.000Z
 subcategory: Music
 ---
 

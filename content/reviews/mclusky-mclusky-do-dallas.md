@@ -1,6 +1,6 @@
 ---
-title: "The Music Box // Mclusky – Mclusky Do Dallas &mdash; Stranger Fiction"
-date: May 28
+title: 'Mclusky: Mclusky Do Dallas'
+date: 2021-05-28T00:00:00.000Z
 subcategory: Music
 ---
 

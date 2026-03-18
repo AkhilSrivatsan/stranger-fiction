@@ -1,6 +1,6 @@
 ---
-title: "Yaeji - What We Drew &mdash; Stranger Fiction"
-date: Aug 2
+title: 'Yaeji: What We Drew'
+date: 2020-08-02T00:00:00.000Z
 subcategory: Music
 ---
 

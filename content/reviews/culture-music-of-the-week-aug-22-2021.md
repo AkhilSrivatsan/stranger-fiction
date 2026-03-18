@@ -1,6 +1,6 @@
 ---
-title: "Music of the Week / Aug 22, 2021 // Culture &mdash; Stranger Fiction"
-date: Aug 26
+title: 'Aug 22, 2021 // Culture'
+date: 2021-08-26T00:00:00.000Z
 subcategory: Music
 ---
 

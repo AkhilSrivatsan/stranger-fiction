@@ -1,6 +1,6 @@
 ---
-title: "Ichiko Aoba &mdash; \"gift\" at Sogetsu Hall (Live) &mdash; Stranger Fiction"
-date: Jun 9
+title: 'Ichiko Aoba: "gift" at Sogetsu Hall (Live)'
+date: 2020-06-09T00:00:00.000Z
 subcategory: Music
 ---
 

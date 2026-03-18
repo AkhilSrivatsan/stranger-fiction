@@ -1,6 +1,6 @@
 ---
-title: "Klô Pelgag - Notre-Dame-des-Sept-Douleurs &mdash; Stranger Fiction"
-date: Jul 1
+title: 'Klô Pelgag: Notre-Dame-des-Sept-Douleurs'
+date: 2020-07-01T00:00:00.000Z
 subcategory: Music
 ---
 

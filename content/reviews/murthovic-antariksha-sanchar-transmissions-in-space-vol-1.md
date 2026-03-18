@@ -1,6 +1,6 @@
 ---
-title: "Murthovic &mdash; Antariksha Sanchar: Transmissions in Space, Vol. 1 &mdash; Stranger Fiction"
-date: Aug 18
+title: 'Murthovic: Antariksha Sanchar: Transmissions in Space, Vol. 1'
+date: 2020-08-18T00:00:00.000Z
 subcategory: Music
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Equiknoxx &mdash; Bird Sound Power &mdash; Stranger Fiction"
-date: May 29
+title: 'Equiknoxx: Bird Sound Power'
+date: 2020-05-29T00:00:00.000Z
 subcategory: Music
 ---
 

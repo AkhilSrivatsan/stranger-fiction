@@ -1,6 +1,6 @@
 ---
-title: "A personal history of the world after punk: 1. Prologue &mdash; Stranger Fiction"
-date: Apr 10
+title: 'A personal history of the world after punk: 1. Prologue'
+date: 2020-04-10T00:00:00.000Z
 subcategory: Music
 ---
 

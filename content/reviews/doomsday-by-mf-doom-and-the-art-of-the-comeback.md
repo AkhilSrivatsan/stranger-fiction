@@ -1,6 +1,6 @@
 ---
-title: "Doomsday by MF DOOM, and the art of the comeback &mdash; Stranger Fiction"
-date: Aug 15
+title: 'Doomsday by MF DOOM, and the art of the comeback'
+date: 2020-08-15T00:00:00.000Z
 subcategory: Music
 ---
 

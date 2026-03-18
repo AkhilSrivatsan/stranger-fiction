@@ -1,6 +1,6 @@
 ---
-title: "My favourite music from 2019  &mdash; Stranger Fiction"
-date: Jan 2
+title: My favourite music from 2019
+date: 2020-01-02T00:00:00.000Z
 subcategory: Music
 ---
 

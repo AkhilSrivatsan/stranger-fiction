@@ -1,6 +1,6 @@
 ---
-title: "Lifafa &mdash; Jaago &mdash; Stranger Fiction"
-date: Oct 2
+title: 'Lifafa: Jaago'
+date: 2020-10-02T00:00:00.000Z
 subcategory: Music
 ---
 

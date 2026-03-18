@@ -1,6 +1,6 @@
 ---
-title: "Washed Out &mdash; Within and Without &mdash; Stranger Fiction"
-date: May 20
+title: 'Washed Out: Within and Without'
+date: 2020-05-20T00:00:00.000Z
 subcategory: Music
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "The Music Box // My Bloody Valentine – Loveless &mdash; Stranger Fiction"
-date: Feb 8
+title: 'My Bloody Valentine: Loveless'
+date: 2021-02-08T00:00:00.000Z
 subcategory: Music
 ---
 

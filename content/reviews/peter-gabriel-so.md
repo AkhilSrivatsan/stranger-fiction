@@ -1,6 +1,6 @@
 ---
-title: "Peter Gabriel &mdash; So &mdash; Stranger Fiction"
-date: Jul 11
+title: 'Peter Gabriel: So'
+date: 2020-07-11T00:00:00.000Z
 subcategory: Music
 ---
 

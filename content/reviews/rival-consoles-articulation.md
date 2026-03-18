@@ -1,6 +1,6 @@
 ---
-title: "Rival Consoles - Articulation &mdash; Stranger Fiction"
-date: Aug 18
+title: 'Rival Consoles: Articulation'
+date: 2020-08-18T00:00:00.000Z
 subcategory: Music
 ---
 

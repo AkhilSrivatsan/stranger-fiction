@@ -1,6 +1,6 @@
 ---
-title: "Music of the Week: The Magnetic Fields - 69 Love Songs &mdash; Stranger Fiction"
-date: Dec 7
+title: 'The Magnetic Fields: 69 Love Songs'
+date: 2020-12-07T00:00:00.000Z
 subcategory: Music
 ---
 

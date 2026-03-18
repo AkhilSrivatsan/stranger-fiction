@@ -1,6 +1,6 @@
 ---
-title: "Music of the Week // WS 17-May-21 / Slow and Steady &mdash; Stranger Fiction"
-date: May 20
+title: WS 17-May-21 / Slow and Steady
+date: 2021-05-20T00:00:00.000Z
 subcategory: Music
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Tarun Balani - The Shape Of Things To Come &mdash; Stranger Fiction"
-date: Nov 10
+title: 'Tarun Balani: The Shape Of Things To Come'
+date: 2020-11-10T00:00:00.000Z
 subcategory: Music
 ---
 

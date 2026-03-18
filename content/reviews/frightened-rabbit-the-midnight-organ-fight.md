@@ -1,6 +1,6 @@
 ---
-title: "Music of the Week // Frightened Rabbit – The Midnight Organ Fight &mdash; Stranger Fiction"
-date: Feb 7
+title: 'Frightened Rabbit: The Midnight Organ Fight'
+date: 2021-02-07T00:00:00.000Z
 subcategory: Music
 ---
 

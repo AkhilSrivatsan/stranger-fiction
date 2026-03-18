@@ -1,6 +1,6 @@
 ---
-title: "Music of the Week: DJ Python - Mas Amable &mdash; Stranger Fiction"
-date: Dec 22
+title: 'DJ Python: Mas Amable'
+date: 2020-12-22T00:00:00.000Z
 subcategory: Music
 ---
 

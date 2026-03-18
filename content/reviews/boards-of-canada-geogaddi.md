@@ -1,6 +1,6 @@
 ---
-title: "Boards of Canada - Geogaddi &mdash; Stranger Fiction"
-date: Oct 29
+title: 'Boards of Canada: Geogaddi'
+date: 2020-10-29T00:00:00.000Z
 subcategory: Music
 ---
 

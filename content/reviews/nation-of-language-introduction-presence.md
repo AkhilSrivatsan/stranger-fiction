@@ -1,6 +1,6 @@
 ---
-title: "Nation of Language &mdash;Introduction, Presence &mdash; Stranger Fiction"
-date: Jun 19
+title: 'Nation of Language &mdash;Introduction, Presence'
+date: 2020-06-19T00:00:00.000Z
 subcategory: Music
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "The Music Box // Failure – Fantastic Planet &mdash; Stranger Fiction"
-date: Jan 29
+title: 'Failure: Fantastic Planet'
+date: 2022-01-29T00:00:00.000Z
 subcategory: Music
 ---
 

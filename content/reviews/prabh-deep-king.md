@@ -1,6 +1,6 @@
 ---
-title: "Prabh Deep - K I N G &mdash; Stranger Fiction"
-date: Oct 1
+title: 'Prabh Deep: K I N G'
+date: 2020-10-01T00:00:00.000Z
 subcategory: Music
 ---
 

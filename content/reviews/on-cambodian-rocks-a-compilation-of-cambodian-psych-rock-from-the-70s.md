@@ -1,6 +1,6 @@
 ---
-title: "Stories of Music Discovery // On Cambodian Rocks, a compilation of Cambodian psych-rock from the 70s &mdash; Stranger Fiction"
-date: Feb 26
+title: 'On Cambodian Rocks, a compilation of Cambodian psych-rock from the 70s'
+date: 2021-02-26T00:00:00.000Z
 subcategory: Music
 ---
 

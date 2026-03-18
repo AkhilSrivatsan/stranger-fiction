@@ -1,6 +1,6 @@
 ---
-title: "Stories of Music Discovery // Omicron Records / Apoorva Raagangal &mdash; Stranger Fiction"
-date: Dec 28
+title: Omicron Records / Apoorva Raagangal
+date: 2021-12-28T00:00:00.000Z
 subcategory: Music
 ---
 

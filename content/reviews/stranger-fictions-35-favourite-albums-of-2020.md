@@ -1,6 +1,6 @@
 ---
-title: "Stranger Fiction's 35 Favourite Albums of 2020 - Stories of Music Discovery &mdash; Stranger Fiction"
-date: Jan 6
+title: 'Stranger Fiction''s 35 Favourite Albums of 2020: Stories of Music Discovery'
+date: 2021-01-06T00:00:00.000Z
 subcategory: Music
 ---
 

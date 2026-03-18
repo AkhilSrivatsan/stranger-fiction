@@ -1,6 +1,6 @@
 ---
-title: "Music of the Week // Disco Inferno – The 5 EPs &mdash; Stranger Fiction"
-date: Feb 12
+title: 'Disco Inferno: The 5 EPs'
+date: 2021-02-12T00:00:00.000Z
 subcategory: Music
 ---
 

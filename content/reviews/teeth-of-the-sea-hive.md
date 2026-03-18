@@ -1,5 +1,5 @@
 ---
-title: Teeth of the Sea – Hive
+title: 'Teeth of the Sea: Hive'
 date: 2024-12-15T00:00:00.000Z
 subcategory: Music
 ---
