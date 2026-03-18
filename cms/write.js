@@ -286,6 +286,7 @@ async function publish() {
       setStatus('Published! Site will rebuild in ~1 min.');
       editingPath = `content/${data.category}/${data.slug}.md`;
       document.getElementById('editor-heading').textContent = 'Editing: ' + data.title;
+      document.getElementById('delete-btn').style.display = '';
     }
   } catch (err) {
     setStatus(`Error: ${err.message}`);
@@ -312,6 +313,7 @@ async function saveDraft() {
     } else {
       setStatus('Draft saved.');
       editingPath = result.path;
+      document.getElementById('delete-btn').style.display = '';
     }
   } catch (err) {
     setStatus(`Error: ${err.message}`);
@@ -436,6 +438,7 @@ async function loadPost(filePath) {
 
     editingPath = filePath;
     document.getElementById('editor-heading').textContent = 'Editing: ' + (fm.title || filePath);
+    document.getElementById('delete-btn').style.display = '';
 
     // Ensure we're in edit mode, not preview
     if (previewVisible) togglePreview();
@@ -445,6 +448,38 @@ async function loadPost(filePath) {
   } catch (err) {
     setStatus(`Error: ${err.message}`);
   }
+}
+
+// ---------------------------------------------------------------------------
+// Delete
+// ---------------------------------------------------------------------------
+async function deletePost() {
+  if (!editingPath) {
+    setStatus('No post loaded to delete.');
+    return;
+  }
+  if (!confirm('Delete this post? This cannot be undone.')) return;
+
+  document.getElementById('delete-btn').disabled = true;
+  setStatus('Deleting...');
+
+  try {
+    const res = await fetch(API_BASE + '/api/delete', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ password: cmsPassword, filePath: editingPath }),
+    });
+    const result = await res.json();
+    if (!res.ok) {
+      setStatus(`Error: ${result.error}`);
+    } else {
+      setStatus('Deleted. Site will rebuild in ~1 min.');
+      resetEditor();
+    }
+  } catch (err) {
+    setStatus(`Error: ${err.message}`);
+  }
+  document.getElementById('delete-btn').disabled = false;
 }
 
 // ---------------------------------------------------------------------------
@@ -459,6 +494,7 @@ function resetEditor() {
   document.getElementById('email-subscribers').checked = false;
   editingPath = null;
   document.getElementById('editor-heading').textContent = 'New post';
+  document.getElementById('delete-btn').style.display = 'none';
   setTodayDate();
   if (previewVisible) togglePreview();
   setStatus('');
