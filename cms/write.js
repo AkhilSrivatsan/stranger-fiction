@@ -57,19 +57,42 @@ document.getElementById('category').addEventListener('change', function() {
   const cat = this.value;
   const subField = document.getElementById('subcategory-field');
   const subSelect = document.getElementById('subcategory');
+  const subCustom = document.getElementById('subcategory-custom');
 
-  if (SUBCATEGORIES[cat]) {
+  if (SUBCATEGORIES[cat] || cat) {
     subSelect.innerHTML = '<option value="">Subcategory</option>';
-    for (const s of SUBCATEGORIES[cat]) {
-      const opt = document.createElement('option');
-      opt.value = s;
-      opt.textContent = s;
-      subSelect.appendChild(opt);
+    if (SUBCATEGORIES[cat]) {
+      for (const s of SUBCATEGORIES[cat]) {
+        const opt = document.createElement('option');
+        opt.value = s;
+        opt.textContent = s;
+        subSelect.appendChild(opt);
+      }
     }
+    // Always add "+ New" option
+    const newOpt = document.createElement('option');
+    newOpt.value = '__new__';
+    newOpt.textContent = '+ New subcategory';
+    subSelect.appendChild(newOpt);
     subField.style.display = '';
+    subCustom.style.display = 'none';
+    subCustom.value = '';
   } else {
     subField.style.display = 'none';
     subSelect.innerHTML = '<option value="">Subcategory</option>';
+    subCustom.style.display = 'none';
+    subCustom.value = '';
+  }
+});
+
+document.getElementById('subcategory').addEventListener('change', function() {
+  const subCustom = document.getElementById('subcategory-custom');
+  if (this.value === '__new__') {
+    subCustom.style.display = '';
+    subCustom.focus();
+  } else {
+    subCustom.style.display = 'none';
+    subCustom.value = '';
   }
 });
 
@@ -227,7 +250,10 @@ function fileToBase64(file) {
 function getFormData() {
   const title = document.getElementById('title').value.trim();
   const category = document.getElementById('category').value;
-  const subcategory = document.getElementById('subcategory').value;
+  let subcategory = document.getElementById('subcategory').value;
+  if (subcategory === '__new__') {
+    subcategory = document.getElementById('subcategory-custom').value.trim();
+  }
   const date = document.getElementById('date').value;
   const description = document.getElementById('description').value.trim();
   const body = document.getElementById('body').value;
