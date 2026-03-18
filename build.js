@@ -8,7 +8,7 @@ const { marked } = require('marked');
 // ---------------------------------------------------------------------------
 const SITE_TITLE = 'Akhil Srivatsan';
 const SITE_URL = 'https://akhilsrivatsan.com';
-const SITE_DESCRIPTION = 'Writer, musician, international Mumbaikar.';
+const SITE_DESCRIPTION = 'Writer, musician, business owner, international Mumbaikar. Interests: business as a creative endeavour, art as a commercial endeavour, the subjective vs. the objective nature of existence, music, books, bad jokes. (AI AI AI AI)';
 const CONTENT_DIR = path.join(__dirname, 'content');
 const TEMPLATE_DIR = path.join(__dirname, 'templates');
 const OUT_DIR = path.join(__dirname, 'site');
