@@ -11,7 +11,7 @@ module.exports = async function handler(req, res) {
         Authorization: `Token ${process.env.BUTTONDOWN_API_KEY}`,
         'Content-Type': 'application/json',
       },
-      body: JSON.stringify({ email }),
+      body: JSON.stringify({ email_address: email }),
     });
 
     const data = await bdRes.json();
