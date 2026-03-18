@@ -37,31 +37,33 @@ module.exports = async function handler(req, res) {
       return res.status(500).json({ error: `Buttondown: ${errMsg}` });
     }
 
-    // Now send it as a test to yourself using the email's ID
+    // Send draft to yourself as a test
     const emailId = bdData.id;
-    const sendRes = await fetch(`https://api.buttondown.com/v1/emails/${emailId}/send-test`, {
+    const sendRes = await fetch(`https://api.buttondown.com/v1/emails/${emailId}/send-draft`, {
       method: 'POST',
       headers: {
         Authorization: `Token ${process.env.BUTTONDOWN_API_KEY}`,
         'Content-Type': 'application/json',
       },
+      body: JSON.stringify({
+        recipients: ['self'],
+      }),
     });
 
     if (!sendRes.ok) {
-      const sendData = await sendRes.json();
-      const errMsg = typeof sendData.detail === 'string' ? sendData.detail : JSON.stringify(sendData);
+      // Try to parse as JSON, fall back to text
+      let errMsg;
+      const contentType = sendRes.headers.get('content-type') || '';
+      if (contentType.includes('application/json')) {
+        const sendData = await sendRes.json();
+        errMsg = typeof sendData.detail === 'string' ? sendData.detail : JSON.stringify(sendData);
+      } else {
+        errMsg = `HTTP ${sendRes.status}`;
+      }
       return res.status(500).json({ error: `Test send failed: ${errMsg}` });
     }
 
-    // Clean up — delete the draft so it doesn't clutter Buttondown
-    await fetch(`https://api.buttondown.com/v1/emails/${emailId}`, {
-      method: 'DELETE',
-      headers: {
-        Authorization: `Token ${process.env.BUTTONDOWN_API_KEY}`,
-      },
-    });
-
-    return res.status(200).json({ ok: true });
+    return res.status(200).json({ ok: true, note: 'Draft created and sent to you. Check your inbox. Delete it from Buttondown when done.' });
   } catch (err) {
     return res.status(500).json({ error: err.message });
   }
