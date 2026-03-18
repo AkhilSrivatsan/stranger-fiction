@@ -473,6 +473,39 @@ async function loadPost(filePath) {
 }
 
 // ---------------------------------------------------------------------------
+// Send test email
+// ---------------------------------------------------------------------------
+async function sendTestEmail() {
+  const title = document.getElementById('title').value.trim();
+  const body = document.getElementById('body').value;
+
+  if (!title || !body) {
+    setStatus('Need a title and body to send a test.');
+    return;
+  }
+
+  document.getElementById('test-email-btn').disabled = true;
+  setStatus('Sending test email...');
+
+  try {
+    const res = await fetch(API_BASE + '/api/test-email', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ password: cmsPassword, title, body }),
+    });
+    const result = await res.json();
+    if (!res.ok) {
+      setStatus(`Error: ${result.error}`);
+    } else {
+      setStatus('Test email sent — check your inbox.');
+    }
+  } catch (err) {
+    setStatus(`Error: ${err.message}`);
+  }
+  document.getElementById('test-email-btn').disabled = false;
+}
+
+// ---------------------------------------------------------------------------
 // Delete
 // ---------------------------------------------------------------------------
 async function deletePost() {
