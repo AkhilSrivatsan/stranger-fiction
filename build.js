@@ -133,6 +133,7 @@ function htmlHead(title, pathPrefix = '', description = '') {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>${title}</title>${metaDesc}
+    <link rel="icon" type="image/jpeg" href="${pathPrefix}favicon.jpg">
     <script>
       (function(){
         var t = localStorage.getItem('theme');
@@ -477,6 +478,9 @@ function build() {
 
   // Copy static assets
   fs.copyFileSync(path.join(__dirname, 'style.css'), path.join(OUT_DIR, 'style.css'));
+  if (fs.existsSync(path.join(__dirname, 'favicon.jpg'))) {
+    fs.copyFileSync(path.join(__dirname, 'favicon.jpg'), path.join(OUT_DIR, 'favicon.jpg'));
+  }
 
   // Copy CMS editor files
   const cmsDir = path.join(__dirname, 'cms');
