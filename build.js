@@ -46,6 +46,19 @@ function ensureDir(dir) {
   fs.mkdirSync(dir, { recursive: true });
 }
 
+function copyDirRecursive(src, dest) {
+  ensureDir(dest);
+  for (const entry of fs.readdirSync(src, { withFileTypes: true })) {
+    const srcPath = path.join(src, entry.name);
+    const destPath = path.join(dest, entry.name);
+    if (entry.isDirectory()) {
+      copyDirRecursive(srcPath, destPath);
+    } else {
+      fs.copyFileSync(srcPath, destPath);
+    }
+  }
+}
+
 function readTemplate(name) {
   return fs.readFileSync(path.join(TEMPLATE_DIR, name), 'utf-8');
 }
@@ -110,13 +123,16 @@ function formatDate(dateStr) {
 }
 
 /** The <head> block shared by all pages. pathPrefix is '' for root, '../' for subdirs. */
-function htmlHead(title, pathPrefix = '') {
+function htmlHead(title, pathPrefix = '', description = '') {
+  const metaDesc = description
+    ? `\n    <meta name="description" content="${description.replace(/"/g, '&quot;')}">\n    <meta property="og:description" content="${description.replace(/"/g, '&quot;')}">`
+    : '';
   return `<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>${title}</title>
+    <title>${title}</title>${metaDesc}
     <script>
       (function(){
         var t = localStorage.getItem('theme');
@@ -363,7 +379,7 @@ function buildArticlePage(post) {
   if (!post.html || post.external) return; // skip external-only entries
 
   const categoryConfig = CATEGORIES[post.category];
-  const html = `${htmlHead(`${post.title} — ${SITE_TITLE}`, '../')}
+  const html = `${htmlHead(`${post.title} — ${SITE_TITLE}`, '../', post.description || '')}
 <body>
     <main>
         <div class="header-row"><a href="../${post.category}.html" class="back">← ${categoryConfig.title}</a>${themeToggle()}</div>
@@ -456,6 +472,24 @@ function build() {
 
   // Copy static assets
   fs.copyFileSync(path.join(__dirname, 'style.css'), path.join(OUT_DIR, 'style.css'));
+
+  // Copy CMS editor files
+  const cmsDir = path.join(__dirname, 'cms');
+  if (fs.existsSync(cmsDir)) {
+    const outCms = path.join(OUT_DIR, 'write');
+    ensureDir(outCms);
+    for (const f of fs.readdirSync(cmsDir)) {
+      fs.copyFileSync(path.join(cmsDir, f), path.join(outCms, f));
+    }
+    console.log('  write/ (CMS)');
+  }
+
+  // Copy content images (uploaded via CMS)
+  const imagesDir = path.join(CONTENT_DIR, 'images');
+  if (fs.existsSync(imagesDir)) {
+    copyDirRecursive(imagesDir, path.join(OUT_DIR, 'images'));
+    console.log('  images/');
+  }
 
   // CNAME for GitHub Pages custom domain
   fs.writeFileSync(path.join(OUT_DIR, 'CNAME'), 'akhilsrivatsan.com\n');

@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Write — Akhil Srivatsan</title>
+    <script>
+      (function(){
+        var t = localStorage.getItem('theme');
+        if (!t) t = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        document.documentElement.setAttribute('data-theme', t);
+      })();
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="write.css">
+</head>
+<body>
+    <main>
+        <!-- Login gate -->
+        <div id="login" class="cms-section">
+            <div class="header-row">
+                <a href="../index.html" class="back">← Akhil Srivatsan</a>
+            </div>
+            <h2>Write</h2>
+            <div class="field">
+                <input type="password" id="password" placeholder="Password" autocomplete="current-password">
+                <button id="login-btn" onclick="attemptLogin()">Enter</button>
+            </div>
+        </div>
+
+        <!-- Editor (hidden until login) -->
+        <div id="editor" class="cms-section" style="display:none">
+            <div class="header-row">
+                <a href="../index.html" class="back">← Akhil Srivatsan</a>
+                <span class="toggles">
+                    <a href="#" class="theme-toggle" onclick="(function(e){e.preventDefault();var t=document.documentElement.getAttribute('data-theme')==='dark'?'light':'dark';document.documentElement.setAttribute('data-theme',t);localStorage.setItem('theme',t);document.querySelector('.theme-toggle').textContent=t==='dark'?'light':'dark'})(event);return false">dark</a>
+                </span>
+            </div>
+            <h2 id="editor-heading">New post</h2>
+
+            <div class="field">
+                <input type="text" id="title" placeholder="Title">
+            </div>
+
+            <div class="field-row">
+                <div class="field">
+                    <select id="category">
+                        <option value="">Category</option>
+                        <option value="fiction">Fiction</option>
+                        <option value="music">Music</option>
+                        <option value="essays">Essays</option>
+                        <option value="reviews">Reviews</option>
+                        <option value="journal">Journal</option>
+                    </select>
+                </div>
+                <div class="field" id="subcategory-field" style="display:none">
+                    <select id="subcategory">
+                        <option value="">Subcategory</option>
+                    </select>
+                </div>
+                <div class="field">
+                    <input type="date" id="date">
+                </div>
+            </div>
+
+            <div class="field">
+                <input type="text" id="description" placeholder="Description (optional — for meta tags)">
+            </div>
+
+            <div class="field editor-field">
+                <div class="editor-toolbar">
+                    <span class="toolbar-left">
+                        <button class="tb" onclick="insertMd('**','**')" title="Bold"><b>B</b></button>
+                        <button class="tb" onclick="insertMd('*','*')" title="Italic"><i>I</i></button>
+                        <button class="tb" onclick="insertMd('[','](url)')" title="Link">Link</button>
+                        <button class="tb" onclick="insertMd('## ','')" title="Heading">H2</button>
+                        <button class="tb" onclick="insertMd('### ','')" title="Subheading">H3</button>
+                        <button class="tb" onclick="document.getElementById('image-input').click()" title="Upload image">Img</button>
+                    </span>
+                    <span class="toolbar-right">
+                        <button class="tb" id="preview-toggle" onclick="togglePreview()">Preview</button>
+                    </span>
+                </div>
+                <textarea id="body" placeholder="Write here. Markdown supported."></textarea>
+                <div id="preview" class="article-body" style="display:none"></div>
+                <input type="file" id="image-input" accept="image/*" multiple style="display:none">
+            </div>
+
+            <div class="field publish-options">
+                <label><input type="checkbox" id="email-subscribers"> Email to subscribers</label>
+            </div>
+
+            <div class="field actions">
+                <button id="draft-btn" onclick="saveDraft()">Save draft</button>
+                <button id="publish-btn" class="primary" onclick="publish()">Publish</button>
+                <button id="new-btn" onclick="resetEditor()">New</button>
+                <span id="status"></span>
+            </div>
+
+            <!-- Post list -->
+            <div id="post-list">
+                <h3 id="drafts-heading" style="display:none">Drafts</h3>
+                <ul id="drafts"></ul>
+                <h3 id="published-heading" style="display:none">Published</h3>
+                <ul id="published"></ul>
+                <button id="load-posts-btn" onclick="loadPosts()">Load posts</button>
+            </div>
+        </div>
+    </main>
+
+    <script src="write.js"></script>
+    <script>
+      // Fix theme toggle text
+      var tt = document.querySelector('.theme-toggle');
+      if (tt) tt.textContent = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+    </script>
+</body>
+</html>

@@ -2,7 +2,7 @@ const http = require('http');
 const fs = require('fs');
 const path = require('path');
 
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 const SITE_DIR = path.join(__dirname, 'site');
 
 const MIME = {
@@ -19,9 +19,12 @@ const MIME = {
 };
 
 const server = http.createServer((req, res) => {
-  let url = req.url === '/' ? '/index.html' : req.url;
+  let url = req.url.split('?')[0]; // strip query string
+  if (url === '/') url = '/index.html';
+  // If path ends with /, serve index.html from that directory
+  else if (url.endsWith('/')) url += 'index.html';
   // Add .html if no extension
-  if (!path.extname(url)) url += '.html';
+  else if (!path.extname(url)) url += '.html';
 
   const filePath = path.join(SITE_DIR, url);
   const ext = path.extname(filePath);

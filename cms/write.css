@@ -1,0 +1,230 @@
+.cms-section {
+    max-width: 700px;
+}
+
+.field {
+    margin-bottom: 12px;
+}
+
+.field input[type="text"],
+.field input[type="password"],
+.field input[type="date"],
+.field select,
+.field textarea {
+    width: 100%;
+    padding: 8px 10px;
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    border: 1px solid var(--rule);
+    border-radius: 3px;
+    background: var(--bg);
+    color: var(--text);
+    box-sizing: border-box;
+}
+
+.field select {
+    width: auto;
+    min-width: 140px;
+}
+
+.field input[type="date"] {
+    width: auto;
+}
+
+.field-row {
+    display: flex;
+    gap: 12px;
+    align-items: flex-start;
+    margin-bottom: 12px;
+    flex-wrap: wrap;
+}
+
+.field-row .field {
+    margin-bottom: 0;
+}
+
+/* Editor area */
+.editor-field {
+    border: 1px solid var(--rule);
+    border-radius: 3px;
+    overflow: hidden;
+}
+
+.editor-toolbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 4px 6px;
+    border-bottom: 1px solid var(--rule);
+    background: var(--bg);
+}
+
+.toolbar-left, .toolbar-right {
+    display: flex;
+    gap: 2px;
+}
+
+button.tb {
+    padding: 3px 8px;
+    font-family: 'Inter', sans-serif;
+    font-size: 12px;
+    border: none;
+    border-radius: 2px;
+    background: transparent;
+    color: var(--muted);
+    cursor: pointer;
+}
+
+button.tb:hover {
+    color: var(--text);
+    background: var(--rule);
+}
+
+#body {
+    width: 100%;
+    min-height: 400px;
+    padding: 12px;
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    line-height: 1.7;
+    border: none;
+    outline: none;
+    resize: vertical;
+    background: var(--bg);
+    color: var(--text);
+    box-sizing: border-box;
+}
+
+#preview {
+    padding: 12px;
+    min-height: 400px;
+    overflow-y: auto;
+}
+
+/* Buttons */
+.actions {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.actions button, #login-btn {
+    padding: 8px 18px;
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    border: 1px solid var(--rule);
+    border-radius: 3px;
+    background: var(--bg);
+    color: var(--text);
+    cursor: pointer;
+}
+
+.actions button:hover, #login-btn:hover {
+    border-color: var(--text);
+}
+
+.actions button.primary {
+    background: var(--text);
+    color: var(--bg);
+    border-color: var(--text);
+}
+
+.actions button.primary:hover {
+    opacity: 0.85;
+}
+
+#status {
+    font-size: 13px;
+    color: var(--muted);
+}
+
+.publish-options {
+    font-size: 13px;
+    color: var(--muted);
+}
+
+.publish-options label {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+/* Post list */
+#post-list {
+    margin-top: 40px;
+    border-top: 1px solid var(--rule);
+    padding-top: 20px;
+}
+
+#post-list h3 {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--muted);
+    margin: 16px 0 8px;
+}
+
+#post-list ul {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 16px;
+}
+
+#post-list li {
+    padding: 4px 0;
+}
+
+#post-list li a {
+    color: var(--text);
+    text-decoration: underline;
+    text-decoration-color: var(--rule);
+    text-underline-offset: 2px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+#post-list li a:hover {
+    text-decoration-color: var(--text);
+}
+
+#post-list li .post-cat {
+    font-size: 12px;
+    color: var(--muted);
+    margin-left: 6px;
+}
+
+#load-posts-btn {
+    padding: 6px 14px;
+    font-family: 'Inter', sans-serif;
+    font-size: 13px;
+    border: 1px solid var(--rule);
+    border-radius: 3px;
+    background: var(--bg);
+    color: var(--muted);
+    cursor: pointer;
+}
+
+#load-posts-btn:hover {
+    color: var(--text);
+    border-color: var(--text);
+}
+
+/* Drag-and-drop overlay */
+.drag-over #body {
+    outline: 2px dashed var(--muted);
+    outline-offset: -4px;
+}
+
+/* Login */
+#login .field {
+    display: flex;
+    gap: 8px;
+    max-width: 300px;
+}
+
+#login input {
+    flex: 1;
+}
+
+/* CSS variables are inherited from style.css via data-theme */
