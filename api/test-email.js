@@ -37,6 +37,13 @@ module.exports = async function handler(req, res) {
       return res.status(500).json({ error: `Buttondown: ${errMsg}` });
     }
 
+    // Get account email from Buttondown
+    const meRes = await fetch('https://api.buttondown.com/v1/newsletters', {
+      headers: { Authorization: `Token ${process.env.BUTTONDOWN_API_KEY}` },
+    });
+    const meData = await meRes.json();
+    const ownerEmail = meData.results ? meData.results[0].email : meData.email;
+
     // Send draft to yourself as a test
     const emailId = bdData.id;
     const sendRes = await fetch(`https://api.buttondown.com/v1/emails/${emailId}/send-draft`, {
@@ -46,7 +53,7 @@ module.exports = async function handler(req, res) {
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({
-        recipients: ['self'],
+        recipients: [ownerEmail],
       }),
     });
 
