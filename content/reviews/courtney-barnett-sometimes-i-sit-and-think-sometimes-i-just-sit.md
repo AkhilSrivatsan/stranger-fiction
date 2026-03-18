@@ -18,8 +18,8 @@ As you walk past the now-nearly-empty bus-stop towards home, *when I came to you
 
 You begin to appreciate the genius of improving on a well worn out formula. Anybody can assemble a sound consisting of a bass guitar, a rhythm guitar, a lead guitar, vocals, and drums. But to do it in a way that results in unforgettable music is virtually impossible. Every day, there’s a few thousand attempts to perfect this configuration. There’s *one! two! three! four!*, there’s*one, two, three, one, two, three*, there’s*can you count to seventeen?*, there’s*waaaaaaaaah-doodle-doodle-doodly-do*. But once in a while, there’s an album that perfects the recipe, like a food-cart perfecting the nacho.
 
-As *Dead Fox*leads into *Nobody Cares If You Don’t Go To The Party*, you decide not to walk homewards and to keep walking instead. It’s an anthem, and you’d like to imagine yourself on stage a little while longer.*I want to go out, but I want to stay home*. 
+As *Dead Fox*leads into*Nobody Cares If You Don’t Go To The Party*, you decide not to walk homewards and to keep walking instead. It’s an anthem, and you’d like to imagine yourself on stage a little while longer.*I want to go out, but I want to stay home*. 
 
 *I’m so sorry for all of my insecurities but it’s just a part of me*. 
 
-As the album winds down with *Kim’s Caravan* and *Boxing Day Blues*, you walk through them in a daze. As you take another round before going back home, you listen to the album again — that rare looped album — and you think, man, I don’t think I’m ever going to forget the first time I heard this album. Like*Velvet Underground & Nico *alone at night in your room, or*Ten Ragas To A Disco Beat *one languid afternoon. And you don’t.
+As the album winds down with *Kim’s Caravan* and *Boxing Day Blues*, you walk through them in a daze. As you take another round before going back home, you listen to the album again — that rare looped album — and you think, man, I don’t think I’m ever going to forget the first time I heard this album. Like*Velvet Underground & Nico*alone at night in your room, or*Ten Ragas To A Disco Beat*one languid afternoon. And you don’t.

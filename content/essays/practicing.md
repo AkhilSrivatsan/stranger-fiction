@@ -54,7 +54,7 @@ This week, I re-read a large chunk of Nate Silver’s 2012 book,*the Signal and 
 
 ![](/images/essays/practicing/2.jpeg)Turns out he got that last prediction right.
 
-I also got done reading*the Psychology of Money *by Morgan Houssel, a book I recommend, and one I plan on summarising for myself some day. If I do, I will share my summary too.
+I also got done reading*the Psychology of Money*by Morgan Houssel, a book I recommend, and one I plan on summarising for myself some day. If I do, I will share my summary too.
 
 I’ve also been enjoying Slavoj Žižek’s Substack.
 

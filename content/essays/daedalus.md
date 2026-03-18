@@ -224,7 +224,7 @@ THE PERSONAL IS THE POLITICALFour conclusions lie at the centre of a deeply pers
 
 They didn’t*make*me socially anxious; in 2008, which was before I had a*smartphone*smartphone, I feared missing out more than the average seventeen-year-old. It would be more accurate to say I feared being left out, being left behind. It’s important to draw the distinction between missing out and being left out. Truth be told, most things that lay at the other end of staying up late, always being available, are things I was always okay missing. It wasn’t my interest in these things that mattered – it was being chosen. The fear wasn’t that I’d miss out on something significant or fun – it was that I’d be excluded.
 
-The smartphone took these nascent – addressable – fears and blew them up: not only for me but also for others.*What if there’s something amazing at the end of my fifteen hundredth scroll of the day?*replaced*What if there’s something amazing at the end of another late night? *Wouldn’t it be better to first fill in the large empty spaces of life with things that lead up to ‘why’ and ask what’s lost when they’re filled up instead with what-ifs?
+The smartphone took these nascent – addressable – fears and blew them up: not only for me but also for others.*What if there’s something amazing at the end of my fifteen hundredth scroll of the day?*replaced*What if there’s something amazing at the end of another late night?*Wouldn’t it be better to first fill in the large empty spaces of life with things that lead up to ‘why’ and ask what’s lost when they’re filled up instead with what-ifs?
 
 DO FOOLS RUSH IN?Adult life, in many ways, attempts to answer a question that’s as fundamental as the question of economics: how is a finite resource – time, in the case of adult life vs. money, in the case of economics – best allocated? Much of adult life’s most interesting questions arise because we know it ends. An unending life – immortality – would allow for endless luxuriating, and would therefore be animated by an entirely different set of concerns from the ones we currently face. That I get to ‘dip my toes’, as it were, in the ‘river of life’ is, without question, a cosmic miracle.
 
@@ -243,11 +243,11 @@ I’ve read a lot more books in the two-odd months since I’ve changed my lifes
 
 -*Dopamine Nation (2021)*by Anna Lembke
 
--*The Art of Loving (1956) *by Erich Fromm
+-*The Art of Loving (1956)*by Erich Fromm
 
--*The Contrarian: Peter Thiel and Silicon Valley's Pursuit of Power (2021) *by Max Chafkin
+-*The Contrarian: Peter Thiel and Silicon Valley's Pursuit of Power (2021)*by Max Chafkin
 
-- ***In Defence of Food (2008)***** by Michael Pollan (re-read)**-*Willpower (2011) *by Roy Baumeister & John Tierney
+- ***In Defence of Food (2008)***** by Michael Pollan (re-read)**-*Willpower (2011)*by Roy Baumeister & John Tierney
 
 - ***Doppelganger (2023)***** by Naomi Klein**-*The Virgin Suicides (1993)*by Jeffrey Eugenides (re-read, abandoned within the first 50 pages)
 
@@ -255,7 +255,7 @@ I’ve read a lot more books in the two-odd months since I’ve changed my lifes
 
 -*Yellowface*by RF Kuang
 
--*The Vegetarian *by Han Kang (re-read)
+-*The Vegetarian*by Han Kang (re-read)
 
 ![](/images/essays/daedalus/10.jpeg)Everything we do is at least half for show. Even when nobody’s watching, we’re often secretly auditioning for the love, the admiration, the warmth of others. Imagining nods of imaginary approval from uncaring cities outside open windows.
 

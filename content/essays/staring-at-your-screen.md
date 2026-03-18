@@ -18,7 +18,7 @@ If your head’s feeling noisy and you need to replace the noise in it with some
 
 - If your head’s dull, a doozy, needs picking up, try the hard bop stylings of Art Blakey and the Jazz Messengers on*Moanin’*.
 
-- If you’re feeling emotional, wistful maybe, your mind’s wandering to some far away daydream, try*Mandolin *by U Srinivas.
+- If you’re feeling emotional, wistful maybe, your mind’s wandering to some far away daydream, try*Mandolin*by U Srinivas.
 
 - If what your experiencing is a version of determination, a can-do attitude with a side of you-can-do-it, then maybe consider Animals as Leaders’ self-titled.
 
@@ -43,7 +43,7 @@ You don’t get notifications on your notebook.
 But think of it not as transcription, but as draft 2. Think of the transcription process not as transcription, but as step 3 of this process outlined earlier. (1) collect your ideas build a hypothesis, summarise it → (2) build out from the summary to a draft → (3) revise said draft → (4) collect feedback on draft 2 and revise → (5) repeat until either the giver or the receiver of the feedback gives up → (6) close the document.
 
 ![](/images/essays/staring-at-your-screen/4.png)
-(Optional)**Input your hypothesis into whichever deep research module of whichever LLM you consider suitable and have it build the same document as you did. Let the model run in the background. **Until this step, no Googling. No ChatGPT. No Claude or Perplexity. You follow the same steps to receive a search result as you do to get to [reddit.com](http://reddit.com/). The additional risk with using an LLM before this stage is it’ll likely kill most original thoughts you have. Maybe it’ll give you a good enough answer, but not*your* answer. To me, this step is the line between tool and crutch. Once you’ve made it this far, set yourself free. 
+(Optional)**Input your hypothesis into whichever deep research module of whichever LLM you consider suitable and have it build the same document as you did. Let the model run in the background.**Until this step, no Googling. No ChatGPT. No Claude or Perplexity. You follow the same steps to receive a search result as you do to get to [reddit.com](http://reddit.com/). The additional risk with using an LLM before this stage is it’ll likely kill most original thoughts you have. Maybe it’ll give you a good enough answer, but not*your* answer. To me, this step is the line between tool and crutch. Once you’ve made it this far, set yourself free. 
 
 - **You’re now free to Google facts you’ve used along the way.**If the history of India’s colonisation is central to the document you’re building, now is the time to check if the Battle of Plassey was fought – as you remember – in 1756. It wasn’t; it was in 1757. If its belligerents were the British and the Nawab of Bengal, Sirajuddaullah. It was indeed the British East India Company – which many might consider semantically identical to Britain – on the one hand, and the Nawab of Bengal, Sirajuddaullah, and the French East India Company – which many might consider semantically identical to France – on the other. What are the political implications of equating the British East India company to Britain? In 1757, in particular? Was this before Britain assumed full control over the territories of the East India Company? Or was that Victoria, and did it happen closer to 1857? This needs ChatGPT. Ask it. It will say the following. 
 

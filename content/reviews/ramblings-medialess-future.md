@@ -7,7 +7,7 @@ subcategory: New Media
 *The word media here is used to mean **the plural of medium**, not in the context of**the mainstream media**.*
 
 #### The proposition
-Each generation sees itself at a media crossroads. I was part of the first generation of Indians that had free access to a liberalised television media landscape. Mine was the first Indian generation whose monied classes came home from school to watch *Swat Kats* on Cartoon Network, then *Hey Arnold* on Nickelodeon, then Nikhil Chinappa’s *MTV Select*, and later late-night cable-operator bootlegged broadcasts of*Texas Chainsaw Massacre *and*Dhadkan*. Simultaneously, in a world that was increasingly being taken over by computers, some among us became part of the Winamp -> Napster -> mp3 compilation CDs -> Limewire & Kazaa generation.
+Each generation sees itself at a media crossroads. I was part of the first generation of Indians that had free access to a liberalised television media landscape. Mine was the first Indian generation whose monied classes came home from school to watch *Swat Kats* on Cartoon Network, then *Hey Arnold* on Nickelodeon, then Nikhil Chinappa’s *MTV Select*, and later late-night cable-operator bootlegged broadcasts of*Texas Chainsaw Massacre*and*Dhadkan*. Simultaneously, in a world that was increasingly being taken over by computers, some among us became part of the Winamp -> Napster -> mp3 compilation CDs -> Limewire & Kazaa generation.
 
 The generation after mine is one that has not only always known the internet, but has also very likely always had the sort of internet connection that supported streaming. Plus, thanks to smartphones and accessible high-speed internet, access to quality entertainment now extends beyond just a fortunate few.
 
