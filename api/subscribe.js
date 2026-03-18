@@ -20,7 +20,10 @@ module.exports = async function handler(req, res) {
       return res.status(200).json({ ok: true });
     } else {
       // Common case: already subscribed
-      return res.status(400).json({ error: data.detail || data[0] || 'Subscription failed' });
+      const errMsg = typeof data.detail === 'string' ? data.detail
+        : typeof data[0] === 'string' ? data[0]
+        : JSON.stringify(data);
+      return res.status(400).json({ error: errMsg });
     }
   } catch (err) {
     return res.status(500).json({ error: err.message });
