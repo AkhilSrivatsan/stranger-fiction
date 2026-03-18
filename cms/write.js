@@ -10,7 +10,7 @@ const SUBCATEGORIES = {
 // In production, API calls go to the Vercel deployment.
 // Detect automatically: if we're on localhost, use localhost; otherwise use the Vercel URL.
 // The Vercel URL will be set after deployment.
-const API_BASE = window.location.hostname === 'localhost' ? '' : (window.CMS_API_BASE || '');
+const API_BASE = window.location.hostname === 'localhost' ? '' : window.location.origin;
 
 let cmsPassword = '';
 let editingPath = null; // tracks if we're editing an existing post
