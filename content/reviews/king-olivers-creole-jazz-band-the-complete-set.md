@@ -9,7 +9,7 @@ subcategory: Music
 Part 1 of [an ongoing series](https://www.stranger-fiction.com/stories-of-music-discovery/category/The+Penguin+Jazz+Guide).
 
 ## What a Wonderful World
-The first jazz song I heard was [*What A Wonderful World *by Louis Armstrong](https://www.youtube.com/watch?v=rBrd_3VMC3c). It had a message that resonated with me, a concrete jungle kid: that past the honking and the rubbish and the glass-steel-and-concrete megaliths that surrounded me there were trees of green, red roses that bloomed, skies of blue, clouds of white, and smiles on the faces of people passing by. Of course I didn’t know that Louis Armstrong played something called jazz, and that had I been surrounded by jazzheads, they would’ve disputed that the song was jazz at all, but my first reaction to the music was uncynical wonder, an approach I intend on maintaining through the telling of this story.
+The first jazz song I heard was [*What A Wonderful World*by Louis Armstrong](https://www.youtube.com/watch?v=rBrd_3VMC3c). It had a message that resonated with me, a concrete jungle kid: that past the honking and the rubbish and the glass-steel-and-concrete megaliths that surrounded me there were trees of green, red roses that bloomed, skies of blue, clouds of white, and smiles on the faces of people passing by. Of course I didn’t know that Louis Armstrong played something called jazz, and that had I been surrounded by jazzheads, they would’ve disputed that the song was jazz at all, but my first reaction to the music was uncynical wonder, an approach I intend on maintaining through the telling of this story.
 
 ## King Oliver and New Orleans Jazz
 

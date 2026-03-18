@@ -8,7 +8,7 @@ There’s something really beautiful about the destruction of dichotomies. I thi
 
 *Mente* navigates seamlessly through avant-garde experiments, while also showcasing its pop sensibilities. There’s no wave infused with funk, pop infused with dissonant jazz. Melody + noise. Over its ten-track run, Nassif collaborates with 20 musicians from the Rio underground, chiefly Arto Lindsay, the album’s producer.
 
-This collaboration, to me, is particularly interesting. I first encountered Arto Lindsay on [*No New York*](https://en.wikipedia.org/wiki/No_New_York), a 1978 album curated by Brian Eno as a snapshot of the late 70’s New York No Wave scene. He was a member of DNA, one of the scene’s seminal acts. Because of all its collaborations, and its choice of Arto Lindsay as producer, *Mente* feels like a snapshot of Rio’s underground scene of today, just like *No New York* was a snapshot of No Wave.
+This collaboration, to me, is particularly interesting. I first encountered Arto Lindsay on [*No New York*](https://en.wikipedia.org/wiki/No_New_York), a 1978 album curated by Brian Eno as a snapshot of the late 70’s New York No Wave scene. He was a member of DNA, one of the scene’s seminal acts. Because of all its collaborations, and its choice of Arto Lindsay as producer,*Mente* feels like a snapshot of Rio’s underground scene of today, just like *No New York* was a snapshot of No Wave.
 
 As for the album’s themes, I always find it’s best to let the artist speak to them, so here goes:
 

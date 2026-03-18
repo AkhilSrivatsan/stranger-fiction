@@ -8,7 +8,7 @@ You know what it's like, a city night. especially pre-2020. The sound of sparse 
 
 You know what it's like, mostly, 1:15 am on a Saturday morning, walking through one of the few places in the world where life is hammering on at what would a hundred kilometres away be an ungodly hour. An invitation to a new scene, a new DJ, an after party, a lonely cab ride back to an empty apartment, a hard-earned weekend of nothing-doing.
 
-You know that ache in your soul as the witching hour approaches and you find yourself stationary at a red light, a light drizzle tapping away at your cab, caught in the space between night and day, being asleep and being awake, just floating. *Big Lights, Big City* by Jay McInerney. *Life In A Metro*. *The Love Song Of J. Alfred Prufrock*.
+You know that ache in your soul as the witching hour approaches and you find yourself stationary at a red light, a light drizzle tapping away at your cab, caught in the space between night and day, being asleep and being awake, just floating. *Big Lights, Big City* by Jay McInerney. *Life In A Metro*.*The Love Song Of J. Alfred Prufrock*.
 
 Burial’s *Untrue*
 

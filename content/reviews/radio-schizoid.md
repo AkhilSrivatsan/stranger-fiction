@@ -22,7 +22,7 @@ To me it’s part of a subfolder of music I think of as zone-out music, as *B* m
 
 - *Left* (‘leftfield’ music, found sounds, noise, etc.)
 
-- *Right *(metal, just metal)
+- *Right*(metal, just metal)
 
 The html file for this radio channel would’ve sat awkwardly in the *B* subfolder of my *Music* folder. 
 

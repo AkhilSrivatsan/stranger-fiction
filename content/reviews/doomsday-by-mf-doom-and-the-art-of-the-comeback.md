@@ -30,7 +30,7 @@ Doomsday is a pretty chill song given its emotional backstory. Its wickedly funn
 > *On Doomsday. / Ever since the womb til I’m back where my brother went / That’s what my tomb will say. / Right above my government, Doom will lay / Either unmarked or engraved, hey, who’s to say?*
 It is impossible to separate the art from the context of the artist and his/her life. And by this count, *Doomsday* is no ordinary comeback track, and *Operation: Doomsday* is no ordinary comeback record. Doomsday is, unabashedly, a comeback track about coming back. It’s proof that, for an artist, the comeback itself is an artform. While Daniel Dumile might not have been able to rap about his experiences freely, a carefully crafted alter-ego could rap about his.
 
-At its heart, *Doomsday *is a darkly magical Roman à clef. The story it tells is of a supervillain’s comeback from overwhelming odds, and the supervillain’s drive to keep on fighting until the end. And because you hear the unvarnished story from the supervillain, something Daniel Dumile might not have been able to do, you appreciate the record more, and you understand Daniel Dumile better.
+At its heart, *Doomsday*is a darkly magical Roman à clef. The story it tells is of a supervillain’s comeback from overwhelming odds, and the supervillain’s drive to keep on fighting until the end. And because you hear the unvarnished story from the supervillain, something Daniel Dumile might not have been able to do, you appreciate the record more, and you understand Daniel Dumile better.
 
 ## VI. Supervillain Theme
 Now here’s the genius of it all.

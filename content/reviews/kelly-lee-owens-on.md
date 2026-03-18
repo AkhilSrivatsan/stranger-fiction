@@ -4,7 +4,7 @@ date: 2020-06-29T00:00:00.000Z
 subcategory: Music
 ---
 
-In 2017, Kelly Lee Owens released her self-titled debut album: an album of melodic but obtuse electronic music and techno-infused pop. It was a fascinating record, and was one of my favourite albums of the year. Her followup, *Inner Song*, was slated for release on May 1 this year, but, due to the constantly unfolding crisis that is this pandemic, it will now be released on Aug 28. Last week, she released *On*, a track from the album, as a single with two additional tracks. If it’s any indication of what’s coming, it’s going to be another superb outing.
+In 2017, Kelly Lee Owens released her self-titled debut album: an album of melodic but obtuse electronic music and techno-infused pop. It was a fascinating record, and was one of my favourite albums of the year. Her followup, *Inner Song*, was slated for release on May 1 this year, but, due to the constantly unfolding crisis that is this pandemic, it will now be released on Aug 28. Last week, she released*On*, a track from the album, as a single with two additional tracks. If it’s any indication of what’s coming, it’s going to be another superb outing.
 
 Despite the masterful assembly of minimal techno inspired instrumentation, and constantly inventive arrangements (every song appears to duck and swerve to avoid pop music’s sine-wave traps: there’s no predictable loud-soft-loud dynamics or falling into verse-chorus-verse traps), the thing that stands out most to me is the use of the human voice as an instrument.
 

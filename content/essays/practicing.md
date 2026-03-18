@@ -9,9 +9,7 @@ First the physical exhaustion sets in; every muscle sore, ears ringing, eyes tir
 
 It’s tough: the day after a gig. Not tough like quantum electrodynamics. Or grief. But tough like your Garmin saying you’ll need 37 hours to recover from the previous 12 when you wake up. That’s the sort of tough it is. It’s a comedown. Even when you’re sober like I am; or perhaps especially then.
 
-*That’s me on bass and vocals.*
-
-There’s three parts to a gig: before, during, and after. Before, you practice. During, you play. After, you cope. The same is true for any life event – practice, play, cope. If you aren’t careful, you experience time in reverse. Instead of practicing, you prepare: reacting to events that take place in an unknowable future. Instead of playing, you perform: you’re not in the moment and in your body, you’re instead a camera pointed youwards, capturing every slip-up, every highlight, re-running the tape. And finally, you do not cope – instead of moving on, you hold on to the past, reliving the highlights (and the slip-ups) over and over and over again. It’s why the solo acoustic guitar set that bombs may be the toughest live music experience *in the moment*, but it’s the successful gig with your band that’s the toughest with which to cope *once the moment’s passed*.
+*That’s me on bass and vocals.*There’s three parts to a gig: before, during, and after. Before, you practice. During, you play. After, you cope. The same is true for any life event – practice, play, cope. If you aren’t careful, you experience time in reverse. Instead of practicing, you prepare: reacting to events that take place in an unknowable future. Instead of playing, you perform: you’re not in the moment and in your body, you’re instead a camera pointed youwards, capturing every slip-up, every highlight, re-running the tape. And finally, you do not cope – instead of moving on, you hold on to the past, reliving the highlights (and the slip-ups) over and over and over again. It’s why the solo acoustic guitar set that bombs may be the toughest live music experience*in the moment*, but it’s the successful gig with your band that’s the toughest with which to cope*once the moment’s passed*.
 
 I’m reminded of what Ashwin, our lead vocalist and rhythm guitarist, and my dear friend, said to me when he saw that I was getting the pre-gig jitters: we’ve practiced, now we just play.
 
@@ -19,7 +17,7 @@ That’s it, really.
 
 Sometimes you’re called upon to play: for me, on Friday night it was at a gig with my band, on Sunday it’s a pitch to the CXOs of a startup. Sometimes it’s harder to think of it as playing: maybe it’s a bad performance review you know you have to deliver to someone in your team, or a eulogy. And sometimes it’s the hardest thing of all: a tragedy for which you’re entirely unprepared. But in each of these events, the force of the universe within you thrusts you dramatically into the present.
 
-At all other times, you practice: think less exam **preparation** and more mediation **practice**. The difference, I have come to believe, is that practice recognises time as continuous: moments flow into each other, asking to be inhabited. Preparation sees time in discrete blocks: hours are stacked upon one another, modules to be completed. You prepare to **get** somewhere, you practise to **journey** there. Think of how much easier learning was when you had the luxury of only moving to the next chapter once you were done with the one prior. And how much harder it became when you were forced down a prescribed path at someone else’s pace.
+At all other times, you practice: think less exam **preparation**and more mediation**practice**. The difference, I have come to believe, is that practice recognises time as continuous: moments flow into each other, asking to be inhabited. Preparation sees time in discrete blocks: hours are stacked upon one another, modules to be completed. You prepare to**get**somewhere, you practise to**journey**there. Think of how much easier learning was when you had the luxury of only moving to the next chapter once you were done with the one prior. And how much harder it became when you were forced down a prescribed path at someone else’s pace.
 
 Ultimately, practice is the act of thrusting yourself into the present when the universe within doesn’t do it for you.
 
@@ -30,7 +28,7 @@ I remember from my stint leading product & user experience design for a direct-t
 
 ADHD. INTP. The age of attention. The age of isolation.
 
-[- ](https://substackcdn.com/image/fetch/$s_!zJA3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5bd7bc55-1231-41d2-bf04-5c730a464350_1024x1024.png)Now don’t get me wrong. This isn’t a statement on the quality of the t-shirts. I was a customer myself; they were very good. This isn’t a statement on the quality of the customers either. They were an incredibly discerning lot (so many ways to tell: SKU-wise sales, price elasticity, SKU-wise rates of return, etc.) It’s mostly a statement on stillness.
+![](/images/essays/practicing/1.png)Now don’t get me wrong. This isn’t a statement on the quality of the t-shirts. I was a customer myself; they were very good. This isn’t a statement on the quality of the customers either. They were an incredibly discerning lot (so many ways to tell: SKU-wise sales, price elasticity, SKU-wise rates of return, etc.) It’s mostly a statement on stillness.
 
 For me, the easiest essay to write is the one I write right after the first one I’ve written in months. This is a repeating pattern with me. Essay number two is usually followed by another couple, followed eventually by an undefined hiatus. Rinse, repeat. This time, I hope to break the cycle. Only time will tell.
 
@@ -52,321 +50,12 @@ Max Richter: [Sleep](https://music.apple.com/ae/album/sleep/1452629309) & [The B
 - [ESG: Come Away with ESG](https://music.apple.com/ae/album/come-away-with-esg/1668437008)
 
 ## What I’m reading
-This week, I re-read a large chunk of Nate Silver’s 2012 book, *the Signal and the Noise*, perhaps the most bigged-up popsci book or forecasting ever. Its byline – *Why So Many Predictions Fail – but Some Don't* – was deliciously ironic when I hit this section early in the book.
+This week, I re-read a large chunk of Nate Silver’s 2012 book,*the Signal and the Noise*, perhaps the most bigged-up popsci book or forecasting ever. Its byline –*Why So Many Predictions Fail – but Some Don't*– was deliciously ironic when I hit this section early in the book.
 
-[](https://substackcdn.com/image/fetch/$s_!AzCT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa332c12e-fbd1-46a6-a915-a498f85ba391_768x1024.jpeg)Turns out he got that last prediction right.
+![](/images/essays/practicing/2.jpeg)Turns out he got that last prediction right.
 
-I also got done reading *the Psychology of Money *by Morgan Houssel, a book I recommend, and one I plan on summarising for myself some day. If I do, I will share my summary too.
+I also got done reading*the Psychology of Money *by Morgan Houssel, a book I recommend, and one I plan on summarising for myself some day. If I do, I will share my summary too.
 
 I’ve also been enjoying Slavoj Žižek’s Substack.
 
-[![](./Practicing - Akhil Srivatsan_files/6043f91e-4df7-45e0-9b7e-b660ec938114_368x368.jpg)ŽIŽEK GOADS AND PRODSTHE POPE IS DEAD, ANTI-CHRIST IS ALIVE AND KICKING Comrades…Read morea year ago · 285 likes · 12 comments · Slavoj Žižek](https://slavoj.substack.com/p/give-vance-what-he-wishes?utm_source=substack&utm_campaign=post_embed&utm_medium=web)Next, I plan to either slog through *Liberalism at Large*, or breeze through Ted Chiang’s collection of stories, *Exhalation*. Remains to be seen.
-
-[](https://substack.com/profile/54970142-pallavi-vashistha)1 Like∙[1 Restack](https://substack.com/note/p-162810815/restacks?utm_source=substack&utm_content=facepile-restacks)11
-
-            
-        
-
-        
-
-        
-        
-        
-        
-        
-        
-
-        
-        
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-        
-        
-
-        
-
-        
-        
-
-        
-
-        
-    
-
-    
-        This site requires JavaScript to run correctly. Please [turn on JavaScript](https://enable-javascript.com/) or unblock scripts
+[![](./Practicing - Akhil Srivatsan_files/6043f91e-4df7-45e0-9b7e-b660ec938114_368x368.jpg)ŽIŽEK GOADS AND PRODSTHE POPE IS DEAD, ANTI-CHRIST IS ALIVE AND KICKING Comrades…Read morea year ago · 285 likes · 12 comments · Slavoj Žižek](https://slavoj.substack.com/p/give-vance-what-he-wishes?utm_source=substack&utm_campaign=post_embed&utm_medium=web)Next, I plan to either slog through*Liberalism at Large*, or breeze through Ted Chiang’s collection of stories,*Exhalation*. Remains to be seen.

@@ -4,13 +4,13 @@ date: 2021-02-25T00:00:00.000Z
 subcategory: Music
 ---
 
-Maybe there’s a certain age you’ve got to be to get completely hooked on to the sort of evocatively emotional lyricism you find on Jawbreaker’s third album, *24 Hour Revenge Therapy*. Take for example *Ashtray Monument*. 
+Maybe there’s a certain age you’ve got to be to get completely hooked on to the sort of evocatively emotional lyricism you find on Jawbreaker’s third album, *24 Hour Revenge Therapy*. Take for example*Ashtray Monument*. 
 
 > Run for cover, there's a big one coming
 You'll be lucky if you're at ground zero
 No one said that this life was easy
 Did that no one ever live a life this hard?
-It is a little over the top perhaps, but when I first heard Jawbreaker’s *24 Hour Revenge Therapy*, I was instantly hooked. The truth is, I came to this album a lot later than most lifelong Jawbreak fans must’ve. I was in my early twenties, either just graduating college or already dealing with issues of a grown-up life like rent and utilities and bills. But the record – and *Bivouac* before it – struck a chord somewhere deep within my core. And unlike many of my other favourite records, in the case of *24 Hour Revenge Therapy*, it was almost entirely down to its lyricism. Examples are strewn all over the album. 
+It is a little over the top perhaps, but when I first heard Jawbreaker’s *24 Hour Revenge Therapy*, I was instantly hooked. The truth is, I came to this album a lot later than most lifelong Jawbreak fans must’ve. I was in my early twenties, either just graduating college or already dealing with issues of a grown-up life like rent and utilities and bills. But the record – and*Bivouac* before it – struck a chord somewhere deep within my core. And unlike many of my other favourite records, in the case of *24 Hour Revenge Therapy*, it was almost entirely down to its lyricism. Examples are strewn all over the album. 
 
 Like on Verse 2 of album opener and perennial solo acoustic guitar performance favourite, *The Boat Dreams From The Hill*.
 
@@ -34,7 +34,7 @@ And on *Boxcar*, the song that has ever since been my first line of defence agai
 I was passing out when you were passing out your rules
 One, two, three, four
 Who's punk? What's the score?
-(Ironically the very punk purism that they were railing against on *Boxcar *would come to bite Jawbreaker in the ass right after the release of *Boxcar* and *24 Hour Revenge Therapy*. Their next album, and their final one, would be the major label release, *Dear You*, a target for accusations of selling out.)
+(Ironically the very punk purism that they were railing against on *Boxcar*would come to bite Jawbreaker in the ass right after the release of *Boxcar* and *24 Hour Revenge Therapy*. Their next album, and their final one, would be the major label release,*Dear You*, a target for accusations of selling out.)
 
 Or on the previously mentioned *Ashtray Monument*, an emotional outburst for days that feel particularly overwhelming. 
 
@@ -59,4 +59,4 @@ Are we talking?
 Are we fighting?
 Is it over?
 Are we writing?
-Every song features intensely quotable, intensely personal, emotional lyrics – personal tribulations, small and large, laid out with close to no fear of judgment. Young souls laid close to bare. It’s no wonder that the poeticism of this album and its initially derided followup, *Dear You*, would go on to serve as an early lyrical blueprint for the emo that would take over malls all over the world in the early 2000s. On some days, a disproportionate response to one’s woes seems absolutely justified, and that’s just as true for a teenager as it is for thirty-something. On those days, an album like *24 Hour Revenge Therapy *is a god-send.
+Every song features intensely quotable, intensely personal, emotional lyrics – personal tribulations, small and large, laid out with close to no fear of judgment. Young souls laid close to bare. It’s no wonder that the poeticism of this album and its initially derided followup, *Dear You*, would go on to serve as an early lyrical blueprint for the emo that would take over malls all over the world in the early 2000s. On some days, a disproportionate response to one’s woes seems absolutely justified, and that’s just as true for a teenager as it is for thirty-something. On those days, an album like*24 Hour Revenge Therapy *is a god-send.

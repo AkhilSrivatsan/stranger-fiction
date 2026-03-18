@@ -12,6 +12,6 @@ Except the one…
 
 When she perceived herself to be under performance pressure, which was often, she would listen to piano jazz. Some of it good, some of it two-hour-long videos by faceless uploaders on YouTube. As you might imagine, there was no worse time to be reporting to this horrible boss than when she perceived herself to be under performance pressure, so I began to associate piano jazz not with a relaxing evening at home or at a club, but with verbal takedowns. It made it difficult for me to enjoy piano jazz for years.
 
-Thankfully, that’s a thing of the past now. So when I read [this post](https://joelcondemi.substack.com/p/three-records-to-get-you-into-jazz) on Substack, and read about Takeshi Shibuya’s *Dream*, I could just enjoy what the article describes as “one of the greatest live albums of all time, right up there with *Waltz for Debby*.” The article goes on to say: “It’s just the most beautiful and delicate of recordings, and I would have given anything to have been there in the room when it was recorded.” 
+Thankfully, that’s a thing of the past now. So when I read [this post](https://joelcondemi.substack.com/p/three-records-to-get-you-into-jazz) on Substack, and read about Takeshi Shibuya’s *Dream*, I could just enjoy what the article describes as “one of the greatest live albums of all time, right up there with*Waltz for Debby*.” The article goes on to say: “It’s just the most beautiful and delicate of recordings, and I would have given anything to have been there in the room when it was recorded.” 
 
 I agree.

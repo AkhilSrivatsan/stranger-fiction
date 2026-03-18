@@ -4,7 +4,7 @@ date: 2021-01-10T00:00:00.000Z
 subcategory: Cinema & TV
 ---
 
-A happy side effect of movies getting made specifically for smaller screens is smaller budget movies getting their time in the sun. Would a movie like [*His House*](https://www.netflix.com/watch/81231197) have gotten the sort of international release it got in pre-streaming days? Probably not, I think. And if ever you need to make a convincing argument to a Marvel-loving friend that a smaller budget doesn’t mean smaller themes, *His House* might be a great starting point.
+A happy side effect of movies getting made specifically for smaller screens is smaller budget movies getting their time in the sun. Would a movie like [*His House*](https://www.netflix.com/watch/81231197) have gotten the sort of international release it got in pre-streaming days? Probably not, I think. And if ever you need to make a convincing argument to a Marvel-loving friend that a smaller budget doesn’t mean smaller themes,*His House* might be a great starting point.
 
 *His House* is ostensibly a horror movie about a refugee couple, Bol and Rial, who escape South Sudan’s civil war to find themselves confined in a haunted house in the back alleys of a UK suburb. A combination of government bureaucracy and unfamiliarity with their new surroundings forces them to spend most of their days indoors with little to no outside human contact. Almost right from night one, things start to go bump, and the differing reactions of Bol and Rial (played expertly by Sope Dirisu and Wunmi Mosaku) form the backbone of the movie.
 

@@ -12,9 +12,9 @@ Truth is, I had written a long history of *So*, Peter Gabriel’s 1986 album, be
 
 - He had founded [WOMAD](https://www.youtube.com/watch?v=uUS0-0Fv7c8) (World of Music, Arts and Dance), an international arts festival to promote world music.
 
-- His success had, in public perception, been overshadowed by the success of his former bandmate, Phil Collins, whose tabletop pop had become the sound of the eighties starting with his 1981 debut *Face Value*, and its lead single, *In The Air Tonight*, [an influence that remains to this day](https://www.youtube.com/watch?v=yYYtgsoMap4). [Since we are a culture that deals in myths and dichotomies](http://homes.chass.utoronto.ca/~ikalmar/illustex/Barthes-wrestling.htm), these sorts of perceptions tend to stick and become part of shared lore.
+- His success had, in public perception, been overshadowed by the success of his former bandmate, Phil Collins, whose tabletop pop had become the sound of the eighties starting with his 1981 debut *Face Value*, and its lead single,*In The Air Tonight*, [an influence that remains to this day](https://www.youtube.com/watch?v=yYYtgsoMap4). [Since we are a culture that deals in myths and dichotomies](http://homes.chass.utoronto.ca/~ikalmar/illustex/Barthes-wrestling.htm), these sorts of perceptions tend to stick and become part of shared lore.
 
-- *So *challenged that narrative by exploding onto the scene in 1986:
+- *So*challenged that narrative by exploding onto the scene in 1986:
 
 It topped charts all over the world.
 
@@ -28,7 +28,7 @@ the use of sampling, particularly in the context of pop-rock, something that had
 
 - the use of world music influences without it sounding like out-of-place, wide-eyed orientalism.
 
-In my view, this album is a classic of experimental pop, striking a deliciously fine balance between those two words that are unfortunately (read: incorrectly) often seen as contradictory: *experimental* and *pop*. While on the one hand there’s the soul-influenced pop sensibilities of *Sledgehammer* and the funk-tinged bridges of *Big Time*, on the other, there’s the worldbeat of *This Is The Picture* and the beautifully produced stillness of *Mercy Street. *
+In my view, this album is a classic of experimental pop, striking a deliciously fine balance between those two words that are unfortunately (read: incorrectly) often seen as contradictory: *experimental* and *pop*. While on the one hand there’s the soul-influenced pop sensibilities of*Sledgehammer* and the funk-tinged bridges of *Big Time*, on the other, there’s the worldbeat of*This Is The Picture* and the beautifully produced stillness of *Mercy Street. *
 
 It isn’t a stretch to call this album mandatory listening.
 

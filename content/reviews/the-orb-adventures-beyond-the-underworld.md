@@ -10,4 +10,4 @@ It’s a two-hour-long concept album, so, in my view, best experienced at night,
 
 Check it out on [Spotify](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk?si=An_s-dCxRCu8-n7oyaselg), [Apple Music](https://music.apple.com/us/album/the-orbs-adventures-beyond-the-ultraworld/1452851519), or [YouTube](https://www.youtube.com/watch?list=OLAK5uy_mSxAAo6upCAkrTugUoknYFaQyKAqa3uUc&v=m8s78iWfVHQ).
 
-### **More **[**Now Playing**](/now-playing-1)
+### **More**[**Now Playing**](/now-playing-1)
