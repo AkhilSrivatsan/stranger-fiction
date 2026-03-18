@@ -104,6 +104,9 @@
 
             <!-- Post list -->
             <div id="post-list">
+                <div id="post-search" style="display:none">
+                    <input type="text" id="post-search-input" placeholder="Search posts..." oninput="filterPosts()">
+                </div>
                 <h3 id="drafts-heading" style="display:none">Drafts</h3>
                 <ul id="drafts"></ul>
                 <h3 id="published-heading" style="display:none">Published</h3>

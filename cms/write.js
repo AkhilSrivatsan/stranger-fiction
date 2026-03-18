@@ -15,6 +15,8 @@ const API_BASE = window.location.hostname === 'localhost' ? '' : (window.CMS_API
 let cmsPassword = '';
 let editingPath = null; // tracks if we're editing an existing post
 let previewVisible = false;
+let allDrafts = [];
+let allPublished = [];
 
 // ---------------------------------------------------------------------------
 // Auth
@@ -341,58 +343,78 @@ async function loadPosts() {
       return;
     }
 
-    // Render drafts
-    const draftsEl = document.getElementById('drafts');
-    const draftsHead = document.getElementById('drafts-heading');
-    draftsEl.innerHTML = '';
-    if (data.drafts.length > 0) {
-      draftsHead.style.display = '';
-      for (const d of data.drafts) {
-        const li = document.createElement('li');
-        const a = document.createElement('a');
-        a.textContent = d.slug.replace(/-/g, ' ');
-        a.href = '#';
-        a.onclick = function(e) { e.preventDefault(); loadPost(d.path); };
-        li.appendChild(a);
-        const span = document.createElement('span');
-        span.className = 'post-cat';
-        span.textContent = d.category;
-        li.appendChild(span);
-        draftsEl.appendChild(li);
-      }
-    } else {
-      draftsHead.style.display = 'none';
-    }
+    allDrafts = data.drafts;
+    allPublished = data.published.slice().reverse();
 
-    // Render published (most recent first, limit to 30)
-    const pubEl = document.getElementById('published');
-    const pubHead = document.getElementById('published-heading');
-    pubEl.innerHTML = '';
-    if (data.published.length > 0) {
-      pubHead.style.display = '';
-      const shown = data.published.slice(-30).reverse();
-      for (const p of shown) {
-        const li = document.createElement('li');
-        const a = document.createElement('a');
-        a.textContent = p.slug.replace(/-/g, ' ');
-        a.href = '#';
-        a.onclick = function(e) { e.preventDefault(); loadPost(p.path); };
-        li.appendChild(a);
-        const span = document.createElement('span');
-        span.className = 'post-cat';
-        span.textContent = p.category;
-        li.appendChild(span);
-        pubEl.appendChild(li);
-      }
-    } else {
-      pubHead.style.display = 'none';
-    }
-
+    document.getElementById('post-search').style.display = '';
+    document.getElementById('post-search-input').value = '';
     document.getElementById('load-posts-btn').style.display = 'none';
+    renderPostList(allDrafts, allPublished);
     setStatus('');
   } catch (err) {
     setStatus(`Error: ${err.message}`);
   }
+}
+
+function renderPostList(drafts, published) {
+  const draftsEl = document.getElementById('drafts');
+  const draftsHead = document.getElementById('drafts-heading');
+  draftsEl.innerHTML = '';
+  if (drafts.length > 0) {
+    draftsHead.style.display = '';
+    for (const d of drafts) {
+      const li = document.createElement('li');
+      const a = document.createElement('a');
+      a.textContent = d.slug.replace(/-/g, ' ');
+      a.href = '#';
+      a.onclick = function(e) { e.preventDefault(); loadPost(d.path); };
+      li.appendChild(a);
+      const span = document.createElement('span');
+      span.className = 'post-cat';
+      span.textContent = d.category;
+      li.appendChild(span);
+      draftsEl.appendChild(li);
+    }
+  } else {
+    draftsHead.style.display = 'none';
+  }
+
+  const pubEl = document.getElementById('published');
+  const pubHead = document.getElementById('published-heading');
+  pubEl.innerHTML = '';
+  if (published.length > 0) {
+    pubHead.style.display = '';
+    for (const p of published) {
+      const li = document.createElement('li');
+      const a = document.createElement('a');
+      a.textContent = p.slug.replace(/-/g, ' ');
+      a.href = '#';
+      a.onclick = function(e) { e.preventDefault(); loadPost(p.path); };
+      li.appendChild(a);
+      const span = document.createElement('span');
+      span.className = 'post-cat';
+      span.textContent = p.category;
+      li.appendChild(span);
+      pubEl.appendChild(li);
+    }
+  } else {
+    pubHead.style.display = 'none';
+  }
+}
+
+function filterPosts() {
+  const q = document.getElementById('post-search-input').value.toLowerCase().trim();
+  if (!q) {
+    renderPostList(allDrafts, allPublished);
+    return;
+  }
+  const matchDrafts = allDrafts.filter(d =>
+    d.slug.replace(/-/g, ' ').includes(q) || d.category.includes(q)
+  );
+  const matchPub = allPublished.filter(p =>
+    p.slug.replace(/-/g, ' ').includes(q) || p.category.includes(q)
+  );
+  renderPostList(matchDrafts, matchPub);
 }
 
 async function loadPost(filePath) {
