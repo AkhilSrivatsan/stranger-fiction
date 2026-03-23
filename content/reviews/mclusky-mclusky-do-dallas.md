@@ -10,4 +10,4 @@ The components of a McLusky track are simple: Falco’s shout-singing, supported
 
 This isn’t to say the album seeks to be this sort of serious exercise in penance: it most certainly doesn’t. It’s intended to be fun, simple. And it is. It just does that job so effectively that it makes me think about the fundamentals of fun, if you will. About how there’s no better way to have fun than just being present and not thinking you’re what’s what.
 
-*trans. silly? nonsense?**
+*trans. silly? nonsense?***
