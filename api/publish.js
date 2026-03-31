@@ -90,7 +90,7 @@ module.exports = async function handler(req, res) {
     if (email && process.env.BUTTONDOWN_API_KEY) {
       try {
         const siteUrl = 'https://www.akhilsrivatsan.com';
-        const articleUrl = `${siteUrl}/${category}/${slug}.html`;
+        const articleUrl = `${siteUrl}/${category}/${slug}`;
         const emailBody = `${body}\n\n---\n\n[Read on the site](${articleUrl})`;
 
         const bdRes = await fetch('https://api.buttondown.com/v1/emails', {
