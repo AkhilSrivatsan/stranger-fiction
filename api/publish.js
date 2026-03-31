@@ -98,6 +98,7 @@ module.exports = async function handler(req, res) {
           headers: {
             Authorization: `Token ${process.env.BUTTONDOWN_API_KEY}`,
             'Content-Type': 'application/json',
+            'X-Buttondown-Live-Dangerously': 'true',
           },
           body: JSON.stringify({
             subject: title,
