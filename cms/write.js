@@ -432,6 +432,7 @@ async function loadPost(filePath) {
     const fm = data.frontmatter;
     document.getElementById('title').value = fm.title || '';
     document.getElementById('description').value = fm.description || '';
+    updateDescCount(fm.description || '');
     document.getElementById('body').value = data.body || '';
 
     // Set category
@@ -545,6 +546,7 @@ function resetEditor() {
   document.getElementById('category').value = '';
   document.getElementById('category').dispatchEvent(new Event('change'));
   document.getElementById('description').value = '';
+  updateDescCount('');
   document.getElementById('body').value = '';
   document.getElementById('email-subscribers').checked = false;
   editingPath = null;
@@ -553,6 +555,17 @@ function resetEditor() {
   setTodayDate();
   if (previewVisible) togglePreview();
   setStatus('');
+}
+
+// ---------------------------------------------------------------------------
+// Description character counter
+// ---------------------------------------------------------------------------
+function updateDescCount(val) {
+  const n = val.length;
+  const el = document.getElementById('desc-count');
+  if (!el) return;
+  el.textContent = n;
+  el.className = 'desc-count' + (n === 0 ? ' desc-empty' : n <= 155 ? ' desc-good' : ' desc-over');
 }
 
 // ---------------------------------------------------------------------------

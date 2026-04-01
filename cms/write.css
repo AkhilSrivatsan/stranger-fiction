@@ -227,4 +227,22 @@ button.tb:hover {
     flex: 1;
 }
 
+/* Description field with character counter */
+.desc-field {
+    position: relative;
+}
+
+.desc-count {
+    position: absolute;
+    right: 8px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 0.75rem;
+    pointer-events: none;
+}
+
+.desc-empty { color: var(--muted); }
+.desc-good  { color: #4a9c59; }
+.desc-over  { color: #c0392b; }
+
 /* CSS variables are inherited from style.css via data-theme */
