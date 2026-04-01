@@ -7,7 +7,7 @@ const { marked } = require('marked');
 // Config
 // ---------------------------------------------------------------------------
 const SITE_TITLE = 'Akhil Srivatsan';
-const SITE_URL = 'https://akhilsrivatsan.com';
+const SITE_URL = 'https://www.akhilsrivatsan.com';
 const SITE_DESCRIPTION = 'Writer, musician, business owner, international Mumbaikar. Interests: business as a creative endeavour, art as a commercial endeavour, the subjective vs. the objective nature of existence, music, books, bad jokes. (AI AI AI AI)';
 const CONTENT_DIR = path.join(__dirname, 'content');
 const TEMPLATE_DIR = path.join(__dirname, 'templates');
@@ -17,22 +17,27 @@ const OUT_DIR = path.join(__dirname, 'site');
 const CATEGORIES = {
   fiction: {
     title: 'Fiction',
+    description: 'Fiction by Akhil Srivatsan, including After Forever — a 7-part serialised sci-fi novelette — and short stories.',
     subcategories: ['After Forever', 'Stories'],
   },
   music: {
     title: 'Music',
+    description: 'Original music by Akhil Srivatsan — releases, covers, and Sonic Pi coding experiments.',
     subcategories: ['Releases', 'Sonic Pi experiments'],
   },
   essays: {
     title: 'Essays',
-    subcategories: null, // flat list
+    description: 'Personal essays by Akhil Srivatsan on creativity, technology, alienation, and the practice of writing.',
+    subcategories: null,
   },
   reviews: {
     title: 'Reviews',
+    description: 'Essays on music, film, and new media — using albums, films, and games as lenses for personal and philosophical exploration.',
     subcategories: ['Music', 'Cinema & TV', 'New Media'],
   },
   journal: {
     title: 'Journal',
+    description: 'Journal entries by Akhil Srivatsan.',
     subcategories: null,
   },
 };
@@ -271,7 +276,11 @@ function articleJsonLd(post) {
     author: { '@type': 'Person', name: 'Akhil Srivatsan', url: SITE_URL },
     publisher: { '@type': 'Person', name: 'Akhil Srivatsan', url: SITE_URL },
   };
-  if (post.date) obj.datePublished = post.date.toISOString().split('T')[0];
+  if (post.date) {
+    const isoDate = post.date.toISOString().split('T')[0];
+    obj.datePublished = isoDate;
+    obj.dateModified = isoDate;
+  }
   if (post.description) obj.description = post.description;
   return JSON.stringify(obj, null, 2);
 }
@@ -467,7 +476,7 @@ function buildCategoryPage(category) {
   }
 
   const html = `${htmlHead(`${config.title} — ${SITE_TITLE}`, '', {
-    description: SITE_DESCRIPTION,
+    description: config.description || SITE_DESCRIPTION,
     canonical,
     type: 'website',
   })}
@@ -647,9 +656,13 @@ function buildSitemap(allPosts) {
   // Index
   urls += `  <url>\n    <loc>${SITE_URL}/</loc>\n    <lastmod>${buildDate}</lastmod>\n  </url>\n`;
 
-  // Category pages
+  // Category pages — lastmod = newest post date in that category
   for (const cat of Object.keys(CATEGORIES)) {
-    urls += `  <url>\n    <loc>${SITE_URL}/${cat}</loc>\n    <lastmod>${buildDate}</lastmod>\n  </url>\n`;
+    const catPosts = allPosts.filter(p => p.category === cat && p.date);
+    const newestDate = catPosts.length > 0
+      ? catPosts.sort((a, b) => b.date - a.date)[0].date.toISOString().split('T')[0]
+      : buildDate;
+    urls += `  <url>\n    <loc>${SITE_URL}/${cat}</loc>\n    <lastmod>${newestDate}</lastmod>\n  </url>\n`;
   }
 
   // Article pages (local content only, not external links)
@@ -679,6 +692,33 @@ function buildRobots() {
 // ---------------------------------------------------------------------------
 // Main build
 // ---------------------------------------------------------------------------
+
+function build404() {
+  const html = `${htmlHead('Page not found — ' + SITE_TITLE, '', {
+    description: 'This page could not be found.',
+    canonical: SITE_URL + '/',
+  })}
+<body>
+    <main>
+        <div class="header-row"><a href="/" class="back">← ${SITE_TITLE}</a>${themeToggle()}</div>
+        <h2>Page not found</h2>
+        <p style="margin-bottom:2rem;color:var(--muted)">This page doesn't exist. Maybe it moved, maybe it never did.</p>
+        <nav>
+            <ul>
+                <li><a href="fiction">Fiction</a></li>
+                <li><a href="music">Music</a></li>
+                <li><a href="essays">Essays</a></li>
+                <li><a href="reviews">Reviews</a></li>
+                <li><a href="journal">Journal</a></li>
+            </ul>
+        </nav>
+${footer()}
+    </main>
+</body>
+</html>
+`;
+  fs.writeFileSync(path.join(OUT_DIR, '404.html'), html);
+}
 
 function build() {
   console.log('Building site...');
@@ -752,6 +792,10 @@ function build() {
   // Build robots.txt
   buildRobots();
   console.log('  robots.txt');
+
+  // Build 404 page
+  build404();
+  console.log('  404.html');
 
   console.log(`\nDone. Output in ${OUT_DIR}`);
 }
