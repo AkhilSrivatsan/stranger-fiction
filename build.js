@@ -219,6 +219,13 @@ ${metas.join('\n')}${extraHeadHtml}
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="${pathPrefix}style.css">
     <link rel="alternate" type="application/rss+xml" title="${SITE_TITLE}" href="${SITE_URL}/feed.xml">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZPQVLTB3DM"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-ZPQVLTB3DM');
+    </script>
 </head>`;
 }
 
