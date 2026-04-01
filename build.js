@@ -194,13 +194,17 @@ function htmlHead(title, pathPrefix = '', options = {}) {
   if (canonical) {
     metas.push(`    <meta property="og:url" content="${escAttr(canonical)}">`);
   }
+  metas.push(`    <meta property="og:image" content="${SITE_URL}/images/og-default.png">`);
+  metas.push(`    <meta property="og:image:width" content="1200">`);
+  metas.push(`    <meta property="og:image:height" content="630">`);
 
   // Twitter card
-  metas.push(`    <meta name="twitter:card" content="summary">`);
+  metas.push(`    <meta name="twitter:card" content="summary_large_image">`);
   metas.push(`    <meta name="twitter:title" content="${escAttr(title)}">`);
   if (description) {
     metas.push(`    <meta name="twitter:description" content="${escAttr(description)}">`);
   }
+  metas.push(`    <meta name="twitter:image" content="${SITE_URL}/images/og-default.png">`);
 
   return `<!DOCTYPE html>
 <html lang="en">
