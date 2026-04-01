@@ -432,7 +432,6 @@ async function loadPost(filePath) {
     const fm = data.frontmatter;
     document.getElementById('title').value = fm.title || '';
     document.getElementById('description').value = fm.description || '';
-    updateDescCount(fm.description || '');
     document.getElementById('body').value = data.body || '';
 
     // Set category
@@ -546,7 +545,6 @@ function resetEditor() {
   document.getElementById('category').value = '';
   document.getElementById('category').dispatchEvent(new Event('change'));
   document.getElementById('description').value = '';
-  updateDescCount('');
   document.getElementById('body').value = '';
   document.getElementById('email-subscribers').checked = false;
   editingPath = null;
