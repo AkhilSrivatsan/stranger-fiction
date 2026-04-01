@@ -2,6 +2,7 @@
 title: 'Nothing: Tired of Tomorrow'
 date: 2022-12-12T00:00:00.000Z
 subcategory: Music
+description: "Hearing Nothing's Tired of Tomorrow in the world's most absurd café — on how a great shoegaze record grounds you in the present, however surreal that present is."
 ---
 
 While sitting in the world’s most absurd café after completing the world’s most meandering walk, your phone suggests you listen to Nothing’s *Famine Asylum* off of their 2020 album, *The Great Dismal*. You’re reminded of an earlier album by the same band, 2016’s*Tired of Tomorrow*, as a beskirted post-Soviet NFT scamster asks a vaguely Mediterranean dad-bodied man wearing a deep blue TOMMY JEANS tee to take a photo of the fifteen con artists gathered behind you. You’re listening to one of the best shoegaze albums of the 2010s (Tired of Tomorrow) by one of Philadelphia’s best shoegaze exports (Nothing) as it reaches the first of many crescendos – on its best track (Track 3, Vertigo Flowers) – in the world’s weirdest café.

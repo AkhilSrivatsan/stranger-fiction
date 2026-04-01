@@ -2,6 +2,7 @@
 title: 'Weezer: Weezer (Blue Album)'
 date: 2022-02-19T00:00:00.000Z
 subcategory: Music
+description: "The Boy Who Cried Wolf retold from every angle except the obvious one — and whatever it is that Weezer's Blue Album has to do with any of this."
 ---
 
 The thing nobody seems to ask about the boy who cried wolf is why Bubby would do such a thing. What would prompt an otherwise standard-issue ten-year-old – likely even-tempered and straight-laced – to, on seemingly unconnected days, run through the village screaming about a wolf he’s seen? Aesop blames it on boredom and naughtiness, common childhood maladies, but eventually faults the kid: liars will never be believed, even when they speak the truth.

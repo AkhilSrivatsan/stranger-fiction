@@ -2,6 +2,7 @@
 title: 'Various Artists: Simla Beat ''70 and ''71'
 date: 2021-03-06T00:00:00.000Z
 subcategory: Music
+description: "India's 1970s psych-rock scene as an act of defiance — bands building instruments from police drums and scrap wood to play at Shanmukhananda Hall."
 ---
 
 Last week, I spoke about the world’s first ever well-travelled genre of music – psychedelic rock – and [its Cambodian iteration](https://www.stranger-fiction.com/stories-of-music-discovery/on-cambodian-rocks-a-compilation-of-cambodian-psych-rock-from-the-70s). This week, my travels have brought me to two compilations from India – *Simla Beat ‘70* and *Simla Beat ‘71* – and a book chronicling India’s early psych-rock scene and the Simla Beat competitions whose 1970 and 1971 winners feature on those two LPs – *India Psychedelic: the Story of a Rocking Generation* by Sidharth Bhatia. I soon realised just how true my initial assessment on the global footprint of psychedelic rock was, when, after a few minutes spent listening to *I’m So Glad* by Mumbai’s Velvette Fogg, I discovered a 2016 boxset of 20 volumes by the garage rock record label, Pebbles, which compiled psych-rock singles from countries ranging from India to Bolivia, and whose eighth volume consists of the *Simla Beat ‘71* tracks re-arranged (plus one additional Ilaiyaraja track). 

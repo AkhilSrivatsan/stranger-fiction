@@ -2,6 +2,7 @@
 title: 'Murthovic: Antariksha Sanchar: Transmissions in Space, Vol. 1'
 date: 2020-08-18T00:00:00.000Z
 subcategory: Music
+description: "On Murthovic's Antariksha Sanchar — electronic music fused with Carnatic classical, born from a video game + dance opera + graphic novel universe inspired by Ramanujan."
 ---
 
 A few days ago, I discovered something incredibly interesting online. I stumbled upon a feature on Antariksha Sanchar, described on their own Instagram page as video game + dance opera + graphic novel + electronic music + art merch. Even conceptually, the idea is just so fresh, and for a Tam such as myself, so relatable. To draw from the official website, Antariksha Sanchar is a point and click adventure inspired by the dream theorems of prodigious mathematician Srinivasa Ramanujan and originated from an opera by the classical dancer Jayalakshmi Eshwar.

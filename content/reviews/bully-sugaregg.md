@@ -2,6 +2,7 @@
 title: 'Bully: SUGAREGG'
 date: 2020-08-25T00:00:00.000Z
 subcategory: Music
+description: "Uses Bully's cathartic grunge-rock to ask why creative people make things at all — and finds that the answer is the same for the maker and the listener."
 ---
 
 #### Part 1. Where I talk about Bully’s third album, *SUGAREGG*: a good album that I like.

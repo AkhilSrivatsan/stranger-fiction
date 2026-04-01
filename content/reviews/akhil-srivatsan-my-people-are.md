@@ -2,6 +2,7 @@
 title: 'Akhil Srivatsan: my people are...'
 date: 2020-11-09T00:00:00.000Z
 subcategory: Music
+description: "A rare moment of honest self-appraisal: revisiting his own debut record and finding it good — made in sadness, and permanently special for that reason."
 ---
 
 A little horn-tooting here.

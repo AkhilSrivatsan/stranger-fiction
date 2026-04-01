@@ -2,6 +2,7 @@
 title: No Surprises
 date: 2020-09-10T00:00:00.000Z
 subcategory: Sonic Pi experiments
+description: "First Sonic Pi experiment: arranging Radiohead's No Surprises in code to learn the basics, before moving on to composition."
 ---
 
 #### The purpose of this experiment.

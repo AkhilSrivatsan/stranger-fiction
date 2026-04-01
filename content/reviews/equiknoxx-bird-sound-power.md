@@ -2,6 +2,7 @@
 title: 'Equiknoxx: Bird Sound Power'
 date: 2020-05-29T00:00:00.000Z
 subcategory: Music
+description: "Equiknoxx's dissonant dancehall as a set of new tricks — why music that resists convergence matters when life itself won't provide a neat resolution."
 ---
 
 Saw [this amazing video](https://www.youtube.com/watch?v=rh5ARlHFo-8) where Sean Paul talks about his favourite dancehall tracks, and gives a fascinating history lesson on dancehall music in his native Jamaica. I highly recommend it. And [here’s a playlist](https://open.spotify.com/user/lbc9daxvsdobqycbg6hm8e6e9/playlist/1s0KCgaK0UbFIeQSUQK3cl?si=bVZMLSUTR9OyB15qrn3SOw) of the tracks he lists in the video. I highly recommend that too. In fact I highly recommend this over the album I started out claiming I would recommend in the first place. It’s in many ways more melodic and more appealing than what follows. 

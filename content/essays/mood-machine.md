@@ -1,5 +1,6 @@
 ---
 title: "A reading of Mood Machine by Liz Pelly"
+description: "Liz Pelly's Spotify critique is largely right, but the solution isn't collectivist policy — it's putting music in the foreground and buying it directly from artists."
 ---
 
 This is not a review of *Mood Machine*–*the Rise of Spotify and the Costs of the Perfect Playlist*by Liz Pelly. Before I take you on the sort of meandering walk through the jungle of context that is typical of my writing, let me introduce the book.*Mood Machine*identifies the several challenges that have followed from the growth of Spotify. These range from the financial challenges musicians face due to abysmal streaming proceeds to the collapse of active listening. I find a lot of these criticisms of Spotify fair (as I have discussed [in the past](https://www.akhilsrivatsan.com/p/daedalus-or-what-i-learnt-from-deleting)) and I recommend the read (strongly). However, I disagree with some of its framing of the problem encapsulated by its byline. The following sentences from the last few pages of the book serve as good examples of the source of my discomfort. I’ll tell you why after you go through the meandering context that follows.

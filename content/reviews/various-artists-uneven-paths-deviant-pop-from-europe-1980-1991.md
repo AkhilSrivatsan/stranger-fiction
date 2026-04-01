@@ -2,6 +2,7 @@
 title: 'Various Artists: Uneven Paths, Deviant Pop From Europe 1980​-​1991'
 date: 2021-01-22T00:00:00.000Z
 subcategory: Music
+description: "A vinyl discovery: forgotten European DIY pop from 1980–1991 that asks what if the eighties had sounded like this — bossa nova drum machines, tribal pop, reverb lushness."
 ---
 
 ## My vinyl collection

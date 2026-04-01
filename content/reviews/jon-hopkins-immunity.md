@@ -2,6 +2,7 @@
 title: 'Jon Hopkins: Immunity'
 date: 2020-10-18T00:00:00.000Z
 subcategory: Music
+description: "On Jon Hopkins' Immunity as the kind of meticulously assembled electronic music that makes you want to run to your workstation and build something of your own."
 ---
 
 Usually when you can't finish an album it's indicative of its failings. But in rare cases, it's indicative of a greatness that compels you to behave like some sort of character from a movie: hold your head in your hands, sink to your knees, stare at the sky, shake your head in disbelief, whisper wow through teary eyes. That's what happens with *Immunity.*

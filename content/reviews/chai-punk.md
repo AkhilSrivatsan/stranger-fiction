@@ -2,6 +2,7 @@
 title: 'CHAI: PUNK'
 date: 2021-03-02T00:00:00.000Z
 subcategory: Music
+description: "CHAI's joyous electro-punk as a provocation: why serious art criticism is allergic to happiness, and why that bias is worth interrogating."
 ---
 
 ## Whatever happened to laughter

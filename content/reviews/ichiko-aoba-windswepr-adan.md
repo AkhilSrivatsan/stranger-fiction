@@ -2,6 +2,7 @@
 title: 'Ichiko Aoba: Windswept Adan'
 date: 2020-12-08T00:00:00.000Z
 subcategory: Music
+description: "On how Windswept Adan floated out of a laptop and, gently, against all odds, converted world-weary morning anxiety into coffee and a calendar."
 ---
 
 ## 2020: the year of Aoba

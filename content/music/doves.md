@@ -2,6 +2,7 @@
 title: doves
 date: 2020-06-05T00:00:00.000Z
 subcategory: Releases
+description: "Written during the first lockdown when a family of pigeons nested on the balcony — a meditation on finding life against a backdrop of death."
 ---
 
 **Ok, first things first,

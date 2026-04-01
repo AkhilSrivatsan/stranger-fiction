@@ -2,6 +2,7 @@
 title: 'Burial: Untrue'
 date: 2020-10-08T00:00:00.000Z
 subcategory: Music
+description: "Burial's Untrue as the definitive sonic portrait of the city night — the liminal space between climbing and belonging, between the guest list and your real friends."
 ---
 
 You know what it's like, a city night. especially pre-2020. The sound of sparse traffic, people walking around each other, earphones on. Tubelit corner shops, tubelit buses, tubelit trains. A steady night rain experienced from within a quite porous jacket. Lonely, cold, empty. But you know what city nights could be, especially pre-2020. A bar with a close friend, holding hands about parents living elsewhere, brothers and sisters whose lives have led them to other cities with other nights. By a parapet wall, overseeing other friends in other houses, husbands wives kids, dinners drinks dates. Warm, full, lush. 

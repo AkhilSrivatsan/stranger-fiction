@@ -2,6 +2,7 @@
 title: 'A Forest Mighty Black: Mellowdramatic'
 date: 2021-05-14T00:00:00.000Z
 subcategory: Music
+description: "The rare non-British trip-hop masterpiece: how A Forest Mighty Black's Mellowdramatic conjures the comfort of a quiet night home from the world."
 ---
 
 I often think of trip-hop as being a quintessentially British phenomenon: an inflection point in nineties British electronic music that signaled the mainstreaming of atmosphere as a key component of the music in that country’s electronic canon. Consequently, all my favourite trip-hop albums are British: [Portishead’s *Dummy*](/reviews/portishead-dummy), Tricky’s*Maxinquaye*(featuring heavily, it needs to be said, Martina Topley-Bird), and Massive Attack’s*Mezzanine*. I’ve sampled very few non-British trip-hop albums, and fewer still have stood out. One that comes to mind is Madreblu’s*Necessità*, whose standout track,*Certamente*, features prominently in the Sopranos episode*Commendation*[1].

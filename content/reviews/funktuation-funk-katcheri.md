@@ -2,6 +2,7 @@
 title: 'Funktuation: Funk Katcheri'
 date: 2021-01-26T00:00:00.000Z
 subcategory: Music
+description: "A dark cloud day, and the Tamil electro-funk that kept him company — on coexisting with the cloud rather than trying to defeat it."
 ---
 
 Some days you spend under a dark cloud you can’t shake off. You can’t think of anything insightful to say. You can’t incite a single thought in your own mind, let alone the minds of others. You just want to call in a sick day to the universe’s HR and watch reruns of the Office or something. If you’ve made it long enough on this ellipsoidal boomerang, you will know it gets better, sometimes soon, sometimes later, but then you’ll also know that it also gets worse, then even better, then even worse. The alternative is somehow even more frightening: a moribund, but thankfully finite, existence spent revolving around our most proximate fusion reactor. Some days that’s all it feels like it’s about: how to keep from falling off a massive, uncaring frisbee. 

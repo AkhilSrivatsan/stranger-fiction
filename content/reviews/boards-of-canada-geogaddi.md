@@ -2,6 +2,7 @@
 title: 'Boards of Canada: Geogaddi'
 date: 2020-10-29T00:00:00.000Z
 subcategory: Music
+description: "Why Geogaddi is the best Boards of Canada album: its rare range, the human voice dissolved into texture, and 66 minutes that waste not a second."
 ---
 
 Boards of Canada are among the best at what they do, which is making smoky downtempo electronica. *Geogaddi* is widely considered their second best album, which is saying a lot, considering their best is widely considered to be *Music Has The Right Children*, often spoken of in glowing terms in relation not only to electronic music, but also to all of western popular music. But there’s something about the range of*Geogaddi*that makes it my favourite Boards Of Canada album.

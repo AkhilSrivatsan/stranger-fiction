@@ -2,6 +2,7 @@
 title: Honey Dijon Boiler Room x Sugar Mountain 2018 DJ Set
 date: 2021-01-17T00:00:00.000Z
 subcategory: Music
+description: "A defence of DJing as musicianship — using Honey Dijon's landmark Boiler Room set to trace anti-DJ sentiment back to its roots in racism and homophobia."
 ---
 
 ## Snobs vs. DJ sets

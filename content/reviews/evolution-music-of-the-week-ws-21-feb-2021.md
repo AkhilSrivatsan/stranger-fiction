@@ -2,6 +2,7 @@
 title: WS 21 Feb 2021 // Evolution
 date: 2021-02-28T00:00:00.000Z
 subcategory: Music
+description: "A music roundup anchored in a twelve-year-old short story — on how writing evolves slowly, and how that compounding finally becomes visible."
 ---
 
 ## Evolution

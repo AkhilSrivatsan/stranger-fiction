@@ -2,6 +2,7 @@
 title: 'My experiences with Radiohead, and boys becoming men'
 date: 2020-06-15T00:00:00.000Z
 subcategory: Music
+description: "A personal Radiohead history that starts with Creep and ends as a meditation on how gatekeeping in all-male hostel environments shapes the men boys become."
 ---
 
 There was a certain kind of nose-in-the-air purveyor of faulty music *gyaan[1]* that preached the gospel of Radiohead in college in 2008. The *you don’t know music if you don’t worship Radiohead* sort of *gyaan*. Of course that sort of pseudo-intellectual exclusionism is just part and parcel of online Radiohead fandom, making a lot of self-respecting adults shy away from their music, lest they be mistaken for clove cigarette smoking, dark rum swigging snobs. It’s really a pity, given a lot of their music is wonderful, and it’s unfortunate to have it associated with such exclusionism.

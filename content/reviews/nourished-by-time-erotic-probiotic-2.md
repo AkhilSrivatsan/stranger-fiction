@@ -2,6 +2,7 @@
 title: "Nourished by Time –\_Erotic Probiotic 2"
 date: 2024-11-30T00:00:00.000Z
 subcategory: Music
+description: "On Erotic Probiotic 2 as 2023's best record — and why R&B never made it into the 3am sessions of introverted brown engineering students who all thought they had esoteric taste."
 ---
 
 I remember Verlyn Klinkenborg’s book,* Several Short Sentences About Writing*, and his observation about transitions in writing. Good writing renders transitions unnecessary. The job of good writing is, above all, the job of writing a good sentence. 

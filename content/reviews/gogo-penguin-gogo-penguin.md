@@ -2,6 +2,7 @@
 title: 'GoGo Penguin: GoGo Penguin'
 date: 2020-07-30T00:00:00.000Z
 subcategory: Music
+description: "GoGo Penguin's bright, welcoming instrumental fusion — and a warning that they're at risk of same-iness if the next record sounds like this one."
 ---
 
 I really like GoGo Penguin, both band and latest self-titled album. However, after several years of advocating for their albums soon after they’re released, I must admit this: while I will once again return for the next GoGo Penguin record with a great deal of enthusiasm, I will be disappointed if it doesn’t sound vastly different from this one. For all the praises that follow in the following paragraphs, I must note that a lot of their music is starting to risk falling into the *same-y-ness* trap of a lot of instrumental bands.

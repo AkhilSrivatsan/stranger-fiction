@@ -2,6 +2,7 @@
 title: 'The Supersonics: Maby Baking'
 date: 2021-01-21T00:00:00.000Z
 subcategory: Music
+description: "How the Supersonics' post-punk showed up in a morning rickshaw eight years later — and why music's ability to pull you back to a time and place is its real power."
 ---
 
 Apparently, the Supersonics had just reunited. Apparently, that was quite a big deal in the Indian music scene, particularly in Kolkata’s. Don’t think I was ever part of the Indian music scene; I was always insecure about whether I was cool enough, and everyone in the scene just seemed to have their noses pointed upwards. It’s just best, I thought, that we all stay in our lanes. I’m an IIT graduate; I’ll just do what’s expected of IIT graduates, viz. corporate-ladder-climbing. So I went for the odd gig or the odd festival, hung around as long as the music was playing, and bounced the moment it was done. There was work to get to in the day and that first novel to work on at night, and even if there wasn’t, there was always a group of people who were glad to see me elsewhere; it’s important that everyone stay in their lanes, remember?

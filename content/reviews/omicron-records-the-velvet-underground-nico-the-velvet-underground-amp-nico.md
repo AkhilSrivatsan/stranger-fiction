@@ -2,6 +2,7 @@
 title: Omicron Records / The Velvet Underground and Nico
 date: 2021-12-25T00:00:00.000Z
 subcategory: Music
+description: "On the Velvet Underground documentary and the original album — and the confession that Venus in Furs was what moved him to make his very first recording at nineteen."
 ---
 
 They say that anyone who heard any of the Velvet Underground’s music was moved to start a band of their own. While that seems like something that just couldn’t possibly be true (what’s the opposite of tautological? antitautological? contradictory?) I know I was certainly moved to make my first recording (now lost) because of that Velvet Underground track about that book by von Sacher-Masoch. Venus in Furs? Venus in Furs. I was nineteen; the song was called *Apartment*.

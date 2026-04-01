@@ -2,6 +2,7 @@
 title: 'Yaeji: What We Drew'
 date: 2020-08-02T00:00:00.000Z
 subcategory: Music
+description: "A structured dismantling of Yaeji's mixtape — on bass-forward electronic music that uses Korean and English interchangeably to explore identity on the internet."
 ---
 
 **My feelings about this mixtape.**

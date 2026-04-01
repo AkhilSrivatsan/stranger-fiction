@@ -2,6 +2,7 @@
 title: 'Waxahatchee: Saint Cloud'
 date: 2020-06-09T00:00:00.000Z
 subcategory: Music
+description: "On overcoming a country-music bias to find Saint Cloud — a sobriety album that sounds like Summerteeth and asks you to reconsider what you've been dismissing."
 ---
 
 I completely missed this artist because it sounded like she was a country artist. Very country, in fact. Just the name Waxahatchee is alien to an Indian boy like me, and sounds vaguely Alabamic (this is me acknowledging one of my several conscious and unconscious biases, and hopefully moving closer to knocking them down). So even when I heard buzz, I assumed it was intended for someone else, ignoring my own love for albums like *Yankee Hotel Foxtrot* and *Summerteeth*, both alt-country hits. Ok, seeing as both are Wilco albums, it would be more accurate to say: ignoring my love of Wilco albums.

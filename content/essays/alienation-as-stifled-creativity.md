@@ -1,5 +1,6 @@
 ---
 title: "Alienation as stifled creativity, reading and writing as clarifying activities, and US Americans talking about algorithms flattening culture (again)"
+description: "Smith and Marx agree: when your creative impulse is severed from the whole thing you're building, you feel alienated. The antidote is building with a caring few."
 ---
 
 ## A writer talks about reading and writing

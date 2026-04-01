@@ -2,6 +2,7 @@
 title: 'Aesop Rock: The Impossible Kid'
 date: 2021-04-02T00:00:00.000Z
 subcategory: Music
+description: "Loneliness in the post-industrial city as subject — how Aesop Rock's wordy, wry masterpiece captures the overworked, isolated life without losing its wit."
 ---
 
 How do people deal with being alone with their thoughts all the time? The ordinary ones and the intrusive ones? The ones that border on mania and the ones that border on despondency, plus the average everyday observations about mynas and cats and the world order and such?

@@ -2,6 +2,7 @@
 title: Heartbreak // Music of the Week / WS 14-Feb
 date: 2021-02-20T00:00:00.000Z
 subcategory: Music
+description: "A Valentine's week music roundup shaped by the end of a long relationship — punk, heartbreak, New York post-punk, and a reason to jump around anyway."
 ---
 
 ## Context

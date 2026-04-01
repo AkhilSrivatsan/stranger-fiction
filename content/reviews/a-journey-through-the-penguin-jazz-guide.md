@@ -2,6 +2,7 @@
 title: 'A journey through the Penguin Jazz Guide, Part 1: Intro'
 date: 2020-12-03T00:00:00.000Z
 subcategory: Music
+description: "An introduction to a project: charting jazz history through the Penguin Guide, from the vantage point of a non-American Indian aficionado."
 ---
 
 ### The building blocks 

@@ -2,6 +2,7 @@
 title: 'Kelly Lee Owens: Inner Song'
 date: 2020-12-27T00:00:00.000Z
 subcategory: Music
+description: "On Kelly Lee Owens' Inner Song and what separates minimal electronic music that passes the distraction test from the goop of indistinguishable beatmakers."
 ---
 
 I’ve been meaning to shift the focus of this mag to more than just music. To cover the art of storytelling across all sorts of media, but primarily music. I’ve wanted to talk about the history of human civilisation and the amazing audio/visual storytelling experience of [Fall of Civilizations TV](https://www.youtube.com/playlist?list=PLR7yrLMHm11X6-M_usCj5H-gdstyWNLXQ). I’ve wanted to talk about the best documentaries I’ve seen this year, like the creepy and ultimately moving portrait of two stalkers of 80s pop singer Tiffany Darwish called [I Think We’re Alone Now](https://www.youtube.com/watch?v=0MxXqF-fgJY&feature=emb_title). At the end of the day, I want to talk about all the stories that move me, not only the musical journeys. But when push comes to shove, I invariably end up sitting at my laptop and gushing about an album with which I’ve been falling in love. And instead of talking about either of those very worthy stories, today I will talk about (the equally worthy, to be fair) [*Inner Song*](https://open.spotify.com/album/3DzlkHEQtb0ABoxze4Zxi7?si=9k9Zykj5SUaCX16MWm81nw) by Kelly Lee Owens.

@@ -2,6 +2,7 @@
 title: 'Courtney Barnett: Sometimes I Sit and Think, Sometimes I Just Sit'
 date: 2020-11-15T00:00:00.000Z
 subcategory: Music
+description: "Being 24 and figuring things out, narrated in second person, with Courtney Barnett playing in the background the whole walk home."
 ---
 
 It starts with *Oliver Paul, twenty years old / Thick head of hair, worries he's going bald* and you already know you’re hooked, your lined, your sinkered. You’re sat at the same Starbucks you’ve spent most of your evenings for the last couple of years and will spend most of your evenings for the next couple of years. 

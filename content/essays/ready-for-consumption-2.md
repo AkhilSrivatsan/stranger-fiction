@@ -1,5 +1,6 @@
 ---
 title: "Ready for Consumption – Part 2/2: The Publishing Habit"
+description: "The publishing moment is different from the making moment — and finding sanctity in it is the only way the struggle to release what you've made ever stops."
 ---
 
 You can find part 1 here.

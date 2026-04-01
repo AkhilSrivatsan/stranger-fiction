@@ -2,6 +2,7 @@
 title: My favourite music from 2019
 date: 2020-01-02T00:00:00.000Z
 subcategory: Music
+description: "An annotated 2019 year-end list, organised by honest enthusiasm rather than taste-signalling — with Prabh Deep, DIIV, and Puppy at the top."
 ---
 
 Every year, I assiduously list down albums I believe to be the best from the year. This exercise serves two purposes. One, to document the music that moved me, both for myself and others. Two, to announce to a faceless audience, here’s how amazing my taste in music is; you should take my taste in music very seriously, take this list very seriously, and on a side note, don’t I have an interesting writing voice? 

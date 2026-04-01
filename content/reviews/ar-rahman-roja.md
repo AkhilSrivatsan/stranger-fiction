@@ -2,6 +2,7 @@
 title: 'A. R. Rahman: Roja'
 date: 2021-01-10T00:00:00.000Z
 subcategory: Music
+description: "Why A.R. Rahman is the greatest film composer of his generation — and how Roja, his debut at 25, set the template for a career without equal."
 ---
 
 ## A background to Roja

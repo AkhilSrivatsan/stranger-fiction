@@ -2,6 +2,7 @@
 title: 'The Orb: Adventures Beyond The Underworld'
 date: 2020-05-19T00:00:00.000Z
 subcategory: Music
+description: "Two hours of ambient house that feels like floating through space tuned to an alien radio station — best experienced at night in blue television light."
 ---
 
 A classic of ambient house and electronica, it feels like floating through space with headphones on — tuned to the frequency of some alien radio station playing music from their home planet that mimics music inspired by human electronic music.

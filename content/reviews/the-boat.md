@@ -2,6 +2,7 @@
 title: The Boat by Nam Le
 date: 2021-02
 subcategory: New Media
+description: "On The Boat as a case for interactive multimedia — how Matt Huynh's adaptation of a Vietnamese refugee story reanimates Nam Le's text by changing its medium."
 ---
 
 ## A boundless media future

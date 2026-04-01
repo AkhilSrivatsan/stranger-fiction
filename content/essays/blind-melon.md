@@ -1,5 +1,6 @@
 ---
 title: "Building in Public: Blind Melon"
+description: "On writing about Blind Melon as a way of clearing the mind — and the discipline of building in public rather than accumulating unpublished drafts."
 ---
 
 I’ve started writing on [Stranger Fiction](https://www.stranger-fiction.com/) again. And some of the mammoth essays I’ve been editing for here over the past four weeks are nearing completion as well. 

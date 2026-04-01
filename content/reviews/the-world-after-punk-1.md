@@ -2,6 +2,7 @@
 title: 'A personal history of the world after punk: 1. Prologue'
 date: 2020-04-10T00:00:00.000Z
 subcategory: Music
+description: "A prologue to an autobiographical love letter to punk and its offshoots — not a history of the genre, but an account of what it meant to grow up inside it."
 ---
 
 For a playlist of the songs and artists I reference in this short piece, [here you go](https://www.youtube.com/watch?list=PLMWENhvUL7VH4i8RtFSqdDNtK1f3luLNj&v=fZKESGDqkP8).

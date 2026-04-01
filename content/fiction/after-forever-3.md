@@ -2,6 +2,7 @@
 title: After Forever – 3
 date: 2024-01-15T00:00:00.000Z
 subcategory: After Forever
+description: "The narrator asks Anax whether bodilessness changes not just what we think about, but how we think — and gets an unsettling answer."
 ---
 
 It must’ve been easier for bodied humans to disguise their feelings. For starters, they didn’t have casings that turned bright pink whenever they felt emotions. When in the company of other humans, they must have had an unquenchable capacity for silence. As Anax might say, I think as I see them read the works of Gayatri Spivak, being bodied must have expanded near-infinitely the modes of human experience. What is the equivalent, in thought-mode, for looking into the eyes of another human being? For intercourse? For playing a game of tennis? If existence is a manifestation of consciousness, then our existence must be limited, in some hard-to-define sense, by our lack of bodiedness. Silence, for us, is hardly ever an option when in the presence of someone else. Silence is a lacuna that must be filled, an interregnum in some never-ending argument that must be resolved, a negative space for a jigsaw piece falling into place. 

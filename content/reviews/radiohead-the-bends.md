@@ -2,6 +2,7 @@
 title: 'Radiohead: The Bends'
 date: 2023-01
 subcategory: Music
+description: "The Bends plays in a British pub in mainland Europe while he drinks IPAs, thinks of X back in Mumbai, and wonders whether memory of a happier self is ever anything but fiction."
 ---
 
 **I / The last dinner you had before you left Mumbai for London three years ago was with X.** Over the ten years prior to that meeting, you’d been some iteration or the other of a couple for a sum total of six-odd months. If you’re honest, though, your relationship was a lot closer to a ten-year-long friendship than anything else. At least, those were the terms you remember employing to describe what she was certain you both would begin to lose the moment you left Mumbai the morning after that dinner together. She was at the airport the next day; it was her and your parents waving you goodbye as you left the city. Only for a couple of years, you’d said to all three of them; but all three of them had known better. 

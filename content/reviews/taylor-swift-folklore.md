@@ -2,6 +2,7 @@
 title: 'Taylor Swift: folklore'
 date: 2020-08-26T00:00:00.000Z
 subcategory: Music
+description: "On whether a Taylor Swift album deserves this much airtime, and what happens when sentimental pop turns spare, indie, and weirdly affecting."
 ---
 
 #### Part 1. Where I talk about myself.

@@ -2,6 +2,7 @@
 title: '12 RODS: Split Personality'
 date: 2021-01-11T00:00:00.000Z
 subcategory: Music
+description: "On cathartic rock as the closest thing to mindfulness — how 12 RODS' furious, beautiful album pulls you back from the drift."
 ---
 
 Here’s my candidate for best hard indie rock song ever: *Red,*Song 2 from 12 RODS’ [*Split Personalities*](https://open.spotify.com/album/6mCMCNI7yC58h1qXxAhHm8?si=lnr2S_PWTG-2ijhTup0bXA). Plodding pace, distorted chug-chug power chords, a drummer showing off his entire verse-backup range, a lead vocalist seamlessly shapeshifting between nonchalant off-pitch speak-singing and emotional outbursts, tons of feedback, ethereal pads in the backdrop, perfectly placed yet somehow seemingly random clicks and electric noise. It’s insanely cathartic, full-body moving, memory-inducing rock. The whole album, in fact,* *is among the most cathartic experiences in modern rock history. Existing in that weird valley between hard rock, alternative, and indie, every song in the album is a cathartic burst made for days as blue as its album cover. 

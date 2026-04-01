@@ -2,6 +2,7 @@
 title: 'Rival Consoles: Articulation'
 date: 2020-08-18T00:00:00.000Z
 subcategory: Music
+description: "On minimal techno that's deceptively layered — and whether a graphical, pen-and-paper composition method robs music of emotion or deepens it."
 ---
 
 *Articulation* isn’t the greatest album of minimal electronic music ever made. That would be *Immunity* by Jon Hopkins. It also isn’t the first to deal in the formula of thump thump thump thump kick and bass, unobtrusive snares and claps, and rollercoaster synths that create a specific closed-room atmosphere perfectly suited for midnight parties for one.

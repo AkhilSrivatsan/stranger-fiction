@@ -2,6 +2,7 @@
 title: 'Omicron Records / John Coltrane: Blue Train'
 date: 2021-12-24T00:00:00.000Z
 subcategory: Music
+description: "Written during a Covid isolation at Christmas, listening to Blue Train — a confession about being made of chalk rather than diamond, and wondering if any of this would matter."
 ---
 
 On the Moh’s scale, I’m more chalk than diamond. What can I say about my bout of Covid that hasn’t already been said in 2020 – what value does it add for me to tell you what my symptoms are, or that I’m tremendously lucky to be have the freedom – and the space – to isolate myself. If I were made of sterner stuff, that’s where my focus would lie, not on the fact that I’m going to spend Christmas – and maybe even New Year’s indoors – alone, quarantined by a pandemic I believed was on its way out of our lives. I know this belief was never borne out by the facts; the facts, as they were, always painted a very different picture. But it’s the story I, like many others, told myself to pretend the world in which I lived was at least a little like the one in which I spent the first twenty-nine years of my life; a world in which the words *and then the pandemic came* belonged firmly in the realms of science fiction. 

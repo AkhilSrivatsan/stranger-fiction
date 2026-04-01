@@ -2,6 +2,7 @@
 title: 'Aug 22, 2021 // Culture'
 date: 2021-08-26T00:00:00.000Z
 subcategory: Music
+description: "A music roundup framed by an argument: culture is what culture does, not the language you speak or the colour of your skin."
 ---
 
 Culture isn’t the language you speak. It isn’t the colour of your skin or the kind of clothes you wear. Culture is what culture does. Culture is holding the door open for the person walking behind you when there’s nobody on the other side to prostrate over your generosity. Culture is living within your means. Culture is attempting to buy respect or love or loyalty when you can’t be arsed to earn it. Culture is these things: not Indian or American or Arab or European. 

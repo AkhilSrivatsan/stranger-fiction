@@ -2,6 +2,7 @@
 title: 'Nas: Illmatic'
 date: 2020-11-02T00:00:00.000Z
 subcategory: Music
+description: "A track-by-track account of Illmatic — on how a 20-year-old Nas assembled hip-hop's best producers to set a blueprint for spare, lyrical hardcore rap."
 ---
 
 Time for today’s 🐐album. In many ways, *Illmatic* is peerless. In it, the then 20-year-old Nas is a storyteller without equal, showing you through a clear window pastiches of a world you would have never otherwise seen. He does this against the backdrop of the best work of hip-hop’s best producers: DJ Premier, Pete Rock, Large Professor, Q-Tip (from ATCQ), and L.E.S. It’s a veritable who’s who of the greatest beatmakers of the east coast punctuating Nas’s images of urban decay with spare jazz-influenced boom-bap beats. Consequently, when it came out, *Illmatic* provided a blueprint for what spare, lyrical hardcore hip-hop could sound like vis-a-vis the synthy, richly layered sound of Dre-inspired west-coast hip-hop.

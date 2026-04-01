@@ -2,6 +2,7 @@
 title: Throwaway Pieces (1) – It's Way Too Late
 date: 2023-05-15T00:00:00.000Z
 subcategory: Stories
+description: "Three short fragments: Schopenhauer and Fred again.., crying in cinemas, and the hour after a rave when someone is ready for afters and someone isn't."
 ---
 
 ## Fred again.. – Actual Life

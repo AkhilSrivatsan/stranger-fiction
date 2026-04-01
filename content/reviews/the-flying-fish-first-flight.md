@@ -2,6 +2,7 @@
 title: 'The Flying Fish: First Flight'
 date: 2020-05-21T00:00:00.000Z
 subcategory: Music
+description: "A Mumbai indie band's debut post-rock album — tightly played instrumental rock that conjures four people jamming in a drummer's bedroom on an Indian summer."
 ---
 
 Full disclosure, the drummer of the Flying Fish, Suyash Medh, is a close friend who has never had a nickname. Before diving in, I want to note that he didn’t ask to be featured here. It’s just that I found the Flying Fish’s latest (and first) album that interesting.

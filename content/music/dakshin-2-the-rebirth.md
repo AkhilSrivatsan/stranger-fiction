@@ -2,6 +2,7 @@
 title: dakshin 2 // the rebirth
 date: 2020-05
 subcategory: Releases
+description: "A single born from a return visit to Tamil Nadu — less about its history as the cultural hegemon of southern India, more about just being glad to be back."
 ---
 
 **Ok, first things first,

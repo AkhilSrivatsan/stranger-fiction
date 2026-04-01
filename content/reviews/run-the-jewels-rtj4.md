@@ -2,6 +2,7 @@
 title: 'Run The Jewels: RTJ4'
 date: 2020-06-03T00:00:00.000Z
 subcategory: Music
+description: "RTJ4 as a document of its moment — police brutality, George Floyd, and two rappers who'd been saying this for years before anyone listened."
 ---
 
 I’m not American, but a lot of the content I (and let’s face it, most of us) consume is American / popularised by Americans. This is one of many reasons why, to many, police brutality in America and the murder of George Floyd isn’t just an American issue, but a global one. Another reason, of course, is that minorities tend to be treated poorly by law enforcement in much of the world. 

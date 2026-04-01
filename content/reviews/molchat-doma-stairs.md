@@ -2,6 +2,7 @@
 title: 'Molchat Doma: Stairs [Молчат Дома &mdash; Этажи]'
 date: 2020-11-09T00:00:00.000Z
 subcategory: Music
+description: "Doom and gloom vs. the miracle that an Indian in Dubai can easily find a Belarussian coldwave album — and what that contradiction says about the world we're living in."
 ---
 
 Is the world as we know it going to end? Is there no hope for us in the face of all the challenges we’re no doubt going to face in the coming years and decades? Doomer doomer doom doom. The sky turns grey. My skin turns grey. It all turns grey. Gloomer gloomer gloom gloom. 

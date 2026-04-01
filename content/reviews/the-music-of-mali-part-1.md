@@ -2,6 +2,7 @@
 title: 'The Music of Mali: Part 1'
 date: 2020-08-31T00:00:00.000Z
 subcategory: Music
+description: "Part 1: Tinariwen — rebel soldiers from Tuareg camps who put down weapons and picked up guitars, building a sound both foreign and strangely familiar."
 ---
 
 #### An introduction from someone who doesn’t know much about Modern Mali

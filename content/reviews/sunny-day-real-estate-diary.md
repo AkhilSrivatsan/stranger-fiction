@@ -2,6 +2,7 @@
 title: 'Sunny Day Real Estate: Diary'
 date: 2022-02-06T00:00:00.000Z
 subcategory: Music
+description: "A meditation on what it means to be alive, written in the key of Sunny Day Real Estate's emo — is the best of you behind you, ahead, or right here?"
 ---
 
 Inch by inch, then mile by mile, they corrode the core of you. Eating away at what some say is a soul while others disagree; who’s to say whose story adds up? Your dreams are set in concrete and glass, towering all around you. You – dwarfed, hunched over, lurking in the shadows – become one with them. Either all in or absolutely nothing, depending on which side of the bed you last graced before landing flat on the floor, off to bounce your way through the live-long day. Rabbit run.

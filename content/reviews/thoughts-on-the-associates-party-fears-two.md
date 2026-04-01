@@ -2,6 +2,7 @@
 title: Thoughts on the Associates' Party Fears Two
 date: 2021-09-01T00:00:00.000Z
 subcategory: Music
+description: "Billy Mackenzie's vocal weirdness as an argument for living full-arsed — on the idiosyncracy that makes Party Fears Two singular 40 years on."
 ---
 
 Life is short. There’s so much to experience in such little time. There’s so much joy to be had. And fun. And celebration. But play your cards a certain way and life can seem overlong. The days, weeks, months, years, decades can fan out endlessly, emptied of anything of note, every minute spent dead before you’re finally planted. 

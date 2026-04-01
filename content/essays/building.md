@@ -1,5 +1,6 @@
 ---
 title: "Building"
+description: "On why Substack makes more sense than LinkedIn for someone running a growth consultancy, a music magazine, and a band simultaneously."
 ---
 
 It’s a hard one – trying to explain what it is I’m doing here. It’s particularly hard when I’m trying to write here, not sell. But I don’t want this to come off as a journal entry on which I’ve accidentally clicked ‘Send’ either. It’s a hard note to strike.

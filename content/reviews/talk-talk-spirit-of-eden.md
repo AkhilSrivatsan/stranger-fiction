@@ -2,6 +2,7 @@
 title: 'Talk Talk: Spirit of Eden'
 date: 2021-02-10T00:00:00.000Z
 subcategory: Music
+description: "The case that Talk Talk's Spirit of Eden is post-rock's true point of origin — born not from obscurity but from EMI's attempt to control what rock could be."
 ---
 
 ## Origin Stories

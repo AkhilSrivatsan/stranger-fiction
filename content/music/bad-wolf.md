@@ -2,6 +2,7 @@
 title: bad wolf
 date: 2020-06-20T00:00:00.000Z
 subcategory: Releases
+description: "The final single from my people are… — an anthem for lonely bedrooms, built around an allegory about anxiety that predated the pandemic."
 ---
 
 [Apple Music](https://music.apple.com/us/album/bad-wolf-single/1514025486)

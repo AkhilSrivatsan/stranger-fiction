@@ -2,6 +2,7 @@
 title: 'Stranger Fiction''s 35 Favourite Albums of 2020: Stories of Music Discovery'
 date: 2021-01-06T00:00:00.000Z
 subcategory: Music
+description: "35 albums that got through 2020 — an annotated list from Ichiko Aoba to Akhil Srivatsan (lol), with notes on what made each one worth hearing."
 ---
 
 2020 has been a challenging year in much the same way that Will Smith and Martin Lawrence acted in the *Challenging Boys* film series. One of the things that makes challenging times like these easier is the music that gets you through. In that spirit, here are my 35 favourite albums from 2020.

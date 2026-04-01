@@ -2,6 +2,7 @@
 title: my people are…
 date: 2020-09-15T00:00:00.000Z
 subcategory: Releases
+description: "Debut album: anxiety, home, and identity, made during the first lockdown — Hindustani classical music filtered through the question of a Mumbai that no longer exists."
 ---
 
 It’s here. It’s finally here. Here’s my latest album, *my people are… *on all streaming platforms. I don’t know about you, but I’m a mix of excited and relieved. Please listen, and like-share-subscribe-buy.

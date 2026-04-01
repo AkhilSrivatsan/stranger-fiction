@@ -2,6 +2,7 @@
 title: 'The Wrens: Secaucus'
 date: 2021-01-13T00:00:00.000Z
 subcategory: Music
+description: "A confessional piece about discovering the Wrens while navigating professional decisions — music as the thing that shuts off the anxieties for a while."
 ---
 
 The sun’s setting in Dubai. I love this gradient of sky: pale orange to pale blue. I love to see the sky fade to purple. The last few days have been replete with professional decisions I’ve had to make; I haven’t made them yet. Odds are you don’t me, that’s a measure of the limited success Stranger Fiction has achieved in the past 6 months. Know that it encourages me to keep going, to keep growing. I mean that both from a personal point of view and from the point of view of the guy that runs Stranger Fiction. Odds are you don’t know the exact ins and outs of my professional dilemmas. Know that they’re likely to be relatable, given that, statistically speaking, you, like me, are likely to be a privileged member of 2021’s white collar class. Which opportunity should I chase? Which one is closest to my interests? Am I ok relocating in what is somehow still the middle of a pandemic? How much money should I be making in a year? How much should I be investing?

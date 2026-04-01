@@ -2,6 +2,7 @@
 title: 'The Upsetters: Super Ape'
 date: 2020-11-03T00:00:00.000Z
 subcategory: Music
+description: "Super Ape as a soundtrack to good times — and a brief, grateful note on how life can turn around in multiple directions at once when momentum shifts."
 ---
 
 Lee "Scratch" Perry was instrumental in making reggae dub. His studio band was the Upsetters. Their best album is believed to be *Super Ape*. Whether or not it's the best, it's certainly very nice. 

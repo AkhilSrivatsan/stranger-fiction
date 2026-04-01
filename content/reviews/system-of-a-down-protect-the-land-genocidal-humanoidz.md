@@ -2,6 +2,7 @@
 title: 'System Of A Down: Protect The Land / Genocidal Humanoidz'
 date: 2020-11-06T00:00:00.000Z
 subcategory: Music
+description: "System of a Down's first new music in 15 years — and what it means to a person who grew up with their preteen-shaping fury."
 ---
 
 There’s a time and place for a conversation on how much System Of A Down impacted my preteen and teenage years. There’s also a time and place for a conversation on how much that impact carried into my post-teenage years. The time and place is likely to be soon and here. But for now, it’s enough to say this.

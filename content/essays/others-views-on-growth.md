@@ -1,5 +1,6 @@
 ---
 title: "Others' views on society's drive for constant growth"
+description: "A brief tour of growth pessimism: Harvey, Smil, Musk, and the moral decay camp — before arriving at a techno-optimist's qualified disagreement with all of them."
 ---
 
 Contemporary society’s drive for constant growth has not been the norm for human civilisation. For far longer, human civilisation has been driven forward by other impetuses.

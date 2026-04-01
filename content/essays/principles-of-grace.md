@@ -1,5 +1,6 @@
 ---
 title: "The principles of grace: self-growth for sceptics"
+description: "If life is a current that carries you, the only real question is whether you're being carried with grace — a framework for growth from someone allergic to self-help."
 ---
 
 ## **1. Life is a current.**Like most Indians, I was raised being taught about ‘nazar’ (नज़र / نظر ) – the idea that self-aggrandisement begets envy, which in turn begets misery. This makes talking about self-growth in specific terms – with oneself as the object that’s being grown by the subject, also oneself – difficult.

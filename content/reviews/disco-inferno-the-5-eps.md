@@ -2,6 +2,7 @@
 title: 'Disco Inferno: The 5 EPs'
 date: 2021-02-12T00:00:00.000Z
 subcategory: Music
+description: "Disco Inferno's experimental alt-rock as a transport to a half-remembered 1990s Thane afternoon — nostalgia triggered by music you didn't grow up with."
 ---
 
 I’ve spent much of last week clinging on to known classics and weathering the first wave of heartbreak that follows the crumbling of a serious relationship. While I very much still have a sense of adventure and a need for discovery, experience leads me to believe that comfort comes first. That’s why I wrote about [*Loveless*](/reviews/my-bloody-valentine-loveless), that’s why I wrote about [*A Death in the Gunj*](/reviews/how-men-are-made-an-analysis-of-a-death-in-the-gunj). And that’s why this Disco Inferno compilation – [*the 5 EPs*](https://open.spotify.com/album/1aqda9Ny0A3gGsiLx0MXPs?si=-dX_oRkVRE62Lfdze7-aDQ). Because a, it’s an album that has been in my (entirely hypothetical) all-time top ten since the very first time I heard it several years ago. And b, it’s a record that gives me a great deal of comfort.

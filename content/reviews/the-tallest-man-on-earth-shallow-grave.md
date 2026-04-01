@@ -2,6 +2,7 @@
 title: 'The Tallest Man On Earth: Shallow Grave'
 date: 2020-12-05T00:00:00.000Z
 subcategory: Music
+description: "Shallow Grave as one-man folk with intricate musicality that nearly reaches Dylanesque — and why the natural-versus-personal tension in folk is its whole magic."
 ---
 
 The two most overused words in conversations about folk music are earthy and Dylanesque, so apologies beforehand. In 2008, a Swedish singer-songwriter, Kristian Matsson, released an earthy Dylanesque album, *Shallow Grave*, under his stage name, the Tallest Man on Earth. It’s a compendium of ten three-minute guitar folk songs that are unique in their simplicity: one man, one acoustic guitar. Musically, each song is incredibly evocative; lyrically, each contains the appropriate number of references to natural phenomenon: wind, change, fire and things ‘baby’s do: crying, leaving, loving, etc. 

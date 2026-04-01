@@ -2,6 +2,7 @@
 title: 'Frightened Rabbit: The Midnight Organ Fight'
 date: 2021-02-07T00:00:00.000Z
 subcategory: Music
+description: "A breakup heard in real time, with Frightened Rabbit as the appointed soundtrack — on how the right album can make pain feel survivable."
 ---
 
 ## This is a call for auditions. 

@@ -2,6 +2,7 @@
 title: 'The Avalanches: We Will Always Love You'
 date: 2020-12-15T00:00:00.000Z
 subcategory: Music
+description: "The Avalanches return with sunshine disco for the end of the world — an album equally at home under the sheets at 3am or on a balcony at 3pm."
 ---
 
 What is it with Australia and this millennium’s psychedelic music? In the new millennium, the land down under has given us King Gizzard & the Lizard Wizard, Tame Impala, the Murlocs, and now the Avalanches’ latest album of mid-tempo electronic psychedelia, [*We Will Always You*](https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1). To those aware of the Avalanches’ storied history, the next few sentences may seem like a regurgitation, but it’s important to contextualise any Avalanches release with just how seminal their debut release, [*Since I Left You*](https://open.spotify.com/album/3GBnNRYsxBfEeMSMmTpJ25) is. When it was released in 2000, the album was unlike anything anyone had ever heard before (except maybe DJ Shadow’s [*Endtroducing.....*](https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l?si=cVJdd52aSM2YzknrFsS74A)?) So sample-heavy that different versions had to be released in different geographies due to differing licensing requirements, the album was funky dance-pop seemingly built entirely out of a crate-digger’s dream.

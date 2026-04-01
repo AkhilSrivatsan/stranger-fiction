@@ -2,6 +2,7 @@
 title: After Forever – 5
 date: 2024-04
 subcategory: After Forever
+description: "The narrator picks apart the question 'do I want to come together with Anax?' — word by word, and realises the answer was hiding in plain sight."
 ---
 
 Is it ok to expect things in a meaningless world? Is it fair to expect outcomes that are commensurate with inputs into a system? If I subscribe to the views of the European existentialists of the mid-twentieth century, subscribe to the intersection of their different but related views  – and it appears to me that I do – I would likely have no choice but to conclude that such expectations are futile. That if, in the grand scheme of things, life is devoid of meaning, then in a microcosmic sense, the same is true. That if capital L Life is meaningless, then so is small l life. 

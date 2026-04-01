@@ -2,6 +2,7 @@
 title: 'The Music of Mali: Part 3'
 date: 2020-09-12T00:00:00.000Z
 subcategory: Music
+description: "Part 3: Amadou and Mariam — two blind musicians who met at Mali's Institute for the Young Blind and built a sound that wears all its influences proudly."
 ---
 
 Music can be meditative, celebrative and everything in between. The best music, though, encapsulates the entirety of the human experience. Remember the age-old adage I often refer to? The one about good art afflicting the comfortable and comforting the afflicted?  The best music therefore is neither oppressively obsessed with seriousness nor frivolous. Amadou and Mariam’s music is exactly this balance between playful and sincere, but it’s also always joyous. Let’s take for example 2005’s *Dimanche à Bamako* (*Sunday in Bamako* in English). In *Beaux Dimanches* (tr. *Beautiful Sundays*), they sing about Bamako’s joyous open-air Sunday weddings. But at the same time, on the deceptively playful electronica-infused West African Blues song*Senegal Fast Food*, they, along with their collaborator Manu Chao, sing about the quite serious phenomenon of emigrating in hopes of a better life.

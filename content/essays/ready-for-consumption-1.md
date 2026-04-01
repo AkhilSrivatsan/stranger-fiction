@@ -1,5 +1,6 @@
 ---
 title: "Ready for Consumption – Part 1/2: The Making Habit"
+description: "On why composing music feels low-stakes while writing never does — and why four years of unreleased songs still sit in a folder called Out of the Hermitage."
 ---
 
 ## An introduction: The emotions of taking a product to market

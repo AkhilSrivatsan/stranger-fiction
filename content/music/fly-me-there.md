@@ -2,6 +2,7 @@
 title: Fly Me There
 date: 2020-12
 subcategory: Releases
+description: "A 120 bpm minimal house demo blending electronic production, Indian classical music, and the angular bass lines of nineties nu-metal."
 ---
 
 It’s been four months since I released my album, *my people are…* In that time, it’s been featured in all sorts of publications, playlists, and podcasts, like [A Humming Heart](https://ahummingheart.com/reviews/my-people-are-akhil-srivatsan/), [Maed In India](https://open.spotify.com/episode/1OkvtlE1Twos2BoOpWwnQn), Artist Directory, The Indie Order, Indie Tune, and others. In case you haven’t heard it and would like to, [here’s a link](https://www.stranger-fiction.com/releases/my-people-are). Since then, my time has gone towards becoming an independent consultant and growing Stranger Fiction. And, as always, towards making new music.

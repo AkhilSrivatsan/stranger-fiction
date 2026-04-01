@@ -2,6 +2,7 @@
 title: 'Bartika Eam Rai: Bimbaakash'
 date: 2022-03
 subcategory: Music
+description: "Three generations of a South Indian family — nation-builders, NRIs, and the gap between them — told through the occasion of a Bartika Eam Rai album."
 ---
 
 Not all sadness is the same dad, he was trying to explain to his ageing father. Pa had spent much of the mid-seventies damming one of India’s major rivers with other ‘sons and daughters of the newly independent nation’. Come rain, come sleet, they bored through terrain, mixed concrete, fixed slabs, built barricades against portented landslides. They walked through the villages the dams would one day help electrify, inaugurating schools, distributing grain, convinced they weren’t simply civil engineers, masons, and accountants in the public works department, that they were more than just cogs in the world’s most unwieldy bureaucratic wheel; they were nation-builders. And they believed the nation would be built in their image: that the laundry room in their quarters, whose Muslim staff from Allahabad folded veshtis, turbans, (*even saris!* as pa would say), was but a microcosm of all of India. That the utopia they were told their parents had heard their nation’s new prime minister promise would come – give it a couple of decades – that they were doing their part in building it.

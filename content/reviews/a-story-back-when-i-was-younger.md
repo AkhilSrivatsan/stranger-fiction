@@ -2,6 +2,7 @@
 title: 'A story: Back when I was younger'
 date: 2020-12-19T00:00:00.000Z
 subcategory: Music
+description: "A playlist introduced through a story of late-night Bombay jams, jam-session stalemates, and the particular sadness of missing being young."
 ---
 
 Sure as any fact on earth, this is true: you’ll one day grow old and become the sort of person a younger you would’ve never thought you’d become: the sort of person who’d start anecdotes with phrases like *back when I was younger*. 

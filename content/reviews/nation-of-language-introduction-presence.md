@@ -2,6 +2,7 @@
 title: 'Nation of Language &mdash;Introduction, Presence'
 date: 2020-06-19T00:00:00.000Z
 subcategory: Music
+description: "On Nation of Language doing 80s nostalgia so expertly it becomes newly useful — and why snug nostalgiacore is a reasonable comfort in a year when everything's gone tits-up."
 ---
 
 This album does such a good job of something that’s been done so many times before that it has inspired me to stop fopping about for once and write a straight piece about how good the album I’ve been listening to is. I will, of course, get distracted midway, but I’m going to make a real effort to sound professional. Here goes.

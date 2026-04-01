@@ -2,6 +2,7 @@
 title: The art of storytelling as expressed through playlisting
 date: 2021-01-28T00:00:00.000Z
 subcategory: Music
+description: "Two playlists as Freytag's pyramid — from anxious post-punk to hip-hop about bouncing back, tracing a dramatic arc through a professional crisis."
 ---
 
 A declaratory statement: no matter who you are, one of your key motivators in life is likely to be inspired by some sort of personal weakness. For example, one may be guided by three drivers: one, a sense of purpose, two, a sense of responsibility towards the ones you love, and three, a sense of how you’re perceived by others. The third driver is certainly less desirable than the other two, but it’s a key motivator nonetheless. If you believe this assertion doesn’t apply to you and you’re only driven by positive motivations, you may be right, and more power to you; it’s just that I’ve found the above assertion to hold true generally. Consequently, success, in my opinion, is driven just as much by playing to one’s weaknesses as it is by playing to one’s strengths. Of course, the longview must also accommodate self-improvement: shifting the balance in favour of one’s strengths.

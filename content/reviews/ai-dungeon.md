@@ -2,6 +2,7 @@
 title: AI Dungeon — co-writing a story with a computer
 date: 2020-08
 subcategory: New Media
+description: "How AI Dungeon held attention for four hours straight — and what that suggests about the future of interactive storytelling."
 ---
 
 Look, I don’t know what the future of storytelling is going to look like. Plus, it’s safe to say the future of storytelling will look like many things. I do believe, though, that one strand of the future of storytelling, particularly in its written (or at the very least, word-based) form, will be interactive. So, something like the classic of the genre, [Zork](https://en.wikipedia.org/wiki/Zork)? Well, not quite. A great starting point to explain what I’m thinking of is the GPT-2 powered AI Dungeon.

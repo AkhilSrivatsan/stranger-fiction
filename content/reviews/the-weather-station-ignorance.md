@@ -2,6 +2,7 @@
 title: 'The Weather Station: Ignorance'
 date: 2021-02-09T00:00:00.000Z
 subcategory: Music
+description: "Tamara Lindeman's album as a double-exposure: heartbreak and climate grief layered over the same image, each reading making the other more true."
 ---
 
 ## The State of Things

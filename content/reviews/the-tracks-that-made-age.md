@@ -2,6 +2,7 @@
 title: The tracks the made Age
 date: 2020-06-09T00:00:00.000Z
 subcategory: Music
+description: "Rediscovering a private Bandcamp upload five years later — and how an embarrassing old song cycle called Age gave the new album its musical thread."
 ---
 
 #### Find a mixtape of the tracks [here](https://www.youtube.com/playlist?list=PLMWENhvUL7VGrRqd1fUP2Wh34qcHxiSkc).

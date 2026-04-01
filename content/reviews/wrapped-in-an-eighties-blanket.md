@@ -2,6 +2,7 @@
 title: Wrapped in an eighties blanket with a faux eighties pillow
 date: 2020-06-20T00:00:00.000Z
 subcategory: Music
+description: "An eighties playlist assembled mid-binge — synths and strong snares as a portal to Mumbai beer-and-fried-food nights and aircon Sunday afternoons."
 ---
 
 Earlier this week, I discovered the [Nation of Language’s *Introduction, Presence*](https://coconut-nonagon-m8nj.squarespace.com/nation-of-language-introduction-presence), and have been  on an eighties music binge since. In my mind, songs from the eighties are always juxtaposed with images of Mumbai’s many beer-and-fried-food establishments. Rainy nights, silly conversation, old friends who are now scattered around the world, out of reach. :( 

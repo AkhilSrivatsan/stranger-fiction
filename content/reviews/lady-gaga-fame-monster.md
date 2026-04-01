@@ -2,6 +2,7 @@
 title: 'Lady Gaga: The Fame Monster'
 date: 2023-04-30T00:00:00.000Z
 subcategory: Music
+description: "Watching a hypermodel take a selfie prompts a comparison to Van Gogh's self-portraits — and a question about which generation is truly the narcissistic one."
 ---
 
 The hypermodel before me sticks her arm out a couple feet to take what must be an immaculately captured self-portrait that’d put Van Gogh’s to shame. In doing so, she reveals her pronounced wristbones, bony arms, pale and sunken pits, textbook indicators of poor nourishment. Years of practice have beaten much of the need to stereotype out of my chimp brain, but turns out the cliché about hypermodels might well be true here.

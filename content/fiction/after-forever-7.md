@@ -2,6 +2,7 @@
 title: After Forever – 7
 date: 2024-06
 subcategory: After Forever
+description: "After the unpairing, the narrator finds unexpected relief in deciding they are not human — just a metaphor for one, finally free of the obligation to seek."
 ---
 
 Maybe we’re metaphors. We live metaphorical lives. We do metaphorical things with our metaphorical hands and go metaphorical places with our metaphorical feet. No human alive today has been to the Pyramids of Giza. Or the Taj Mahal. Or the supermarket. Or to a lover’s apartment. No human alive today has felt the palm of another’s hand. Or the flesh of an orange. Or the curvature of their own nose. We don’t know what colour our eyes might have been; through the genetic makeup of my pre-Stew ancestors, I can guess that mine would’ve likely been a dark shade of brown, but nobody knows for sure. We don’t know what roses smelled like. Or sweat. Or breath. 

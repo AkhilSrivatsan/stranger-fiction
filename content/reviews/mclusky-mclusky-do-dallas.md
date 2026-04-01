@@ -2,6 +2,7 @@
 title: 'Mclusky: Mclusky Do Dallas'
 date: 2021-05-28T00:00:00.000Z
 subcategory: Music
+description: "On Mclusky Do Dallas as a meditation for the over-serious: how 36 minutes of post-hardcore bakchod lyricism reminds you that you're not the centre of the universe."
 ---
 
 In my ever-evolving list of favourites, one album that’s almost always made it to my list of (ten, twenty, who knows how many) favourite albums is *Mclusky Do Dallas*. I could tell you it’s because the album’s thirty-six minutes of an all-out post-hardcore sonic assault. Or that I find myself tickled by the*bakchod** lyricism and tongue-in-cheek song titles. Or that I think one of the things the Welsh band do fantastically well – other than, of course, Dallas – is identify that the correct length of an earworm in the world that punk spawned is under 3 minutes; they don’t get greedy, they get lost neither in their own heads nor in their groove. But the fact is, the real reason this album grabs me has a lot more to do with the emotional response it evokes than this sort of over-intellectuallised analysis.

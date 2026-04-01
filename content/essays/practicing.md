@@ -1,5 +1,6 @@
 ---
 title: "Practicing"
+description: "On the day after a great gig: why practice differs from preparation, and how the same logic applies to pitches, eulogies, and overworking until you're sick."
 ---
 
 # Practicing music

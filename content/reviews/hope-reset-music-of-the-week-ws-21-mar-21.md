@@ -2,6 +2,7 @@
 title: Hope • Reset / WS 21-Mar-21
 date: 2021-03-29T00:00:00.000Z
 subcategory: Music
+description: "A music-of-the-week dispatch that feeds the white wolf: using a playlist titled Hope • Reset to hold anxiety at bay during a season of personal upheaval."
 ---
 
 It’s hard for me to talk about the last two weeks from a musical perspective because so much has happened in my life outside of music. I’ve alluded to the personal and professional changes in my life, so I won’t go into the tacticals there. I will, however, take this time to reflect on what those changes have meant for me emotionally and psychologically. 

@@ -2,6 +2,7 @@
 title: 'Sonic Pi: a short introduction'
 date: 2020-09-05T00:00:00.000Z
 subcategory: Sonic Pi experiments
+description: "An introduction to Sonic Pi — the live coding music tool I'd wanted to try for eight years and finally did."
 ---
 
 #### An introduction

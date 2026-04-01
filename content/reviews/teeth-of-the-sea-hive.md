@@ -2,6 +2,7 @@
 title: 'Teeth of the Sea: Hive'
 date: 2024-12-15T00:00:00.000Z
 subcategory: Music
+description: "How Teeth of the Sea won three-am replays in a college dorm curation Olympics — and why their 2023 record Hive still earns that badge."
 ---
 
 When in college, I belonged to a subculture of dorm-dwellers that lived and breathed the music internet. In doing so, we, in turn, were part of the global community of nerds that kept its recesses alive and breathing. I was a digital crate-digger: trawling last.fm, rateyourmusic and .ru forums for obscure records, then downloading them using torrent files that took hours to catch a seeder and hours more to download on the unstable BitTorrent clients I liked to use, and finally sharing it with fellow nerds who were also on the same journey. My aim was to find a record that would achieve the curator’s three-fer.

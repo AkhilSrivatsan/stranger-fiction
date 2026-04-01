@@ -2,6 +2,7 @@
 title: 'Thiago Nassef: Mente'
 date: 2020-07-25T00:00:00.000Z
 subcategory: Music
+description: "Rio's Thiago Nassif using Arto Lindsay to make the underground feel like a scene — Mente as a snapshot of Rio's avant-pop the way No New York was for No Wave."
 ---
 
 There’s something really beautiful about the destruction of dichotomies. I think most great music straddles that thin line between avant-garde and pop. Great music is often at once both experimental and accessible. Both underground and mainstream. In *Mente*, Rio de Janeiro’s Thiago Nassef constructs a funk/ jazz/ Tropicália concoction that strikes this balance immaculately.

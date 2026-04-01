@@ -1,5 +1,6 @@
 ---
 title: "Daedalus: Or what I learnt from deleting all the apps off my phone for two months"
+description: "Two months with no apps on the phone: what returned first was a daydream, and then a clear view of how badly Spotify had eaten the listening habit."
 ---
 
 # PART 1 OF 3 / THE MIDDLE

@@ -2,6 +2,7 @@
 title: After Forever – 4
 date: 2024-03
 subcategory: After Forever
+description: "The narrator consults their father about coming together; father's answer cuts through the philosophy to something blunt and human."
 ---
 
 *You’re not sure, *I half-ask.

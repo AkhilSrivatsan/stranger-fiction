@@ -2,6 +2,7 @@
 title: 'Talk Talk: The Colour of Spring, Spirit of Eden, Laughing Stock'
 date: 2025-04-29T00:00:00.000Z
 subcategory: Music
+description: "A looser, more personal note on Talk Talk's trilogy — candles, green-faced college nights, and wanting to catalogue instead of critique."
 ---
 
 Feels like candles burning, incense. These things were involved in the recording of *Spirit of Eden*, it is said. Mark Hollis may have come close to bankrupting a record company with the last two records of my favourite three-album run by an eighties band. Is Talk Talk my favourite eighties band? Probably. Even more so than that other eighties band that has something to do with talking. Heads, is it?

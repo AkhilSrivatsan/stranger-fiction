@@ -2,6 +2,7 @@
 title: Two Fantastic Planets
 date: 2021-01-15T00:00:00.000Z
 subcategory: Cinema & TV
+description: "Two works called Fantastic Planet — one a 1973 anti-oppression animated film, one a 90s alt-rock record — that share nothing but a name and can't be unlinked."
 ---
 
 ## Fantastic Planet, the movie

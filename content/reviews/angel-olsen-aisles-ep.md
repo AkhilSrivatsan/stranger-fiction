@@ -2,6 +2,7 @@
 title: 'Angel Olsen: Aisles EP'
 date: 2022-01-19T00:00:00.000Z
 subcategory: Music
+description: "Angel Olsen's covers EP as a launchpad for thinking about the cosmic loneliness underneath all human communication."
 ---
 
 When rid of all accoutrement and pretence, we’re all, at the end of the day, flesh, muscle, bone, and the unknowable quirk of chemistry that first spawned consciousness. It’s a quirk that has, on the one hand, allowed us to communicate with one another, while on the other, endowed us with the sort of idiosyncrasies that mean that, unless we evolve to become some sort of one-world one-consciousness slice-of-gaia type civilisation, all communication will forever be no more than an exercise in approximation: the inadequate meeting of mind-maps. 

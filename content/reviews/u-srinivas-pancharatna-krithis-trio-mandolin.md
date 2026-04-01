@@ -2,6 +2,7 @@
 title: 'U Srinivas: Pancharatna Krithis Trio Mandolin'
 date: 2021-02-04T00:00:00.000Z
 subcategory: Music
+description: "U. Srinivas playing Thyagaraja's Pancharatna Krithis on mandolin — a secular layperson's case for music that brings tremendous peace of mind."
 ---
 
 On the 1st of February, 2021, a scaled down 174th Thyagaraja Aradhana commenced in Thiruvaiyaru, a town near Thanjavur, Tamil Nadu. Every year, on the fifth day of the waning moon in the Hindu lunar month of Pushya, the *aradhana* is observed to remember Thyagaraja, a titan of Carnatic music. Over five days, musicians, aficionados, and devotees flock to Thiruvaiyaru both to pay their respects, and to participate and perform in *katcheris*. On the fifth day of the festival, thousands gather to perform Thyagaraja’s most revered composition, Pancharatna Krithikal, in unison. It’s an hour-long set of five*krithis* written in praise of the Hindu deity Rama. Previous performances have been led by such stalwarts as M. S. Subbulakshmi, Maharajapuram Santhanam, and [Mangalampalli Balamuralikrishna](https://open.spotify.com/album/1nISqeRq6HhsBs6U6PRih7?si=ygn_e5OuSOCMDCIgPGVYZg). It’s a spectacle unparalleled both in its simplicity and its scale.

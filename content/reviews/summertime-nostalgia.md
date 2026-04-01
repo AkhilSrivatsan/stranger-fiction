@@ -2,6 +2,7 @@
 title: Summertime nostalgia
 date: 2020-03-23T00:00:00.000Z
 subcategory: Music
+description: "An ever-growing playlist of South Asian music assembled on a hard day — comfort listening, no further explanation needed."
 ---
 
 #### Here’s a feel-good playlist

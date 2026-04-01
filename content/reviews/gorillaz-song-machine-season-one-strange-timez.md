@@ -2,6 +2,7 @@
 title: 'Gorillaz: Song Machine, Season One, Strange Timez'
 date: 2020-12-09T00:00:00.000Z
 subcategory: Music
+description: "How Gorillaz's Song Machine finally justified their audio-visual premise — the first time since their debut that they felt genuinely ahead of things."
 ---
 
 At different points in my life, I’ve obsessively spun records by the Cure, Beck, New Order, St. Vincent, ScHoolboy Q, and of course Gorillaz themselves. So obviously, this year’s set of Gorillaz releases piqued my interest, with a slow trickle of songs featuring the Cure’s Robert Smith, ScHoolboy Q, etc. Those releases culminated in a record, named for the video series that spawned it, [*Song Machine, Season One, Strange Timez*](https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz?si=h8nQQxnSS7OBlenNZHTVgA), which was released late October. Musically, it’s the sort of album that perfectly soundtracks the world in which it was made, 2020, the year of a pandemic whose worst is hopefully behind us.

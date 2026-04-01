@@ -2,6 +2,7 @@
 title: 'Arlo Parks: Collapsed in Sunbeams'
 date: 2021-01-29T00:00:00.000Z
 subcategory: Music
+description: "Arlo Parks's debut as warm winter company — bedroom pop that feels like flash fiction sung from a tattered diary, arriving at exactly the right moment."
 ---
 
 > You’re not alone / Like you think you are / We all have scars / I know it’s hard.

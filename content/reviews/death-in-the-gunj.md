@@ -2,6 +2,7 @@
 title: How men are made – A Death In The Gunj
 date: 2021-02-10T00:00:00.000Z
 subcategory: Cinema & TV
+description: "How A Death in the Gunj uses a sensitive young man's humiliation to expose what Indian patriarchy demands of its boys to become men."
 ---
 
 Earlier today, I watched *A Death in the Gunj* for the second time in my life. After two viewings, and two subsequent cryings, I can safely say it’s among my favourite movies ever. When writing about this movie, a lot can be said about Konkona Sen Sharma’s direction, especially considering this is her directorial debut, the performance of the movie’s ensemble cast, particularly Vikrant Massey’s turn as the reticent, soft-spoken Shutu, and the pacing of the script, which suits its story perfectly. But what I want to write about is what made both my viewings such powerful experiences: the interactions between its characters, how these interactions spur their growth, and how their growth, in turn, brings out the themes of this movie. I’ve sought to avoid spoilers in the piece that follows, particularly the movie’s titular one, so it should be a safe read even for those who haven’t seen the film.

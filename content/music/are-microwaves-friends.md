@@ -2,6 +2,7 @@
 title: Are Microwaves Friends?
 date: 2020-09-20T00:00:00.000Z
 subcategory: Sonic Pi experiments
+description: "Second Sonic Pi experiment: composing an original minimal house track from scratch, and hitting the character limit."
 ---
 
 My first experiment with Sonic Pi was all craft, no art, I’d say. The idea was to create a cover of *No Surprises* by Radiohead, the aim was to study arrangement, the result was a lullabylike rendition of the Radiohead classic, a successful experiment by my defined criteria. What I wanted to do next, in experiment no. 2, was use Sonic Pi for composition.

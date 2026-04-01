@@ -2,6 +2,7 @@
 title: 'Doomsday by MF DOOM, and the art of the comeback'
 date: 2020-08-15T00:00:00.000Z
 subcategory: Music
+description: "How Daniel Dumile turned near-homelessness and grief into MF DOOM — and why the alter-ego was itself a statement against the industry that destroyed him."
 ---
 
 ## I. The Finest

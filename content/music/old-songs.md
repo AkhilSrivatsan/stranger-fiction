@@ -2,6 +2,7 @@
 title: old songs
 date: 2020-06-15T00:00:00.000Z
 subcategory: Releases
+description: "Fourth single from my people are… — inspired by a memory of listening to Mogwai's Cody alone in a hostel room more than a decade earlier."
 ---
 
 [Apple Music](https://music.apple.com/us/album/old-songs/1514003532?i=1514003534)

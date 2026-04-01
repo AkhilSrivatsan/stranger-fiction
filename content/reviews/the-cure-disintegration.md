@@ -2,6 +2,7 @@
 title: 'The Cure: Disintegration'
 date: 2021-01-24T00:00:00.000Z
 subcategory: Music
+description: "How Disintegration works as a mood piece — on reverb as architecture, Smith's near-breaking-point sincerity, and why Lovesong elevates the whole thing."
 ---
 
 Maybe there’s a time and a place for everything. Maybe the best way to experience the Cure’s [*Disintegration*](https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS?si=2rzLz6FDTNq4HghTul5oig) is as a teenager, between spells of Mumbai’s monsoon downpours. An overcast 4 pm sky seen through the windows of a bedroom whose bookshelves are brimming with copies of*Problems in General Physics* by I E Irodov, *Principles of Physics* by Resnick, Halliday, and Krane, and other foundational texts of science and engineering. Or maybe there’s a time and a place for mood pieces in particular. Pieces like *Disintegration*, an album that answers the question*what do you get when you cross insecurity in the face of passing time with introspection and a general sense of malaise?* These emotions that link a nearly-thirty Robert Smith writing *Disintegration* with the aim of creating a musical masterpiece before that landmark age, and a teenager experiencing the purgatory that is high school between spells of Mumbai’s torrential monsoon downpours. 

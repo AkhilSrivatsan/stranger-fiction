@@ -2,6 +2,7 @@
 title: 'My Bloody Valentine: Loveless'
 date: 2021-02-08T00:00:00.000Z
 subcategory: Music
+description: "On Loveless as a breakup album — why Kevin Shields' guitar-as-soundsiege perfectly captures the mixed assault of fear, relief, and anger that follows the end of a relationship."
 ---
 
 ## Let’s talk about *Loveless*

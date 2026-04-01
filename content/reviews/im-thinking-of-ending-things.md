@@ -2,6 +2,7 @@
 title: Charlie Kaufman's i'm thinking of ending things
 date: 2020-12
 subcategory: Cinema & TV
+description: "A close reading of Kaufman's film as a portrait of an old janitor's fantasy life — on loneliness, ageing, pop culture, and the lies we tell ourselves to survive."
 ---
 
 ## A story about loneliness and ageing in an uncaring world.

@@ -2,6 +2,7 @@
 title: After Forever – 6
 date: 2024-04-15T00:00:00.000Z
 subcategory: After Forever
+description: "A confrontation with Anax about children, pairing, and a decade of misread essays — and who has actually been projecting onto whom."
 ---
 
 Anax is reading Deleuze when I ask them if they’re ready to talk. 

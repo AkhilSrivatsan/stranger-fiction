@@ -2,6 +2,7 @@
 title: 'Wilco: Yankee Hotel Foxtrot'
 date: 2021-08-13T00:00:00.000Z
 subcategory: Music
+description: "How Yankee Hotel Foxtrot accidentally captured post-9/11 America — and why no other album manages to feel light without ever feeling shallow."
 ---
 
 In today’s edition of the greatest records ever put to wax, Wilco’s seminal *Yankee Hotel Foxtrot*. Dropped on September 18, 2001, in an America deeply embroiled in that nation’s largest collective post-war trauma,*YHF* became an accidental synecdoche. Sonically, the album captured something of the upheaval and incongruity of that era in the history of America and the world, while lyrically striking a tone of surreal apathy. In perfecting this balancing act: a close-to-the-surface vulnerability, sheathed by a protective layer of sardonicity, the album has sealed a spot in the post-millennial popular music canon. Today, it epitomises the discomfort of introspection: the itching at scabs, the oozing blood, the bandaid that is side-eye always at hand.

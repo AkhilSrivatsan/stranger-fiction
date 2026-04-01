@@ -2,6 +2,7 @@
 title: 'Model/Actriz: Dogsbody'
 date: 2024-12-02T00:00:00.000Z
 subcategory: Music
+description: "On Dogsbody as the best post-punk record of 2023 — and on the transition from Crossing Guard to Slate as proof that a well-arranged album is a three-act play."
 ---
 
 Post-punk has made a strong resurgence of late. 

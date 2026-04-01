@@ -2,6 +2,7 @@
 title: 'Scientist: Heavyweight Dub Champion'
 date: 2020-11-05T00:00:00.000Z
 subcategory: Music
+description: "A dub album that had me running around the house looking for candles — and into a story of a producer fighting for royalties he never received."
 ---
 
 I know I spoke about *Super Ape* recently, and that should have been it as far as me and dub were concerned. For a while in fact that should've been it. But my goodness, [*Heavyweight Dub Champion*](https://open.spotify.com/album/0lH07we3igZlQ6nxNnmDyP?si=fONWqQggQMaql3iNgN6rHg) is more than just good, it's great. I went into this album cold, not knowing anything about it or Scientist. By the third song I was running around the house looking for candles and turning off all the lights. Oh good god it's so good, I can add the whole album to my inspiration playlist for my next album. 

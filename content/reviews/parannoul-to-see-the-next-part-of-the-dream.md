@@ -2,6 +2,7 @@
 title: '파란노을 (Parannoul): To See the Next Part of the Dream'
 date: 2021-03-26T00:00:00.000Z
 subcategory: Music
+description: "On anonymous Seoul student Parannoul and how bedroom shoegaze — once it required bankrupting a label — now conjures summer nostalgia for summers the maker never lived."
 ---
 
 After enough decades online, you can tell when you're listening to something that's going to become forum famous. As the clock ticks in the intro of *흰천장 (White Ceiling)* flood through my newly-set-up home theatre system, I can imagine years of greentext word-walls and /mu/ shitposts written by kids that look like younger versions of myself: kids who will blog obsessively about that night they discovered Parannoul. It helps that Parannoul’s internet presence is deliberately anonymous. Nothing is known about them beyond the fact that they're a student in Seoul – too shy to reveal their true identity, their music-making life kept secret from everyone, particularly their parents. If that backstory isn't forumcore fodder, I don't know what is. 

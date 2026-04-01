@@ -2,6 +2,7 @@
 title: 'Thou: Umbilical'
 date: 2024-12-03T00:00:00.000Z
 subcategory: Music
+description: "Thou's sludgy doom as seen from a dorm-era metal nerd's vantage — and why Umbilical earns its place across last.fm, /mu/, and every corner the genre occupies."
 ---
 
 I remember how I felt the first time I listened to Thou’s *Heathen*. 

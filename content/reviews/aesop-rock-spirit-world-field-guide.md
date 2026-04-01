@@ -2,6 +2,7 @@
 title: 'Aesop Rock: Spirit World Field Guide'
 date: 2020-12-16T00:00:00.000Z
 subcategory: Music
+description: "Aesop Rock at peak craft: a concept album built like a field guide, meant to be entered at random rather than consumed front to back."
 ---
 
 A few years ago, [this article](https://pudding.cool/projects/vocabulary/index.html) started doing the rounds of the internet, naming Aesop Rock as far-and-away the rapper with the largest vocabulary in the industry. This should give you a clue about what an Aesop track sounds like: he's a verbose, big-word user who raps over guitar and analog drum instrumental traxx. His wordy hip-hop tome, [*the Impossible Kid*](https://open.spotify.com/album/5z1f2kg8t4Evy3KZKu573d?si=Qly2KLSxQCytW0jzl8O6Pg) was among the best albums of 2016. It has since become among my go-to pump-up records.

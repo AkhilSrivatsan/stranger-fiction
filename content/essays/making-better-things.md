@@ -1,5 +1,6 @@
 ---
 title: "Making better things: 5 questions for the makers of things to ask"
+description: "Five questions for anyone building something: starting with what you'd rather be making, ending with whether you actually want to be the one doing it."
 ---
 
 First, the spoiler. The five questions are:

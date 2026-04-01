@@ -2,6 +2,7 @@
 title: LITTERING KILLS CROWS
 date: 2023-05
 subcategory: Stories
+description: "A woman stops traffic on a freeway with a slogan painted on her chest. Observed from a bridge, the scene becomes a meditation on conformity and the eccentric."
 ---
 
 She stands in the wake of the freeway's fastest lane, her eyes wide as saucers, her face glistening with sweat, her arms signalling in inscrutable semaphore. Two paces behind her, a green sundress lies still as a crime scene. On her bare chest, a peculiar slogan – LITTERING KILLS CROWS – is painted in black. Maybe it does, you think, from your perch on the bridge above. The cops are going to come for her, drape her in white, and throw her in the back of a car. LITTERING KILLS WOMAN. We all yearn to be saved. Since no one saves us, we resort instead to saving others.

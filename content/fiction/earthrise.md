@@ -2,6 +2,7 @@
 title: Earthrise
 date: 2023-05-01T00:00:00.000Z
 subcategory: Stories
+description: "A day observed from a city window — the idea that hell isn't other people, but how we see them, distorted by our own fractured selves."
 ---
 
 Maybe hell isn’t other people. Maybe hell is how we see other people. How we don't see them at all, but rather see shadowy reflections, echoes of our own fractured selves – a sneer where there should be a smile, a jeer where there's just a stone face. Like a funhouse mirror, they appear distorted, reflecting our own fragmented selves. We're caught in this cosmic dance, tangled in duality: brain-body, mind-brain, within-without.

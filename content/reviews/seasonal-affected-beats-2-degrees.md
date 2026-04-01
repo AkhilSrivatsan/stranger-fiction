@@ -2,6 +2,7 @@
 title: 'Seasonal Affected Beats: 2°'
 date: 2020-06-23T00:00:00.000Z
 subcategory: Music
+description: "Tarun Balani's debut electronic EP as IDM made for the pandemic summer — carefully crafted electronica that refuses to be dance-floor music."
 ---
 
 Off late, when on my long and storied travels through the far and near reaches of the internet, I’ve been particularly partial to thoughtful and thought-provoking electronic music and jazz (I’m really excited to share this jazz radio channel from Japan, but that’s for another day, probably tomorrow). At the intersection of these sounds, although admittedly way closer to electronic music than anything resembling jazz, is Seasonal Affected Beats’s EP *2°*.

@@ -2,6 +2,7 @@
 title: AI Dungeon — Experimenting with Dragon (GPT-3)
 date: 2020-08-15T00:00:00.000Z
 subcategory: New Media
+description: "A co-written GPT-3 story — and a record of what collaborative AI fiction actually looks and feels like in the moment of its making."
 ---
 
 My *AI Dungeon* saga continues. I’m now a paying subscriber of the game. Ten dollars monthly seemed like a fair price to pay for someone who walks around saying future of creativity, future of creativity to anyone who cares to listen. Besides I like subscription models. I like being tricked into parting with a larger some of money than I initially assumed I’d be spending; it’s quirky. But to be fair, I see a huge benefit of paying for the game. 

@@ -2,6 +2,7 @@
 title: 'Nicolas Jaar: Cenizas'
 date: 2020-06-04T00:00:00.000Z
 subcategory: Music
+description: "On Nicolas Jaar as the rare electronic artist whose ambient music is genuinely topical — asking what electronic music resistance looks like in an anxious geopolitical moment."
 ---
 
 You don’t need yet another person to tell you the world is in a messed up place. That globally, humanity seems to be at a strange crossroads. And that the future seems at best uncertain and at worst bleak. 

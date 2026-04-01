@@ -2,6 +2,7 @@
 title: 'Vashti Bunyan: Just Another Diamond Day'
 date: 2020-09-13T00:00:00.000Z
 subcategory: Music
+description: "How dismissal, a farming life in Scotland, and the early internet conspired to rescue Vashti Bunyan's pastoral folk masterpiece from oblivion."
 ---
 
 Around the time of its release, huff-and-puff chest-thumping big boys supposedly dismissed Vashti Bunyan’s 1970 acoustic-guitar-and-little-else folk album as childish in its wide-eyed pastorality. See while most seventies folk music from the UK did deal with themes of nature, *Just Another Diamond Day* did so without grand metaphor or metaphysical sulking, setting it apart from what was perhaps considered more serious music. Of course, since the album is near peerless in its beauty, its influence has since grown and grown.

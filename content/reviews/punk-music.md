@@ -2,6 +2,7 @@
 title: Punk music
 date: 2020-03-30T00:00:00.000Z
 subcategory: Music
+description: "An intro to an ever-growing playlist of punk and punk-adjacent music — post-punk, no wave, hardcore, dance-punk — curated for bedroom dancing and living in the present."
 ---
 
 #### I wish to wax lyrical about punk music and its offshoots.

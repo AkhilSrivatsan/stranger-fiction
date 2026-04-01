@@ -2,6 +2,7 @@
 title: After Forever – 1
 date: 2023-06
 subcategory: After Forever
+description: "In a post-body future, a narrator weighs whether to create new life with their partner Anax — and what reproduction even means without flesh."
 ---
 
 The decision at hand is whether we need to come together. Whether we should head to the reprod centre and submit our wiring for the three-month-long process of generating a new human being. Whether we should scan our dials for consent at the centre’s Promise Wing like Anika and Raji did last year, like the two Jays did the year before. Whether we should share the inner maps of our minds with strangers like that, even if they call themselves docs. 

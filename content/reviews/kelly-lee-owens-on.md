@@ -2,6 +2,7 @@
 title: 'Kelly Lee Owens: On'
 date: 2020-06-29T00:00:00.000Z
 subcategory: Music
+description: "On the On EP and Kelly Lee Owens' inventive use of the voice as pure instrument — and what it takes to do something genuinely new with a now-mainstream technique."
 ---
 
 In 2017, Kelly Lee Owens released her self-titled debut album: an album of melodic but obtuse electronic music and techno-infused pop. It was a fascinating record, and was one of my favourite albums of the year. Her followup, *Inner Song*, was slated for release on May 1 this year, but, due to the constantly unfolding crisis that is this pandemic, it will now be released on Aug 28. Last week, she released*On*, a track from the album, as a single with two additional tracks. If it’s any indication of what’s coming, it’s going to be another superb outing.

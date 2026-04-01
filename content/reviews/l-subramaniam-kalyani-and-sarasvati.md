@@ -2,6 +2,7 @@
 title: 'L. Subramaniam: Kalyānī & Sarasvatī'
 date: 2020-10-23T00:00:00.000Z
 subcategory: Music
+description: "On two L. Subramaniam Carnatic albums he keeps returning to — and the admission that his first reason for choosing them was the album covers."
 ---
 
 I wouldn't dare *rate* a Carnatic album. Come to think of it, I don't really *rate* albums in general. The first time I decided to 'get into' Carnatic music, in my late teens, I latched on to L. Subramaniam's music. Not knowing where to start, I got my hands on his discography and started from the beginning. One song melded into the next, and that one into the next, until it all just seemed like one wonderful-sounding monolith. 

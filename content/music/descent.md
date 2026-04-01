@@ -2,6 +2,7 @@
 title: descent
 date: 2020-06-10T00:00:00.000Z
 subcategory: Releases
+description: "A single about anxiety, released amid the grief following Sushant Singh Rajput's death — with an appendix on mental health."
 ---
 
 [Apple Music](https://music.apple.com/us/album/descent/1513977799?i=1513977800)

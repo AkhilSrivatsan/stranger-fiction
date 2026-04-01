@@ -2,6 +2,7 @@
 title: His House
 date: 2021-01-10T00:00:00.000Z
 subcategory: Cinema & TV
+description: "His House as the best kind of horror: where the true monster is colonial history and the life left behind, not whatever is going bump in the walls."
 ---
 
 A happy side effect of movies getting made specifically for smaller screens is smaller budget movies getting their time in the sun. Would a movie like [*His House*](https://www.netflix.com/watch/81231197) have gotten the sort of international release it got in pre-streaming days? Probably not, I think. And if ever you need to make a convincing argument to a Marvel-loving friend that a smaller budget doesn’t mean smaller themes,*His House* might be a great starting point.

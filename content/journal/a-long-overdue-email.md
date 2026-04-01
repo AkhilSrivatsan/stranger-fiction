@@ -1,6 +1,7 @@
 ---
 title: "A long overdue email"
 date: 2026-03-31
+description: "A note to readers after ten months of silence: still writing, still here, and Barcelona is almost ready."
 ---
 
 To you who are reading this, hello. Been a while. Maybe you’ve been reading since I was a blogger in a dorm room. Maybe you’ve been reading since the days of Stranger Fiction. Maybe you started reading more recently. Whatever it is, I’m grateful to be able to write to you. Thank you for reading.

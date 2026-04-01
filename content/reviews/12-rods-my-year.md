@@ -2,6 +2,7 @@
 title: '12 RODS: My Year (This Is Going To Be)'
 date: 2023-05
 subcategory: Music
+description: "An experiment in authenticity: four takes on a 12 RODS comeback single — one real, three written by GPT-3 in different emotional registers."
 ---
 
 Can a human being ever hold a truly authentic opinion that is totally unaffected by how they think others might perceive them for holding said opinion? 

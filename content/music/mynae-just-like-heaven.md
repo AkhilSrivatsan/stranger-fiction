@@ -2,6 +2,7 @@
 title: MYNAE – Just Like Heaven
 date: 2022-03
 subcategory: Releases
+description: "A house cover of the Cure's Just Like Heaven — released with a short meditation on what music is even for on the sixth of March, 2022."
 ---
 
 Wonder what the point of music is anyway; or film or television or books. Wonder what the point is of stories of spaceships exploring faraway planets – far out! – or of the precise way to measure the boiling point of a non-Newtonian fluid – wowee! Wonder what it is that is the point of it. Maybe it’s that you can shut yourself in a room, close the curtains, keep the world, with its cars and trains and planes, outside. That you can connect an 8.1 stereo system from the late aughts to a flat screen teevee from the early tens, and paint every little bit of black in the room blue. 

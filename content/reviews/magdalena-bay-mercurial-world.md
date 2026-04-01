@@ -2,6 +2,7 @@
 title: 'Magdalena Bay: Mercurial World'
 date: 2022-01-12T00:00:00.000Z
 subcategory: Music
+description: "On the late-night drive as a collective daydream — and Magdalena Bay's Mercurial World as its lost synth-pop soundtrack, a liminal space between what was and what might be."
 ---
 
 Wonder when the neon-lit late night drive entered our collective daydreams. Wonder when its now standardised images began to infest our streaming platforms, infecting them with thousands of *late night drive*playlists populated entirely by reverb-drenched vocals + soft synths over a pulsing bassine and a boom-bam kick-snare beat. What would an armchair-clad pop psychophilosopher type make of our collective imagining of streetlamps and stop signs speeding past trapezoidal windows at a hundred kilometers per hour? Millions of wheeled single-occupant monasteries speeding from an apartment to nowhere and back, past rooms of people with opinions on bottom lines, Kafka, and San Francisco’s real estate bubble. And what would such a grey-haired pipe-smoker think separated such late-night drives from the daily commute or the interstate roadtrip as he browsed the spread at his local tobacconists’?

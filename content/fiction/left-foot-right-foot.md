@@ -2,6 +2,7 @@
 title: 'Left Foot, Right Foot'
 date: 2022-10-15T00:00:00.000Z
 subcategory: Stories
+description: "A musician reckons with his twin sister's quiet, steady life — and the slow realisation that she may have been the one who got it right all along."
 ---
 
 # *ONE*

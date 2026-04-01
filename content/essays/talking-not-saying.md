@@ -1,5 +1,6 @@
 ---
 title: "You're talking a lot but you're not saying anything"
+description: "On the perverse incentives of LinkedIn, performative engagement, and why writing for yourself first is the only way to write anything that actually lands."
 ---
 
 I have a vision for the sort of mid-length essays I want to write. I think these essays could really add value to those who might want to read them – five dollars a month worth of value, in fact – if I spoke in an unfiltered way about growth (in the broadest sense of the word). Neither in the way stuffy books in the *Business Resources*section seem to reduce that complex question to a set of equations, nor in the way that podcasters and LinkedIn Top Voices and books in the*Self Development*section seem to reduce it to a set of banal platitudes. There is also value, I believe, in sharing ideas on a topic as interconnected as ‘growth’ real-time, as I'm experiencing and jostling with them: in the spirit of confessional poets and gonzo journalists. That's the spirit of the artist that's missing in those books and those online artifacts.

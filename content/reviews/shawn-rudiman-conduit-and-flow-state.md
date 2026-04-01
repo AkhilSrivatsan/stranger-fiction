@@ -2,6 +2,7 @@
 title: 'Shawn Rudiman: Conduit and Flow State'
 date: 2021-03-13T00:00:00.000Z
 subcategory: Music
+description: "On the confidence that comes from true mastery, via two Shawn Rudiman techno tapes that feel like a man who disappears into his studio every day."
 ---
 
 ## Mastery

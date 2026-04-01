@@ -2,6 +2,7 @@
 title: 'The Smashing Pumpkins: Siamese Dream'
 date: 2021-02-02T00:00:00.000Z
 subcategory: Music
+description: "How Geek U.S.A. became a teenage obsession and Siamese Dream became the benchmark for what an alt-rock album should be — all killer, no filler."
 ---
 
 ## Geek U.S.A.

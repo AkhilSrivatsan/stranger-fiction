@@ -2,6 +2,7 @@
 title: Omicron Records / Apoorva Raagangal
 date: 2021-12-28T00:00:00.000Z
 subcategory: Music
+description: "A used vinyl discovery becomes a detour into why old magnetic tape recordings sound so treble-heavy — and a fragile argument for cautious optimism about the future."
 ---
 
 In a used vinyl store in Bengaluru (Rams Musique, I think it was called), I discovered this 45 of the *Apoorva Raagangal* soundtrack. All I knew of the 1975 K Balachander film was that one, it was Rajnikanth’s debut as an actor. Two, it was controversial when it was released, much like many other movies by the director, and frankly most things in conservative Tamil Nadu. And three, it had a widely acclaimed soundtrack centred around the Carnatic music sung by its female lead played by Srividya.

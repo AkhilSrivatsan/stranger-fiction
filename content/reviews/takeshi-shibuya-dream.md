@@ -2,6 +2,7 @@
 title: 'Takeshi Shibuya: Dream'
 date: 2025-08-06T00:00:00.000Z
 subcategory: Music
+description: "On unlearning an association between piano jazz and a horrible boss — and finally being able to hear Takeshi Shibuya's Dream on its own terms."
 ---
 
 I once had an absolutely horrible boss. Many years ago; I was young, but I wasn’t an ingenue by any means. I had lived a fair bit of ‘life’, if you will, and had already begun to use that word to mean something larger than living. My understanding of that word still fit within the confines of my own being. I hadn’t yet begun to recognise that it’s infinitely larger than me. That realisation came later, probably helped along by this absolutely horrible boss.

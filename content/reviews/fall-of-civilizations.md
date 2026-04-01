@@ -2,6 +2,7 @@
 title: Fall of Civilizations TV
 date: 2021-01-05T00:00:00.000Z
 subcategory: Cinema & TV
+description: "Using the Fall of Civilizations podcast to process a year of pandemic dread — and finding, in the ruins of ancient empires, reasons not to despair."
 ---
 
 ## Fear Of A Dying Planet

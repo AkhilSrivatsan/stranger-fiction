@@ -2,6 +2,7 @@
 title: Lo-Fi Player explorations
 date: 2020-09-15T00:00:00.000Z
 subcategory: New Media
+description: "On Lo-Fi Player, a browser room where machine learning generates lo-fi hip-hop — and a first curious poke at what happens when an algorithm makes chill beats."
 ---
 
 Earlier today, I was introduced to [Lo-Fi Player](https://magenta.tensorflow.org/lofi-player), a browser-based virtual room in which you can generate instrumental lo-fi hip-hop tracks that’s powered by machine learning models from [magenta.js](https://magenta.tensorflow.org/js-announce). 

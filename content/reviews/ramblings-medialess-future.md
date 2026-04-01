@@ -2,6 +2,7 @@
 title: Ramblings on a medialess future
 date: 2020-09-10T00:00:00.000Z
 subcategory: New Media
+description: "On a future where the boundaries between media dissolve — and the attention-span crisis, the attention economy, and a cautious optimism that art will still find its audience."
 ---
 
 *The word media here is used to mean **the plural of medium**, not in the context of**the mainstream media**.*

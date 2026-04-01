@@ -2,6 +2,7 @@
 title: Home // Thoughts triggered by Stardew Valley
 date: 2021-03
 subcategory: New Media
+description: "Stardew Valley as a prompt for thinking about home — from prehistoric caves to pandemic apartments, and why nowhere quite feels like enough."
 ---
 
 In this latest stretch of the pandemic, I’ve taken to the weekend escape of Nintendo gaming. I’ve never been a gamer, but I suppose that’s only because I’ve been sold the wrong games. I’ve taken to the universe of Zelda, Mario, and Animal Crossing with the enthusiasm of a child, or perhaps more accurately, the spirit of an adolescent trapped in the body of an adult. I’m being unnecessarily unkind. In this new world, is it strange for one to want to disappear into magical otherworlds? In fact, even if we come out of this paralysing pandemic, isn’t it ok for people to indulge in whatever activity provides them comfort, as long as they aren’t harming anyone? So if I find comfort in my Nintendo Switch, then so be it, I say.

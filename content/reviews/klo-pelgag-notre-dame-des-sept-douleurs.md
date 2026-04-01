@@ -2,6 +2,7 @@
 title: 'Klô Pelgag: Notre-Dame-des-Sept-Douleurs'
 date: 2020-07-01T00:00:00.000Z
 subcategory: Music
+description: "On Klô Pelgag's Notre-Dame-des-Sept-Douleurs — a Québécois album that nearly brought him to tears in a language he doesn't speak."
 ---
 
 On 26 July, Québécois Canadian singer-songwriter Klô Pelgag released a jaw-droppingly stunning album, Notre-Dame-des-Sept-Douleurs. I wish I understood what she was singing, because even though I don’t, I feel like I get it; like all those things a human voice can do to you are happening to me all at once: their weight, heavy on my back, them coursing through my veins, lifting me up, pushing me down, other nonsensical sequences of words. This is no small feat given that I don’t parle francais, not at all. Luckily, the artist described the themes of her album on its bandcamp page. I think it’s wonderfully poignant, so I’m going to quote it here. 

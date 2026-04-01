@@ -2,6 +2,7 @@
 title: 'Peter Gabriel: So'
 date: 2020-07-11T00:00:00.000Z
 subcategory: Music
+description: "On Peter Gabriel's So — the unlikely 1986 album that topped charts worldwide while pulling off sampling and world music influences without a trace of orientalism."
 ---
 
 Truth is, I had written a long history of *So*, Peter Gabriel’s 1986 album, before I faced the very early 2000’s issue of my computer gobbling up my document without making an autosaved copy. Serves me write for using anything other than Google Docs in this day and age. Here are the bullet points:

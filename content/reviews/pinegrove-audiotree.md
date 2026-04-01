@@ -2,6 +2,7 @@
 title: 'Pinegrove: Pinegrove on Audiotree Live'
 date: 2023-07-15T00:00:00.000Z
 subcategory: Music
+description: "A fictional student reviewer attempts to describe Pinegrove's Audiotree session, gets distracted by rejection emails, and lands somewhere true about coming and going."
 ---
 
 A subcategory of human roams your city’s streets. Its members envy lizards, who get to shed their whiting skins to reveal brand-new coats. NEW MONTH NEW ME. They spend their waking hours vacillating between two poles. 

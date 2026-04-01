@@ -2,6 +2,7 @@
 title: 'On Zamrock: a psych-rock explosion in 70s Zambia'
 date: 2020-07-01T00:00:00.000Z
 subcategory: Music
+description: "On Zambia's brief psychedelic rock explosion — how independence, copper, and a radio mandate created WITCH and Amanaz, and why that music deserves to be heard on its own terms."
 ---
 
 A week ago, gripped by your usual seasonal feelings of inadequacy, I turned for comfort to [a playlist of Zamrock](https://open.spotify.com/playlist/7gJ5AstlyjTSWzpYiMlZC6?si=FOq16xrbTdCJ97Bj4bHvqw). I have since fallen in love with [*Lazy Bones*](https://witch-zambia.bandcamp.com/album/lazy-bones), the magnum opus of the genre’s archetypes, [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM?si=pbeihRNCSBmqUDujqiCAKQ) (We Intend To Cause Havoc), [*Africa*](https://open.spotify.com/album/1oX2uFCr3pIDL5M2ByEmm3?si=w-UKkzYoTC-TJW_1JwVDew) by Amanaz (Ask Me About Nice Artistes In Zambia — you’ve got to have a stomach for anagrams if you’re getting into this stuff), and [other](https://open.spotify.com/album/4910t2DpHO9RQd2XctS8wT?si=AkvAqkg-TM6I8Y6l2oB6Jw) [albums](https://open.spotify.com/album/6qCtWW3buD52Z2yRDSx0QF?si=WBnmkSs8T7S8JwFPh9oQ5A) from the scene in general. 

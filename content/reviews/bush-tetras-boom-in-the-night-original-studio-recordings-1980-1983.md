@@ -2,6 +2,7 @@
 title: 'Bush Tetras: Boom in the Night (Original Studio Recordings 1980​- 1983)'
 date: 2021-02-17T00:00:00.000Z
 subcategory: Music
+description: "The joy of finally finding a half-remembered bassline — and the story of Bush Tetras, NYC post-punk's most danceable overlooked band."
 ---
 
 Oh man I couldn’t tell you how excited I am. For a few days now, I’ve been walking around hearing the ghost of a scraggy bassline and spoken-sung vocals. I’ve been hearing this approximated old post-punk song, trying to recreate it in my head with nothing more than just that bassline and that voice. For a few nights, I’ve been typing in *female-fronted american post-punk band nineties*in search bar after search bar. After several manhours of searching, I’ve finally found the song, and the album that contains it. I couldn’t tell you how excited I am to finally be listening to Bush Tetras’ [*Boom in the Night (Original Studio Recordings 1980​-​1983)*](https://bushtetrasnyc.bandcamp.com/album/boom-in-the-night-original-studio-recordings-1980-1983). (The song I was half-hearing just before my head hit the pillow for the last few nights is their most popular recording –*Too Many Creeps*). 

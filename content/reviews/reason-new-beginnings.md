@@ -2,6 +2,7 @@
 title: 'REASON: New Beginnings'
 date: 2020-10-20T00:00:00.000Z
 subcategory: Music
+description: "On recommending a hip-hop album he himself can't finish — and an honest account of growing estrangement from a genre whose double standards have become harder to ignore."
 ---
 
 I’ve been struggling with hip-hop for a long time now. Like I haven’t had any ‘gang’ experience. And it’d be disingenuous to pretend much of hip-hop doesn’t harbour shitty attitudes towards fifty percent of the human population. That stuff is often explained away: playing a character, truthfully portraying a life led by a section of society over-represented in hip-hop — ‘gangbangers’. We’ve broadly accepted that hip-hop plays by a different set of rules from the rest of us. Well I’ve been struggling with that, and as a consequence, I’ve been speaking about hip-hop less frequently than I would’ve earlier in my life. 

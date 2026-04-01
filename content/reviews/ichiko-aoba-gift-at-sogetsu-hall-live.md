@@ -2,6 +2,7 @@
 title: 'Ichiko Aoba: "gift" at Sogetsu Hall (Live)'
 date: 2020-06-09T00:00:00.000Z
 subcategory: Music
+description: "Ichiko Aoba live at Sogetsu Hall: one woman, one guitar, 78 minutes of calm so complete it can feel overwhelming."
 ---
 
 This album is so beautiful it can sometimes feel overwhelming. This is 78 minutes of straight-out bliss mistakenly labeled an album. The thing that’s get me most about it is its simplicity: one woman playing an acoustic guitar and singing, that’s it. I can’t think of music as good as this being as effective at inducing a sense of calm as this… to imagine this was just a single performance, recorded live in a concert hall in Tokyo. 

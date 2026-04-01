@@ -2,6 +2,7 @@
 title: Everything And 1 Half / WS 7 Mar 2021
 date: 2021-03-14T00:00:00.000Z
 subcategory: Music
+description: "A week of moving apartments, Stardew Valley, electronic music, and Punjabi folk — held together by Chumbawamba and a cautious feeling of good."
 ---
 
 It’s all been a little everything and a half last week. Yes, I took a week off from Stranger Fiction, but it was hardly a week off from life. There was picking a new apartment, picking new furniture, picking new clothes that more reflected my tummy’s post-2020 girth while still attempting to make me resemble my pre-2020 self. It’s all been a bit exhausting. But here I am, on the other side of the week, and embarking on new professional and personal challenges; for someone who is as forthcoming with the negatives as I am [1], I must say I’m feeling good: good and a half, perhaps. I hope I don’t jinx it by admitting this; I’d like to ride this feeling for a bit.

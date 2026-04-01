@@ -2,6 +2,7 @@
 title: 'The Soft Pink Truth: Shall We Go On Sinning So That Grace May Increase'
 date: 2020-06-03T00:00:00.000Z
 subcategory: Music
+description: "On the 'distractingly good' test for ambient music — and an album by Matmos's Drew Daniel that, like the great ambient records, refuses to be hotel lobby music."
 ---
 
 I’ve been wondering. What’s good music? To 2020’s layperson (of which I consider myself one) attempting to describe what good popular music is (as opposed to classical music), I think the following definition works well.

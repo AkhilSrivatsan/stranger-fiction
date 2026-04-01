@@ -2,6 +2,7 @@
 title: 'Cake: Comfort Eagle'
 date: 2020-11-22T00:00:00.000Z
 subcategory: Music
+description: "Comfort Eagle used to soundtrack Sunday afternoon escape; now it induces white-knuckled panic. On what adulthood quietly steals from you."
 ---
 
 I suspect there’s a certain type of nostalgia-prone socially anxious everteen who gravitates to Cake’s music. There’s a certain type of person who finds kinship in Vince DiFiore’s trumpet and John McCrea’s sardonic speak-singing. It takes a certain kind of person to argue, absent irony, that the greatest cover song ever recorded is Cake’s version of *I Will Survive*, even when faced with well-made arguments and protestations. I’m the certain type of person that prevents emotional freefall with sessions of*Nugget*heard on loop, these sessions serving up the kind of pep no talk can give me. Nobody’s allowed to tough-love me. Nobody, that is, with the exception of John McCrea. 

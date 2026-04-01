@@ -1,5 +1,6 @@
 ---
 title: "How to go from staring at your screen aimlessly to closing a draft without deleting your phone"
+description: "A practical sequence for finishing a draft: start on paper, transcribe as a second draft, fact-check last, and only then let the LLM into the room."
 ---
 
 Look at this water lily I once found in a pond.

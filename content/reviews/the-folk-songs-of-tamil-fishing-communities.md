@@ -4,6 +4,7 @@ title: >-
   Tamil Fishing Communities
 date: 2021-01-18T00:00:00.000Z
 subcategory: Music
+description: "Sea shanties on TikTok led here: the work songs of Tamil fishing communities, a radio station called Kadal Osai, and what folk music actually is for."
 ---
 
 ## An introduction: talking about folk music

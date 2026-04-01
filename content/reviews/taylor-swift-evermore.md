@@ -2,6 +2,7 @@
 title: 'Taylor Swift: evermore'
 date: 2020-12-16T00:00:00.000Z
 subcategory: Music
+description: "On evermore as the fuller realisation of folklore's turn — from confessionalist to storyteller, with a true-crime murder ballad as evidence."
 ---
 
 Earlier this year, I wrote about Taylor Swift’s first album from 2020, [*folklore*](/the-music-box/taylor-swift-folklore). Earlier this week, Taylor Swift released her second album of the year, [*evermore*](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq?si=YVzbawpFSSubu5mlDCSHsQ). In many ways it continues the indie-themed acoustic guitar rock of*folklore*. But in some ways, it’s different. 

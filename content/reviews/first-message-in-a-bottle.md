@@ -2,6 +2,7 @@
 title: First message in a bottle
 date: 2020-03-19T00:00:00.000Z
 subcategory: Music
+description: "The very first dispatch: a pump-your-fist alt-rock playlist from the 80s through 00s, ending with Don't Stop Believin'."
 ---
 
 #### Today’s happy dispatch starts with a playlist.

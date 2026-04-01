@@ -2,6 +2,7 @@
 title: 'Bon Iver: SABLE, fABLE'
 date: 2025-05
 subcategory: Music
+description: "Bon Iver's return as an occasion to mourn the innocence that left when adulthood arrived — and an attempt to recover some of it."
 ---
 
 I’ve been tending towards nostalgia with music of late. Even in my sporadic writing about the music that’s been soundtracking my life, I’ve been thinking about the past more than usual. If I were to psychoanalyse myself, explain why – soundtracked by Bon Iver’s latest offering: a brilliant record, deliciously balanced between organic and manufactured, a sort of sonic midpoint between the self-titled debut and *22, A Million* – I could find a few culprits.

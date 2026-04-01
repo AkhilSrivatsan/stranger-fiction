@@ -2,6 +2,7 @@
 title: 'Failure: Fantastic Planet'
 date: 2022-01-29T00:00:00.000Z
 subcategory: Music
+description: "Failure's space-rock as a backdrop for three portrait sketches of people who fill their margins with stories rather than staying within the lines."
 ---
 
 On an often-wobbly bicycle she would trudge up a hill to attend course codes 105, 214, etc. from eight o’ something to one o’ something else; at about one forty-five, she’d speed back on that jittery hunkajunk to her matchbox room for a lunch of boiled peas and an afternoon spent reading. Math school has always had its share of storytellers: among integrals, divs and curls, there have always been a few, like her, who found compelling narratives. 

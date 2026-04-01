@@ -2,6 +2,7 @@
 title: 'Washed Out: Within and Without'
 date: 2020-05-20T00:00:00.000Z
 subcategory: Music
+description: "Chillwave's archetypical album, heard as a hostel-dweller — and the lingering question of why something this accessible never broke into the mainstream."
 ---
 
 I was a washed-up hostel-dweller during chillwave’s brief and wondrous life. I can’t imagine a better mental space to enjoy what I then (and now) considered the archetypical album of the (for some reason) much-maligned genre. I’d like to listen to this while sheltered under a blue umbrella on a white-sand beach that is neither too hot nor too cold, just temperate. 

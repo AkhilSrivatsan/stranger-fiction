@@ -2,6 +2,7 @@
 title: 'Dry Cleaning: New Long Leg'
 date: 2022-01-22T00:00:00.000Z
 subcategory: Music
+description: "Dry Cleaning's post-punk as a pretext for meditations on aging bodies, desire, and the strange intimacy of reading someone's calves."
 ---
 
 Your calves age you: each muscle, each sinew, a record of every mile you’ve walked, every minute you’ve stood around or milled about, every kilogram of excess weight you’ve carried. 

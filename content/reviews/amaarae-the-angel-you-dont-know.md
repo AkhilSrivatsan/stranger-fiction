@@ -2,6 +2,7 @@
 title: 'Amaarae: THE ANGEL YOU DON’T KNOW'
 date: 2020-11-20T00:00:00.000Z
 subcategory: Music
+description: "Amaarae's Afropop as the sound of hazy nocturnal comfort — the album that made him miss dancing under thatch at a beach bar that never quite existed."
 ---
 
 Amaarae's THE ANGEL YOU DON’T KNOW is a reverb-heavy mix of Afropop, trap, hip-hop and R&B. With unbelievably tight production, the album's sound is a cohesive formulation of hip-swinging baselines, head-bopping beats, and just-so melodies, all topped off with Amaarae's self-assured vocal delivery that alternates between whispers, sing-song rapping and straight singing. The Accra-based Ghanaian-American singer has released one of the most infectious 35 minutes of pop I've heard in a years.

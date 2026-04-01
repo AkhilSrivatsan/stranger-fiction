@@ -2,6 +2,7 @@
 title: 'Portishead: Dummy'
 date: 2020-12-25T00:00:00.000Z
 subcategory: Music
+description: "Dummy as a feeling: sitting at the edge of someone else's party, empty glass in hand, room spinning gently — telling yourself things may not be perfect, but they'll get better."
 ---
 
 ## The Music of Dummy

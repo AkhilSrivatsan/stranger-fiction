@@ -2,6 +2,7 @@
 title: Radio Schizoid
 date: 2020-06-21T00:00:00.000Z
 subcategory: Music
+description: "On discovering Radio Schizoid, a Mumbai psybient/dub/deep house stream — and a detour into the Konami Code-inspired folder system he once used to sort his music."
 ---
 
 I guess they’d call [this Mumbai based radio channel I discovered on Radio Garden](https://radio.garden/listen/radio-schizoid/UcH57lai) a mix of psybient and dub and deep house. 

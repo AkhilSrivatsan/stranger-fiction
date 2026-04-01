@@ -2,6 +2,7 @@
 title: The Calm / WS 28 Feb 2021
 date: 2021-03-08T00:00:00.000Z
 subcategory: Music
+description: "A week in transit between cities and careers — the music of the calm before the storm, from Simla Beat to Zamrock to a four-hour radio show about Bam Bam."
 ---
 
 I’m about to take my next professional plunge (in less than a week now), and also my next residential plunge (in about the same timeframe), so this has been a week of planning, anticipation, and anxiety. As I sit down to write this week’s *Music*column, I’ve spent the last seven days running from house to house, furniture shop to furniture shop, and introduction to introduction. My mood is one of cautious excitement.

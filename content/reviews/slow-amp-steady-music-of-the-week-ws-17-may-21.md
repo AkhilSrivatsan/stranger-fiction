@@ -2,6 +2,7 @@
 title: WS 17-May-21 / Slow and Steady
 date: 2021-05-20T00:00:00.000Z
 subcategory: Music
+description: "A playlist built around staying the course — from Portishead's 'all for nothing' to Kendrick's 'we're going to be alright,' and the tension between them."
 ---
 
 Throughout human history, we have passed down our most fundamental truths through fables and parables. Cultures across space and time are united by the use of didactic stories to convey deep and deceptively banal values. Buddhist India had the *Jataka Tales*. The Arabian Peninsula had*One Thousand and One Nights*. And in the nineteenth century, the Brothers Grimm paraphrased several European folk stories into parables like*Little Red Riding Hood*. Each of these tales is an allegory for some simple truth, obvious enough to border on cliché, elusive enough to be lost in the day-to-day. 

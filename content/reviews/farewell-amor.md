@@ -2,6 +2,7 @@
 title: Ekwa Msangi's Farewell Amor
 date: 2021-02-05T00:00:00.000Z
 subcategory: Cinema & TV
+description: "An Angolan family reunited after 17 years of separation — and how Farewell Amor finds, in their awkward reacquaintance, something quietly hopeful."
 ---
 
 (Is this my favourite among all of the 2020 movies I’ve seen so far? Maybe.)

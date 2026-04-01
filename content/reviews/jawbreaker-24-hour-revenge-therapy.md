@@ -2,6 +2,7 @@
 title: 'Jawbreaker: 24 Hour Revenge Therapy'
 date: 2021-02-25T00:00:00.000Z
 subcategory: Music
+description: "On finding Jawbreaker's emotionally raw lyricism in early adulthood — and how a disproportionate response to life's woes can feel absolutely justified."
 ---
 
 Maybe there’s a certain age you’ve got to be to get completely hooked on to the sort of evocatively emotional lyricism you find on Jawbreaker’s third album, *24 Hour Revenge Therapy*. Take for example*Ashtray Monument*. 

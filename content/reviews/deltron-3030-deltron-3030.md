@@ -2,6 +2,7 @@
 title: 'Deltron 3030: Deltron 3030'
 date: 2021-06-22T00:00:00.000Z
 subcategory: Music
+description: "Del the Funky Homosapien's dystopian hacker-hero rap from 2000 — why its paranoia about technology feels less fictional now than it did then."
 ---
 
 Y2K was a year in which paranoia about technology and how it would interface with and perhaps obliterate humankind reached a fever pitch. The dot-com bubble had just burst, billions of people were convinced billions of dollars would just be wiped out at the start of the new millennium, and anyone with a personal computer worried themselves sick about the Y2K bug.

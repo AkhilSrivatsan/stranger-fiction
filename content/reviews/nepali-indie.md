@@ -2,6 +2,7 @@
 title: Nepali Indie
 date: 2020-05-25T00:00:00.000Z
 subcategory: Music
+description: "A lockdown-era discovery of Nepali indie music — curated out of nostalgia for five simpler days in Nepal, with Jerusha Rai, Bipul Chhetri, and Bartika Eam Rai."
 ---
 
 I’m trying to remember happier times. It’s natural for most to pine for simpler more wondrous times when the going gets tough, but I’m particularly prone to nostalgia. For the last couple of days I’ve been particularly nostalgic about a visit to Nepal over a year ago. At a time when [migrant workers](https://goonj.org/donate/) across India are suffering unimaginable pain, but domestic air travel has resumed for those who can afford it, it’s hard to justify anything north of a respectful nostalgia for one’s own past international travels (basically anything more / other than *I’m happy and lucky to have experienced that* is more than I’m comfortable expressing). 

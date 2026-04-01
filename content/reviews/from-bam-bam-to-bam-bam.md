@@ -2,6 +2,7 @@
 title: From Bam Bam to Bam Bam
 date: 2021-03-26T00:00:00.000Z
 subcategory: Music
+description: "A listening session set with a rule: trace every song back to Sister Nancy's Bam Bam, forward to Toots and the Maytals, linked by collaboration and covers."
 ---
 
 A few weeks ago, I was introduced to this collective (?) from Chennai, India, called Focus Group Music, and it’s founder (?) Vidyuth Subramaniam. They do a weekly listening group every Friday, in which someone puts on a nearly-four-hour set of music they like, and they chat about it on their Discord [channel](https://discord.com/channels/743391587098296363/743765593009946644). When Vidyuth asked me if I’d like to do one on the 26th of March, I said yes, of course I’d like to do one. In the weekend following our chat, I compiled a set, *From Bam Bam to Bam Bam*, a playlist made in accordance with a simple rule. Starting from Sister Nancy’s*Bam Bam*, the playlist obeys the following rule until it circles back to Toots and the Maytals’*Bam Bam*, the song that directly inspired Sister Nancy’s track and consequently, the genre of dancehall. Each track from*Bam Bam*to*Bam Bam* is directly related to the previous one, either because their artists have collaborated, or they share producers, or an artist has released a prominent cover of the other artist.

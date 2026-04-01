@@ -2,6 +2,7 @@
 title: Ink
 date: 2022-10
 subcategory: Stories
+description: "In a European plaza, the scent of fountain pen ink carries a diaspora man back to his grandfather's storeroom in Tamil Nadu — and the secret life kept inside it."
 ---
 
 On a crowded square in an unfamiliar European city, you drown out the calls of an over-the-top man selling Turkish ice-cream with the sound of a man playing the piano. A decade ago, on your first night in highrise city, you’d played the same piano swells on gas-station earphones to blot out the sound of cars whizzing by as you strolled through the city’s arteries and found, by your estimation, a couple hundred cars for every walking human figure. Nobody in this city, you figured, walked for leisure; everyone but you seemed to be getting to point b from point a. 

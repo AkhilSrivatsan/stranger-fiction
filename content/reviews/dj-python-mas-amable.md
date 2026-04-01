@@ -2,6 +2,7 @@
 title: 'DJ Python: Mas Amable'
 date: 2020-12-22T00:00:00.000Z
 subcategory: Music
+description: "Reggaeton slowed to a drift: how DJ Python invented 'deep reggaeton' and made the dembow beat meditative rather than frenetic."
 ---
 
 In Spanish, *Mas Amable* means ‘more friendly’. True to its name, Brian Piñeyro’s second full-length under his DJ Python moniker is a calm, tropical, reggaeton-infused minimal house record. Combining the reggaeton that was ubiquitous in his time living in Miami with deep-house, the New York-based DJ’s latest work pushes the confines of a genre of his own creation — deep reggaeton.

@@ -2,6 +2,7 @@
 title: 'The Music of Mali: Part 2'
 date: 2020-09-01T00:00:00.000Z
 subcategory: Music
+description: "Part 2: Ali Farka Touré and Toumani Diabaté — a post-colonial story of the traditional meeting the western, neither ceding the limelight to the other."
 ---
 
 #### Ali Farka Touré: The Godfather of Desert Blues

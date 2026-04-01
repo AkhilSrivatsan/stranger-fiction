@@ -2,6 +2,7 @@
 title: 'Nouvelle Vague: Nouvelle Vague'
 date: 2023-01-24T00:00:00.000Z
 subcategory: Music
+description: "A fictional portrait of a lounge singer who performs bossa nova covers of punk songs — and what it costs to be the vehicle for other people's nostalgia night after night."
 ---
 
 The one thing that kept her going through a set was the promise of a beer, some fries, and a big burger on the other end. As she breezed through one lounge cover after another – from a smouldering rendition of *Love Will Tear Us Apart* through an absent-minded interpretation of *Making Plans For Nigel *to a decidedly non-punk version of the Undertones’ ode to unrequited love,*Teenage Kicks* – all she would visualise was that meal: bar food on bar china. To her, each impromptu *thank you* came a hundred times rehearsed, each playful laugh was a lesser version of a playful laugh from the same set played some-odd years ago. It was just another job on just another day. The one part of the drudgery of playing the same set of covers twice a week a few hundred weeks in a row that stirred any emotion at all in her heart bored still was that plate TJ and the gang would keep ready for her at her table in the corner by the stage. 

@@ -1,5 +1,6 @@
 ---
 title: "Writing"
+description: "A launch post for the Substack: on techno-optimism, LLMs used as crutches, and why bots talking to bots on LinkedIn is a solvable problem — if you care about writing."
 ---
 
 A welcome to subscribers from over at Stranger Fiction. Welcome to Akhil’s a Stranger, my Substack.  Here, I speak more personally, and holistically, about growth (self, product, commercial, all sorts). This allows Stranger Fiction to be a magazine of the arts, music, and culture, rather than what it became over the last few years: a magazine that meandered from topic to abandoned topic. 

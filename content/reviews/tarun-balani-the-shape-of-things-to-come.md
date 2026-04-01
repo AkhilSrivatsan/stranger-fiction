@@ -2,6 +2,7 @@
 title: 'Tarun Balani: The Shape Of Things To Come'
 date: 2020-11-10T00:00:00.000Z
 subcategory: Music
+description: "Tarun Balani's airy contemporary jazz EP — a nod to Ornette Coleman and a companion piece to his electronic work as Seasonal Affected Beats."
 ---
 
 I spoke about GoGo Penguin’s latest album [earlier this year](https://www.stranger-fiction.com/now-playing-1/gogo-penguin-gogo-penguin). Spoke about enjoying empty-white-room contemporary jazz. I also spoke about New Delhi jazz drummer Tarun Balani’s electronic project, Seasonal Affected Beats [earlier this year](https://www.stranger-fiction.com/now-playing-1/seasonal-affected-beats-2-degrees). His latest as bandleader, a 31-minute (empty-white-room contemporary) jazz EP *The Shape Of Things To Come [1]* is a lot more diverse than his material as Seasonal Affected Beats, while also being airy and very enjoyable. Check it out [here](https://open.spotify.com/album/08tnKOaMpSTdCaOXL0L5wC?si=p-fAfxnoS_Ku1tYBnS-DDQ).

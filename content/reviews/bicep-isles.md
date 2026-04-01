@@ -2,6 +2,7 @@
 title: 'Bicep: Isles'
 date: 2021-01-23T00:00:00.000Z
 subcategory: Music
+description: "Bicep's pandemic-era recalibration: dance music made for headphones instead of clubs, and why that quiet pivot is actually impressive."
 ---
 
 In his review of Bicep’s latest album, [*Isles*](https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9?si=qAgvhIuFSkmejds0N1uzFA), the Guardian’s veteran music critic, Alexis Petridis comes up with this expansion on what I call [the distractingly good test in the Age of Distraction](https://www.stranger-fiction.com/the-music-box). 

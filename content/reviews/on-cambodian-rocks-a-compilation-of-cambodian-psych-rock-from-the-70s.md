@@ -2,6 +2,7 @@
 title: 'On Cambodian Rocks, a compilation of Cambodian psych-rock from the 70s'
 date: 2021-02-26T00:00:00.000Z
 subcategory: Music
+description: "On the Cambodian psych-rock compilation whose artists were largely killed by the Khmer Rouge — and the impossible task of writing about the music without slighting the dead."
 ---
 
 Few genres of music are as well-travelled as the psych-rock of the seventies. Driving four-piece rhythm sections led by noodly pedal-pressed guitars seemed to have sprouted all over the world in the seventies, and created unique indigenous scenes in places those of us with a Eurocentric / America-centric view of the world (most of us, unfortunately) would least expect to find them. I've previously spoken with deep admiration about Zambia's [Zamrock scene](https://www.stranger-fiction.com/stories-of-music-discovery/on-zamrock), particularly Amanaz's *Africa* and WITCH's *Lazy Bones*. That scene met its end when the administration that provided it a stage soured on it as the global price of copper collapsed, taking Zambia's fledgling post-colonial economy with it. A similar but much bloodier fate awaited Cambodia's rich local psych rock scene in 1975 when the Khmer Rouge came to power.*Cambodian Rocks* compiles the music from the scene, made by the era’s musicians, most of whom were killed by the Khmer Rouge, who sought to purge society of its intellectuals and artists, seeing them as one of the key enemies of their vision of an ascendant communist society. 

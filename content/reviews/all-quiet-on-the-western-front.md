@@ -2,6 +2,7 @@
 title: All Quiet On The Western Front
 date: 2023-05
 subcategory: Cinema & TV
+description: "On the social pressure not to cry in cinemas — and whether 2022's All Quiet is brutal enough to finally make a dudebro break."
 ---
 
 The 2022 adaptation of "All Quiet on the Western Front" is more than a war film—it's a profound exploration of humanity amidst chaos. This cinematic journey, featuring trench warfare, World War I history, and stellar performances, delves into the raw reality of conflict, emphasising its emotional depth and enduring impact.

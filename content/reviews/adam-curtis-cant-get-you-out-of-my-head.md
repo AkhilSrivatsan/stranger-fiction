@@ -2,6 +2,7 @@
 title: Adam Curtis' Can't Get You Out Of My Head
 date: 2021-02-15T00:00:00.000Z
 subcategory: Cinema & TV
+description: "How Curtis's eight-hour essay film maps the tension between individualism and collectivism across seventy-five years of conspiracy, power, and myth."
 ---
 
 An introduction to a series about the 2021 docuseries, *Can’t Get You Out Of My Head*. 

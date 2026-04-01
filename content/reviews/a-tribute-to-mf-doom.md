@@ -2,6 +2,7 @@
 title: 'A Tribute to MF DOOM: A journal entry on Madvillainy from 2017'
 date: 2021-01-04T00:00:00.000Z
 subcategory: Music
+description: "A 2017 journal entry resurfaced as tribute: Madvillainy as the escape hatch from an existential crisis, and the album as mirror of a cyclic life."
 ---
 
 ## A journal entry from 2017: My Month in the Doldrums: Madvillainy

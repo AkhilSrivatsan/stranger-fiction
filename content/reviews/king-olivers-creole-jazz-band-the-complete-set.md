@@ -4,6 +4,7 @@ title: >-
   Penguin Jazz Guide
 date: 2020-12-30T00:00:00.000Z
 subcategory: Music
+description: "Part 1 of a Penguin Jazz Guide journey: on King Oliver, the birth of New Orleans jazz, its African-American roots, and why an Indian in Dubai is telling this story."
 ---
 
 Part 1 of [an ongoing series](https://www.stranger-fiction.com/stories-of-music-discovery/category/The+Penguin+Jazz+Guide).

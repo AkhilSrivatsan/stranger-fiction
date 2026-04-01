@@ -2,6 +2,7 @@
 title: 'Blind Melon: Blind Melon'
 date: 2025-07-28T00:00:00.000Z
 subcategory: Music
+description: "On Shannon Hoon and the song Change — a near-perfect piece of music that conjures a specific, irretrievable feeling of being fifteen on the first day of summer."
 ---
 
 Off late, I’ve been thinking once again about Verlyn Klinkenborg’s stylistic advice in *Several Short Sentences About Writing*.
