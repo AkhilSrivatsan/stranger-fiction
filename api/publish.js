@@ -15,11 +15,40 @@ module.exports = async function handler(req, res) {
     return res.status(400).json({ error: 'Missing required fields' });
   }
 
+  // Auto-generate description via Claude if not provided
+  let finalDescription = description;
+  if (!finalDescription && process.env.ANTHROPIC_API_KEY) {
+    try {
+      const aiRes = await fetch('https://api.anthropic.com/v1/messages', {
+        method: 'POST',
+        headers: {
+          'x-api-key': process.env.ANTHROPIC_API_KEY,
+          'anthropic-version': '2023-06-01',
+          'content-type': 'application/json',
+        },
+        body: JSON.stringify({
+          model: 'claude-3-5-haiku-20241022',
+          max_tokens: 100,
+          messages: [{
+            role: 'user',
+            content: `Write a 1-2 sentence description of this piece of writing. Write it for a human reader — capture what the piece is actually about or the specific angle it takes. Max 150 characters total. Reply with just the description, nothing else.\n\nTitle: ${title}\n\n${body.substring(0, 3000)}`,
+          }],
+        }),
+      });
+      if (aiRes.ok) {
+        const aiData = await aiRes.json();
+        finalDescription = aiData.content[0].text.trim().replace(/^["']|["']$/g, '').substring(0, 155);
+      }
+    } catch (e) {
+      // fail silently — build.js has a body-truncation fallback
+    }
+  }
+
   // Build frontmatter
   const fm = [`title: "${title.replace(/"/g, '\\"')}"`];
   if (date) fm.push(`date: ${date}`);
   if (subcategory) fm.push(`subcategory: ${subcategory}`);
-  if (description) fm.push(`description: "${description.replace(/"/g, '\\"')}"`);
+  if (finalDescription) fm.push(`description: "${finalDescription.replace(/"/g, '\\"')}"`);
 
   const content = `---\n${fm.join('\n')}\n---\n\n${body}\n`;
   const filePath = `content/${category}/${slug}.md`;
