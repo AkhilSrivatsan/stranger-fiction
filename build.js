@@ -17,7 +17,6 @@ const OUT_DIR = path.join(__dirname, 'site');
 const CATEGORIES = {
   fiction: {
     title: 'Fiction',
-    // Subcategories are defined via frontmatter `subcategory` field
     subcategories: ['After Forever', 'Stories'],
   },
   music: {
@@ -110,29 +109,101 @@ function loadCategory(category) {
 function formatDate(dateStr) {
   if (!dateStr) return '';
   const s = String(dateStr).trim();
-  // If the date is just "Mon DD" (no year), return it as-is rather than letting
-  // Date parse it into year 2001.
+  // If the date is just "Mon DD" (no year), return it as-is
   if (/^[A-Z][a-z]{2}\s+\d{1,2}$/.test(s)) return s;
   const d = new Date(s);
   if (isNaN(d)) return s;
-  // Avoid displaying year 2001 for dates that were clearly mis-parsed
   if (d.getUTCFullYear() <= 2001) return s;
   const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
                    'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
   return `${months[d.getUTCMonth()]} ${d.getUTCFullYear()}`;
 }
 
-/** The <head> block shared by all pages. pathPrefix is '' for root, '../' for subdirs. */
-function htmlHead(title, pathPrefix = '', description = '') {
-  const metaDesc = description
-    ? `\n    <meta name="description" content="${description.replace(/"/g, '&quot;')}">\n    <meta property="og:description" content="${description.replace(/"/g, '&quot;')}">`
-    : '';
+/** Strip markdown syntax to plain text, truncated to ~155 chars for meta descriptions. */
+function stripMarkdown(text) {
+  return text
+    .replace(/!\[([^\]]*)\]\([^)]+\)/g, '')       // images
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')       // links → text
+    .replace(/```[\s\S]*?```/g, '')                // fenced code blocks
+    .replace(/`([^`]+)`/g, '$1')                   // inline code
+    .replace(/^#{1,6}\s+/gm, '')                   // headings
+    .replace(/\*\*([^*]+)\*\*/g, '$1')             // bold
+    .replace(/\*([^*]+)\*/g, '$1')                 // italic
+    .replace(/^\s*[-*+]\s+/gm, '')                 // list bullets
+    .replace(/^\s*>\s+/gm, '')                     // blockquotes
+    .replace(/\n+/g, ' ')                          // newlines → spaces
+    .replace(/\s+/g, ' ')                          // collapse whitespace
+    .trim()
+    .substring(0, 155);
+}
+
+/** Wrap a date string in a semantic <time datetime="..."> element. */
+function timeElement(dateStr) {
+  if (!dateStr) return '';
+  const display = formatDate(dateStr);
+  if (!display) return '';
+  const d = parseDateSafe(String(dateStr).trim());
+  if (!d) return `<time>${display}</time>`;
+  const iso = d.toISOString().split('T')[0];
+  return `<time datetime="${iso}">${display}</time>`;
+}
+
+/** Escape a string for use in an HTML attribute value (double-quoted). */
+function escAttr(str) {
+  return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/"/g, '&quot;');
+}
+
+/** The <head> block shared by all pages.
+ *  @param {string} title        - Page <title> content
+ *  @param {string} pathPrefix   - '' for root pages, '../' for category subdirectory pages
+ *  @param {Object} options      - { description, canonical, type, extraHeadHtml }
+ */
+function htmlHead(title, pathPrefix = '', options = {}) {
+  const {
+    description = '',
+    canonical = '',
+    type = 'website',      // 'website' or 'article'
+    extraHeadHtml = '',    // additional tags injected before </head> (e.g. JSON-LD)
+  } = options;
+
+  const metas = [
+    `    <meta name="author" content="Akhil Srivatsan">`,
+  ];
+
+  if (description) {
+    metas.push(`    <meta name="description" content="${escAttr(description)}">`);
+  }
+  if (canonical) {
+    metas.push(`    <link rel="canonical" href="${escAttr(canonical)}">`);
+  }
+
+  // Open Graph
+  metas.push(`    <meta property="og:site_name" content="${escAttr(SITE_TITLE)}">`);
+  metas.push(`    <meta property="og:type" content="${type}">`);
+  metas.push(`    <meta property="og:title" content="${escAttr(title)}">`);
+  if (description) {
+    metas.push(`    <meta property="og:description" content="${escAttr(description)}">`);
+  }
+  if (canonical) {
+    metas.push(`    <meta property="og:url" content="${escAttr(canonical)}">`);
+  }
+
+  // Twitter card
+  metas.push(`    <meta name="twitter:card" content="summary">`);
+  metas.push(`    <meta name="twitter:title" content="${escAttr(title)}">`);
+  if (description) {
+    metas.push(`    <meta name="twitter:description" content="${escAttr(description)}">`);
+  }
+
   return `<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>${title}</title>${metaDesc}
+    <title>${title}</title>
+${metas.join('\n')}${extraHeadHtml}
     <link rel="icon" type="image/jpeg" href="${pathPrefix}favicon.jpg">
     <script>
       (function(){
@@ -171,25 +242,76 @@ var s=localStorage.getItem('size')||'small';document.documentElement.setAttribut
 }
 
 // ---------------------------------------------------------------------------
+// JSON-LD structured data
+// ---------------------------------------------------------------------------
+
+function websiteJsonLd() {
+  return JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: SITE_TITLE,
+    url: SITE_URL,
+    author: { '@type': 'Person', name: 'Akhil Srivatsan' },
+  }, null, 2);
+}
+
+function articleJsonLd(post) {
+  const obj = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: post.title,
+    url: `${SITE_URL}/${post.category}/${post.slug}`,
+    author: { '@type': 'Person', name: 'Akhil Srivatsan', url: SITE_URL },
+    publisher: { '@type': 'Person', name: 'Akhil Srivatsan', url: SITE_URL },
+  };
+  if (post.date) obj.datePublished = post.date.toISOString().split('T')[0];
+  if (post.description) obj.description = post.description;
+  return JSON.stringify(obj, null, 2);
+}
+
+function breadcrumbJsonLd(post) {
+  const categoryConfig = CATEGORIES[post.category];
+  return JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: SITE_TITLE, item: SITE_URL },
+      { '@type': 'ListItem', position: 2, name: categoryConfig.title, item: `${SITE_URL}/${post.category}` },
+      { '@type': 'ListItem', position: 3, name: post.title, item: `${SITE_URL}/${post.category}/${post.slug}` },
+    ],
+  }, null, 2);
+}
+
+// ---------------------------------------------------------------------------
 // Page generators
 // ---------------------------------------------------------------------------
 
 function buildIndex() {
-  const html = `${htmlHead(SITE_TITLE)}
+  const extraHeadHtml = `
+    <script type="application/ld+json">
+${websiteJsonLd()}
+    </script>`;
+
+  const html = `${htmlHead(SITE_TITLE, '', {
+    description: SITE_DESCRIPTION,
+    canonical: `${SITE_URL}/`,
+    type: 'website',
+    extraHeadHtml,
+  })}
 <body>
     <main>
         <header>
-            <div class="header-row"><h1><a href="index.html">${SITE_TITLE}</a></h1>${themeToggle()}</div>
+            <div class="header-row"><h1><a href="/">${SITE_TITLE}</a></h1>${themeToggle()}</div>
             <p class="intro">${SITE_DESCRIPTION}</p>
         </header>
 
         <nav>
             <ul>
-                <li><a href="fiction.html">Fiction</a></li>
-                <li><a href="music.html">Music</a></li>
-                <li><a href="essays.html">Essays</a></li>
-                <li><a href="reviews.html">Reviews</a></li>
-                <li><a href="journal.html">Journal</a></li>
+                <li><a href="fiction">Fiction</a></li>
+                <li><a href="music">Music</a></li>
+                <li><a href="essays">Essays</a></li>
+                <li><a href="reviews">Reviews</a></li>
+                <li><a href="journal">Journal</a></li>
             </ul>
         </nav>
 
@@ -205,6 +327,7 @@ ${footer()}
 function buildCategoryPage(category) {
   const config = CATEGORIES[category];
   const posts = loadCategory(category);
+  const canonical = `${SITE_URL}/${category}`;
 
   let body = '';
 
@@ -226,9 +349,9 @@ function buildCategoryPage(category) {
 
       body += '        <ul class="entries">\n';
       for (const post of items) {
-        const href = post.external || `${category}/${post.slug}.html`;
+        const href = post.external || `${category}/${post.slug}`;
         const dataAttr = category === 'reviews' ? ` data-subcategory="${sub}"` : '';
-        body += `            <li${dataAttr}><a href="${href}">${post.title}</a> <span class="date">${formatDate(post.dateDisplay)}</span></li>\n`;
+        body += `            <li${dataAttr}><a href="${href}">${post.title}</a> <span class="date">${timeElement(post.dateDisplay)}</span></li>\n`;
       }
       body += '        </ul>\n\n';
     }
@@ -236,8 +359,8 @@ function buildCategoryPage(category) {
     // Flat list
     body += '        <ul class="entries">\n';
     for (const post of posts) {
-      const href = post.external || `${category}/${post.slug}.html`;
-      body += `            <li><a href="${href}">${post.title}</a> <span class="date">${formatDate(post.dateDisplay)}</span></li>\n`;
+      const href = post.external || `${category}/${post.slug}`;
+      body += `            <li><a href="${href}">${post.title}</a> <span class="date">${timeElement(post.dateDisplay)}</span></li>\n`;
     }
     body += '        </ul>\n';
   }
@@ -281,35 +404,9 @@ function buildCategoryPage(category) {
     });
   }
 
-  function setFilter(name, el) {
-    current = name;
-    active.textContent = name === 'all' ? 'all' : '';
-    if (name !== 'all') active.style.display = 'none';
-    else active.style.display = '';
-    links.forEach(function(a){
-      var f = a.getAttribute('data-filter');
-      if (f === name) {
-        var span = document.createElement('span');
-        span.className = 'filter-active';
-        span.textContent = f.toLowerCase();
-        span.setAttribute('data-filter', f);
-        a.parentNode.replaceChild(span, a);
-      }
-    });
-    document.querySelectorAll('.filters .filter-active').forEach(function(s){
-      if (s !== active || name === 'all') {
-        // noop for 'all' active
-      }
-    });
-    // Simpler approach: rebuild the filter row
-    rebuildFilters();
-    apply();
-  }
-
   function rebuildFilters() {
     var container = document.querySelector('.filters');
     container.innerHTML = '';
-    // 'all' link or active
     if (current === 'all') {
       var s = document.createElement('span');
       s.className = 'filter-active';
@@ -323,7 +420,7 @@ function buildCategoryPage(category) {
       container.appendChild(a);
     }
     ${JSON.stringify(subs)}.forEach(function(sub){
-      container.appendChild(document.createTextNode(' \\u00b7 '));
+      container.appendChild(document.createTextNode(' \u00b7 '));
       if (sub === current) {
         var s = document.createElement('span');
         s.className = 'filter-active';
@@ -348,8 +445,7 @@ function buildCategoryPage(category) {
     });
   }
 
-  container = document.querySelector('.filters');
-  container.querySelectorAll('a').forEach(function(a){
+  document.querySelector('.filters').querySelectorAll('a').forEach(function(a){
     a.addEventListener('click', function(e){
       e.preventDefault();
       current = this.getAttribute('data-filter');
@@ -363,10 +459,14 @@ function buildCategoryPage(category) {
 </script>`;
   }
 
-  const html = `${htmlHead(`${config.title} — ${SITE_TITLE}`)}
+  const html = `${htmlHead(`${config.title} — ${SITE_TITLE}`, '', {
+    description: SITE_DESCRIPTION,
+    canonical,
+    type: 'website',
+  })}
 <body>
     <main>
-        <div class="header-row"><a href="index.html" class="back">← ${SITE_TITLE}</a>${themeToggle()}</div>
+        <div class="header-row"><a href="/" class="back">← ${SITE_TITLE}</a>${themeToggle()}</div>
         <h2>${config.title}</h2>
 
 ${filterUI}${body}
@@ -380,27 +480,93 @@ ${footer()}
   fs.writeFileSync(path.join(OUT_DIR, `${category}.html`), html);
 }
 
-/** Build an individual article page for a post with local content. */
-function buildArticlePage(post) {
-  if (!post.html || post.external) return; // skip external-only entries
+/** Build an individual article page.
+ *  @param {Object} post           - The post object
+ *  @param {Array}  categoryPosts  - All local posts in the same category, sorted newest-first
+ */
+function buildArticlePage(post, categoryPosts) {
+  if (!post.html || post.external) return;
 
   const categoryConfig = CATEGORIES[post.category];
-  const html = `${htmlHead(`${post.title} — ${SITE_TITLE}`, '../', post.description || '')}
+  const canonical = `${SITE_URL}/${post.category}/${post.slug}`;
+
+  // Auto-generate description from body if not in frontmatter
+  const description = post.description || stripMarkdown(post.body);
+
+  // Next (newer) / prev (older) within category — categoryPosts is newest-first
+  const idx = categoryPosts.findIndex(p => p.slug === post.slug);
+  const olderPost = idx < categoryPosts.length - 1 ? categoryPosts[idx + 1] : null;
+  const newerPost = idx > 0 ? categoryPosts[idx - 1] : null;
+
+  // Up to 4 other posts from same category for "More from" section
+  const morePosts = categoryPosts.filter(p => p.slug !== post.slug).slice(0, 4);
+
+  // JSON-LD for article + breadcrumb
+  const extraHeadHtml = `
+    <script type="application/ld+json">
+${articleJsonLd(post)}
+    </script>
+    <script type="application/ld+json">
+${breadcrumbJsonLd(post)}
+    </script>`;
+
+  // Next/prev navigation
+  let navHtml = '';
+  if (olderPost || newerPost) {
+    navHtml = `
+        <nav class="article-nav" aria-label="Article navigation">
+            <div>${olderPost ? `<a href="../${post.category}/${olderPost.slug}" class="nav-prev">← ${olderPost.title}</a>` : ''}</div>
+            <div>${newerPost ? `<a href="../${post.category}/${newerPost.slug}" class="nav-next">${newerPost.title} →</a>` : ''}</div>
+        </nav>`;
+  }
+
+  // More from category
+  let moreHtml = '';
+  if (morePosts.length > 0) {
+    const items = morePosts.map(p =>
+      `                <li><a href="../${post.category}/${p.slug}">${p.title}</a> <span class="date">${timeElement(p.dateDisplay)}</span></li>`
+    ).join('\n');
+    moreHtml = `
+        <section class="more-from-category">
+            <h3>More from ${categoryConfig.title}</h3>
+            <ul class="entries">
+${items}
+            </ul>
+        </section>`;
+  }
+
+  // Subscribe nudge
+  const subscribeCTA = `
+        <div class="subscribe-nudge">
+            <p>Get new pieces in your inbox \u2014 <a href="#" onclick="var f=document.getElementById('subscribe-form');f.style.display=f.style.display==='none'?'block':'none';return false">subscribe</a>.</p>
+        </div>`;
+
+  const html = `${htmlHead(`${post.title} — ${SITE_TITLE}`, '../', {
+    description,
+    canonical,
+    type: 'article',
+    extraHeadHtml,
+  })}
 <body>
     <main>
-        <div class="header-row"><a href="../${post.category}.html" class="back">← ${categoryConfig.title}</a>${themeToggle()}</div>
+        <div class="header-row">
+            <nav class="breadcrumb" aria-label="Breadcrumb">
+                <a href="../${post.category}" class="back">← ${categoryConfig.title}</a>
+            </nav>
+            ${themeToggle()}
+        </div>
 
         <article>
             <header class="article-header">
                 <h2>${post.title}</h2>
-                <p class="article-date">${formatDate(post.dateDisplay)}</p>
+                <p class="article-date">${timeElement(post.dateDisplay)}</p>
             </header>
 
             <div class="article-body">
                 ${post.html}
             </div>
         </article>
-
+${navHtml}${moreHtml}${subscribeCTA}
 ${footer()}
     </main>
 </body>
@@ -426,7 +592,6 @@ function escapeXml(str) {
 }
 
 function buildRSS(allPosts) {
-  // Only include posts that have local content (not external-only links)
   const feedPosts = allPosts
     .filter(p => p.html && !p.external)
     .sort((a, b) => (b.date || 0) - (a.date || 0))
@@ -436,7 +601,7 @@ function buildRSS(allPosts) {
 
   let items = '';
   for (const post of feedPosts) {
-    const link = `${SITE_URL}/${post.category}/${post.slug}.html`;
+    const link = `${SITE_URL}/${post.category}/${post.slug}`;
     const pubDate = post.date ? post.date.toUTCString() : now;
     items += `    <item>
       <title>${escapeXml(post.title)}</title>
@@ -461,6 +626,47 @@ ${items}  </channel>
 `;
 
   fs.writeFileSync(path.join(OUT_DIR, 'feed.xml'), rss);
+}
+
+// ---------------------------------------------------------------------------
+// Sitemap
+// ---------------------------------------------------------------------------
+
+function buildSitemap(allPosts) {
+  const buildDate = new Date().toISOString().split('T')[0];
+
+  let urls = '';
+
+  // Index
+  urls += `  <url>\n    <loc>${SITE_URL}/</loc>\n    <lastmod>${buildDate}</lastmod>\n  </url>\n`;
+
+  // Category pages
+  for (const cat of Object.keys(CATEGORIES)) {
+    urls += `  <url>\n    <loc>${SITE_URL}/${cat}</loc>\n    <lastmod>${buildDate}</lastmod>\n  </url>\n`;
+  }
+
+  // Article pages (local content only, not external links)
+  for (const post of allPosts) {
+    if (!post.html || post.external) continue;
+    const lastmod = post.date ? post.date.toISOString().split('T')[0] : buildDate;
+    urls += `  <url>\n    <loc>${SITE_URL}/${post.category}/${post.slug}</loc>\n    <lastmod>${lastmod}</lastmod>\n  </url>\n`;
+  }
+
+  const xml = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${urls}</urlset>
+`;
+
+  fs.writeFileSync(path.join(OUT_DIR, 'sitemap.xml'), xml);
+}
+
+// ---------------------------------------------------------------------------
+// robots.txt
+// ---------------------------------------------------------------------------
+
+function buildRobots() {
+  const content = `User-agent: *\nAllow: /\nSitemap: ${SITE_URL}/sitemap.xml\n`;
+  fs.writeFileSync(path.join(OUT_DIR, 'robots.txt'), content);
 }
 
 // ---------------------------------------------------------------------------
@@ -500,7 +706,7 @@ function build() {
     console.log('  images/');
   }
 
-  // CNAME for GitHub Pages custom domain
+  // CNAME for GitHub Pages custom domain (harmless on Vercel)
   fs.writeFileSync(path.join(OUT_DIR, 'CNAME'), 'akhilsrivatsan.com\n');
 
   // Build index
@@ -516,13 +722,12 @@ function build() {
     buildCategoryPage(category);
     console.log(`  ${category}.html (${posts.length} entries)`);
 
-    // Build individual article pages
+    // Build individual article pages (pass local posts for next/prev context)
+    const localPosts = posts.filter(p => p.html && !p.external);
     let articleCount = 0;
-    for (const post of posts) {
-      if (post.html && !post.external) {
-        buildArticlePage(post);
-        articleCount++;
-      }
+    for (const post of localPosts) {
+      buildArticlePage(post, localPosts);
+      articleCount++;
     }
     if (articleCount > 0) {
       console.log(`    → ${articleCount} article pages`);
@@ -532,6 +737,14 @@ function build() {
   // Build RSS feed
   buildRSS(allPosts);
   console.log('  feed.xml');
+
+  // Build sitemap
+  buildSitemap(allPosts);
+  console.log('  sitemap.xml');
+
+  // Build robots.txt
+  buildRobots();
+  console.log('  robots.txt');
 
   console.log(`\nDone. Output in ${OUT_DIR}`);
 }

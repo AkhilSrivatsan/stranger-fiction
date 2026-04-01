@@ -334,3 +334,58 @@ footer a:hover {
 .search-input:focus {
     border-bottom-color: var(--text);
 }
+
+/* Breadcrumb nav on article pages */
+.breadcrumb {
+    display: inline;
+}
+
+/* Article next/prev navigation */
+.article-nav {
+    display: flex;
+    justify-content: space-between;
+    gap: 1.5rem;
+    margin-top: 2.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--rule);
+    font-size: 0.85rem;
+}
+
+.article-nav div {
+    max-width: 48%;
+}
+
+.nav-prev {
+    text-align: left;
+}
+
+.nav-next {
+    text-align: right;
+    margin-left: auto;
+}
+
+/* More from category */
+.more-from-category {
+    margin-top: 2.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--rule);
+}
+
+.more-from-category h3 {
+    margin-top: 0;
+}
+
+/* Subscribe nudge */
+.subscribe-nudge {
+    margin-top: 2rem;
+    font-size: 0.85rem;
+    color: var(--muted);
+}
+
+.subscribe-nudge a {
+    color: var(--muted);
+}
+
+.subscribe-nudge a:hover {
+    color: var(--text);
+}
